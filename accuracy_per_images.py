@@ -11,18 +11,13 @@ def get_real_answer(qid):
     global answer_json
 
     answer = object()
-    answer_candidate = []
 
     for elem in answer_json['annotations']:
         # criteria: question_id
         if elem['question_id'] == qid:
             answer = elem
     
-    for elem2 in answer['answers']:
-        answer_candidate.append(elem2['answer'])
-
-    # 가장 빈도수가 높은 답변 리턴함.
-    return mode(answer_candidate)
+    return answer['multiple_choice_answer']
 
 def get_mymodel_answer(qid):
     global mymodel_json
