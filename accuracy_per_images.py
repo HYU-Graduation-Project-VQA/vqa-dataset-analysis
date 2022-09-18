@@ -56,5 +56,5 @@ if __name__ == '__main__':
             statistics[elem['image_id']]['incorrect'] += 1
     
 
-    with open("accuracy_per_questions_result.json", "w") as fp:
+    with open("accuracy_per_images_result.json", "w") as fp:
         json.dump(statistics,fp) 
