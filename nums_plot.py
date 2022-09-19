@@ -1,7 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 
-with open('v2_OpenEnded_mscoco_train2014_questions.json') as f:
+with open('val2014/v2_OpenEnded_mscoco_val2014_questions.json') as f:
     jsonData = json.load(f)
 
     questions = jsonData["questions"]
@@ -30,9 +30,14 @@ for elem in over_2_dict.values():
         nums_data[elem['nums']] += 1
 
 sorted_dict = sorted(nums_data.items())
+print(sorted_dict)
 x = []; y = []
 for elem in sorted_dict:
     x.append(elem[0])
     y.append(elem[1])
-plt.bar(x[1::], y[1::])
+plt.bar(x, y)
+plt.yscale('log')
+plt.xlabel('# of images')
+plt.ylabel('questions')
+# plt.xlim([0, 50])
 plt.show()

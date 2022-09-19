@@ -1,6 +1,6 @@
 import json
 
-with open('v2_OpenEnded_mscoco_train2014_questions.json') as f:
+with open('val2014/v2_OpenEnded_mscoco_val2014_questions.json') as f:
     jsonData = json.load(f)
 
     questions = jsonData["questions"]
