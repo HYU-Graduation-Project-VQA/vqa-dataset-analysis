@@ -2,7 +2,7 @@ import json
 from tqdm import tqdm
 
 RESULT_JSON = 'accuracy_per_questions_result.json'
-QUESTION_JSON = 'val2014/v2_mscoco_val2014_annotations.json'
+QUESTION_JSON = 'val2014_json/v2_mscoco_val2014_annotations.json'
 
 if __name__ == '__main__':
     true_count = dict()

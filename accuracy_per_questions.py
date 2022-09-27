@@ -3,9 +3,9 @@ import re
 from statistics import mode
 from tqdm import tqdm
 
-QUESTION_JSON = 'val2014/v2_OpenEnded_mscoco_val2014_questions.json'
-ANSWER_JSON = 'val2014/v2_mscoco_val2014_annotations.json'
-MYMODEL_JSON = 'val2014/val_answer.json'
+QUESTION_JSON = 'val2014_json/v2_OpenEnded_mscoco_val2014_questions.json'
+ANSWER_JSON = 'val2014_json/v2_mscoco_val2014_annotations.json'
+MYMODEL_JSON = 'val2014_json/val_answer.json'
 
 def get_real_answer(qid):
     global answer_json
