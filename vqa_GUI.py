@@ -10,10 +10,11 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 import json
 import h5py
+import math
 
-QUESTION_JSON = 'val2014/v2_OpenEnded_mscoco_val2014_questions.json'
-MYMODEL_JSON = 'val2014/val_answer.json'
-ANSWER_JSON = 'val2014/v2_mscoco_val2014_annotations.json'
+QUESTION_JSON = 'val2014_json/v2_OpenEnded_mscoco_val2014_questions.json'
+MYMODEL_JSON = 'val2014_json/val_answer.json'
+ANSWER_JSON = 'val2014_json/v2_mscoco_val2014_annotations.json'
 
 def get_real_answer(qid):
     global answer_json
@@ -155,12 +156,48 @@ class Ui_MainWindow(QtWidgets.QMainWindow):
         self.textBrowser_3.setPlainText(get_question_sentence(question_id))
         self.textBrowser_4.setPlainText(str(get_imageId(question_id)))
         
+        if not get_imageId(question_id):
+            return
+
         image_path = 'val2014/COCO_val2014_{img}.jpg'.format(img=str(get_imageId(question_id)).zfill(12))
         print(image_path)
         pix = QtGui.QPixmap(image_path)
+        w = pix.size().width()
+        h = pix.size().height()
+        pytha = math.sqrt(w **2 + h ** 2)
         item = QtWidgets.QGraphicsPixmapItem(pix)
         scene = QtWidgets.QGraphicsScene(self)
         scene.addItem(item)
+
+        try:
+            start, end = h5py_file['pos_boxes'][qid_list.index(question_id)]
+            print(start, end)
+        except ValueError:
+            print("QID {qid} is not in the list!".format(qid=question_id))
+            exit(0)
+
+        features = h5py_file['image_features'][start: end, :]
+        spatials = h5py_file['spatial_features'][start: end, :] # bounding box
+
+        # # create painter instance with pixmap
+        # self.painterInstance = QtGui.QPainter(self.pixmap_image)
+
+        # # set rectangle color and thickness
+        # self.penRectangle = QtGui.QPen(QtCore.Qt.red)
+        # self.penRectangle.setWidth(3)
+
+        # # draw rectangle on painter
+        # self.painterInstance.setPen(self.penRectangle)
+        for i in range(start - start, end - start):
+            bb = QtWidgets.QGraphicsRectItem(QtCore.QRectF(
+                spatials[i][0]* w, spatials[i][1]* h, 
+                spatials[i][4] * w, spatials[i][5] * h))
+            bb.setPen(QtGui.QColor(255, 0, 0)) # red
+            scene.addItem(bb)
+
+        # for i in range(start, end):
+        #     self.painterInstance.drawRect(spatials[i][0], spatials[i][1], spatials[i][2], spatials[i][3])
+
         self.graphicsView.setScene(scene)
 
 if __name__ == "__main__":
@@ -177,7 +214,9 @@ if __name__ == "__main__":
 
     print('opening h5py file ...')
     h5py_file = h5py.File('val.hdf5', 'r')
-    print(h5py_file.keys())
+    
+    with open("results/val2014_qids.json", "rb") as fp:
+        qid_list = json.load(fp)
     
     app = QtWidgets.QApplication(sys.argv)
     MainWindow = QtWidgets.QMainWindow()

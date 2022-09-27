@@ -1,5 +1,6 @@
 import h5py
 import numpy as np
+import json
 
 h5py_file = h5py.File('val.hdf5', 'r')
 
@@ -19,5 +20,21 @@ h5py_file = h5py.File('val.hdf5', 'r')
 
 # print(h5py_file['image_bb'])
 
-bounding_box = h5py_file['image_features'][()]
-print(bounding_box)
+qid = int(input("Question ID: "))
+
+with open("results/val2014_qids.json", "rb") as fp:
+    qid_list = json.load(fp)
+try:
+    start, end = h5py_file['pos_boxes'][qid_list.index(qid)]
+except ValueError:
+    print("QID {qid} is not in the list!".format(qid=qid))
+    exit(0)
+
+print(start, end)
+
+features = h5py_file['image_features'][start: end, :]
+spatials = h5py_file['spatial_features'][start: end, :]
+
+print(features)
+print()
+print(spatials)
