@@ -9,6 +9,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 import json
+import h5py
 
 QUESTION_JSON = 'val2014/v2_OpenEnded_mscoco_val2014_questions.json'
 MYMODEL_JSON = 'val2014/val_answer.json'
@@ -165,13 +166,19 @@ class Ui_MainWindow(QtWidgets.QMainWindow):
 if __name__ == "__main__":
     import sys
 
+    print('opening json files ...')
     with open(QUESTION_JSON) as f:
         question_json = json.load(f)
     with open(MYMODEL_JSON) as f:
         mymodel_json = json.load(f)
     with open(ANSWER_JSON) as f:
         answer_json = json.load(f)
+    print('finished opening json!')
 
+    print('opening h5py file ...')
+    h5py_file = h5py.File('val.hdf5', 'r')
+    print(h5py_file.keys())
+    
     app = QtWidgets.QApplication(sys.argv)
     MainWindow = QtWidgets.QMainWindow()
     ui = Ui_MainWindow()
