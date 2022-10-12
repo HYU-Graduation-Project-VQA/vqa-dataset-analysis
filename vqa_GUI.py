@@ -159,7 +159,7 @@ class Ui_MainWindow(QtWidgets.QMainWindow):
         if not get_imageId(question_id):
             return
 
-        image_path = 'val2014/COCO_val2014_{img}.jpg'.format(img=str(get_imageId(question_id)).zfill(12))
+        image_path = '../data/val2014/COCO_val2014_{img}.jpg'.format(img=str(get_imageId(question_id)).zfill(12))
         print(image_path)
         pix = QtGui.QPixmap(image_path)
         w = pix.size().width()
@@ -169,8 +169,11 @@ class Ui_MainWindow(QtWidgets.QMainWindow):
         scene = QtWidgets.QGraphicsScene(self)
         scene.addItem(item)
 
+        def question_id_to_image_id(question_id):
+            return str(question_id)[:-3]
+
         try:
-            start, end = h5py_file['pos_boxes'][qid_list.index(question_id)]
+            start, end = h5py_file['pos_boxes'][qid_list[question_id_to_image_id(question_id)]]
             print(start, end)
         except ValueError:
             print("QID {qid} is not in the list!".format(qid=question_id))
@@ -213,9 +216,9 @@ if __name__ == "__main__":
     print('finished opening json!')
 
     print('opening h5py file ...')
-    h5py_file = h5py.File('val.hdf5', 'r')
+    h5py_file = h5py.File('../data/val.hdf5', 'r')
     
-    with open("results/val2014_qids.json", "rb") as fp:
+    with open("results/val2014_qids_1004.json", "rb") as fp:
         qid_list = json.load(fp)
     
     app = QtWidgets.QApplication(sys.argv)
