@@ -1,0 +1,4129 @@
+{
+    "result": [
+        {
+            "question_id": 240301002,
+            "answer": "resting",
+            "logit": 0.8256879448890686,
+            "entropy": 0.5742257237434387,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 131617001,
+            "answer": "shadow",
+            "logit": 0.535017192363739,
+            "entropy": 2.578688621520996,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 131804002,
+            "answer": "parked",
+            "logit": 0.25252729654312134,
+            "entropy": 3.4467391967773438,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 132288004,
+            "answer": "moving",
+            "logit": 0.39919158816337585,
+            "entropy": 1.5666191577911377,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 263428000,
+            "answer": "yes",
+            "logit": 0.1493598371744156,
+            "entropy": 4.1020097732543945,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 263796002,
+            "answer": "old",
+            "logit": 0.86931973695755,
+            "entropy": 0.6555036902427673,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 133142000,
+            "answer": "yes",
+            "logit": 0.14720134437084198,
+            "entropy": 3.9630894660949707,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 395402005,
+            "answer": "for fun",
+            "logit": 0.24614596366882324,
+            "entropy": 3.3525664806365967,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 526940000,
+            "answer": "yes",
+            "logit": 0.15176016092300415,
+            "entropy": 4.6454925537109375,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 133827001,
+            "answer": "no",
+            "logit": 0.1752510517835617,
+            "entropy": 3.8055365085601807,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 265725002,
+            "answer": "to hit ball",
+            "logit": 0.31204140186309814,
+            "entropy": 2.352672576904297,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 528046000,
+            "answer": "yes",
+            "logit": 0.2748235762119293,
+            "entropy": 3.793161153793335,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 266434002,
+            "answer": "umpire",
+            "logit": 0.902492880821228,
+            "entropy": 0.5930335521697998,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 528257002,
+            "answer": "safety",
+            "logit": 0.14800357818603516,
+            "entropy": 3.246112108230591,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 398246007,
+            "answer": "cold",
+            "logit": 0.24514806270599365,
+            "entropy": 3.8064005374908447,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 546976003,
+            "answer": "yes",
+            "logit": 0.23908363282680511,
+            "entropy": 3.8620505332946777,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 398076001,
+            "answer": "tv",
+            "logit": 0.0642247125506401,
+            "entropy": 4.602980613708496,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 529515001,
+            "answer": "to hit ball",
+            "logit": 0.2441420555114746,
+            "entropy": 3.0032474994659424,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 398489000,
+            "answer": "sleeping",
+            "logit": 0.4859010875225067,
+            "entropy": 2.1488733291625977,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 267694007,
+            "answer": "no",
+            "logit": 0.11106247454881668,
+            "entropy": 4.267204284667969,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 398798000,
+            "answer": "to hit ball",
+            "logit": 0.8698017597198486,
+            "entropy": 0.6508758068084717,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 137260010,
+            "answer": "happy",
+            "logit": 0.9198595881462097,
+            "entropy": 0.5124183297157288,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 6450003,
+            "answer": "no",
+            "logit": 0.35489436984062195,
+            "entropy": 2.3234288692474365,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 399703001,
+            "answer": "no parking",
+            "logit": 0.8382205963134766,
+            "entropy": 0.6727855205535889,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 530941002,
+            "answer": "resting",
+            "logit": 0.7882973551750183,
+            "entropy": 0.5778393149375916,
+            "iscorrect": false,
+            "score": 4
+        },
+        {
+            "question_id": 399998004,
+            "answer": "crosswalk",
+            "logit": 0.24569953978061676,
+            "entropy": 3.1326868534088135,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 6783001,
+            "answer": "parasailing",
+            "logit": 0.30681657791137695,
+            "entropy": 2.6922543048858643,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 6896003,
+            "answer": "no",
+            "logit": 0.23781801760196686,
+            "entropy": 3.639357089996338,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 7278002,
+            "answer": "reflection",
+            "logit": 0.08849719166755676,
+            "entropy": 4.286861419677734,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 138728004,
+            "answer": "jumping",
+            "logit": 0.7571189999580383,
+            "entropy": 1.2677690982818604,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 8350002,
+            "answer": "resting",
+            "logit": 0.5354527831077576,
+            "entropy": 1.740996241569519,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 533536002,
+            "answer": "curious",
+            "logit": 0.3958219289779663,
+            "entropy": 3.0904135704040527,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 533979004,
+            "answer": "zoo",
+            "logit": 0.6562724113464355,
+            "entropy": 1.559820294380188,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 271852002,
+            "answer": "yes",
+            "logit": 0.14124993979930878,
+            "entropy": 3.568236827850342,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 272416000,
+            "answer": "broken",
+            "logit": 0.15455959737300873,
+            "entropy": 3.756897449493408,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 403792001,
+            "answer": "snowboarding",
+            "logit": 0.7734291553497314,
+            "entropy": 1.2422682046890259,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 404461006,
+            "answer": "sunny",
+            "logit": 0.36982715129852295,
+            "entropy": 1.4048049449920654,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 288442007,
+            "answer": "mountains",
+            "logit": 0.35576486587524414,
+            "entropy": 1.806330919265747,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 44029000,
+            "answer": "skiing",
+            "logit": 0.5498602390289307,
+            "entropy": 1.815416932106018,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 11727003,
+            "answer": "bathroom",
+            "logit": 0.07498354464769363,
+            "entropy": 4.621371746063232,
+            "iscorrect": true,
+            "score": 1
+        },
+        {
+            "question_id": 536235014,
+            "answer": "resting",
+            "logit": 0.4694784879684448,
+            "entropy": 1.9154309034347534,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 405183009,
+            "answer": "no",
+            "logit": 0.22805246710777283,
+            "entropy": 3.4279489517211914,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 405529001,
+            "answer": "to catch frisbee",
+            "logit": 0.5063132047653198,
+            "entropy": 2.272322416305542,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 405574002,
+            "answer": "bird",
+            "logit": 0.7853659391403198,
+            "entropy": 1.0034584999084473,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 143824001,
+            "answer": "dog",
+            "logit": 0.5997833609580994,
+            "entropy": 1.9115253686904907,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 275027004,
+            "answer": "yes",
+            "logit": 0.10509630292654037,
+            "entropy": 4.2198567390441895,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 537206001,
+            "answer": "yes",
+            "logit": 0.3564757704734802,
+            "entropy": 2.2313995361328125,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 406152002,
+            "answer": "rain",
+            "logit": 0.4184236228466034,
+            "entropy": 1.3624413013458252,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 45882000,
+            "answer": "resting",
+            "logit": 0.5633979439735413,
+            "entropy": 1.8117177486419678,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 537280001,
+            "answer": "rain",
+            "logit": 0.7694836258888245,
+            "entropy": 0.7534623742103577,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 275661001,
+            "answer": "yes",
+            "logit": 0.41551437973976135,
+            "entropy": 2.7800073623657227,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 537860006,
+            "answer": "brushing teeth",
+            "logit": 0.5109612941741943,
+            "entropy": 1.843827247619629,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 538319002,
+            "answer": "cold",
+            "logit": 0.8800606727600098,
+            "entropy": 0.5582126379013062,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 145523020,
+            "answer": "yes",
+            "logit": 0.2645427882671356,
+            "entropy": 3.2844021320343018,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 276638003,
+            "answer": "yes",
+            "logit": 0.41645339131355286,
+            "entropy": 2.9092421531677246,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 548592000,
+            "answer": "flying kite",
+            "logit": 0.9386439323425293,
+            "entropy": 0.31947678327560425,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 407976006,
+            "answer": "old",
+            "logit": 0.10295478999614716,
+            "entropy": 3.653089761734009,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 146190008,
+            "answer": "frisbee",
+            "logit": 0.447879821062088,
+            "entropy": 1.6386096477508545,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 540093002,
+            "answer": "rain",
+            "logit": 0.4185293912887573,
+            "entropy": 2.051703929901123,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 409098000,
+            "answer": "snow",
+            "logit": 0.4579227566719055,
+            "entropy": 2.8351097106933594,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 278161004,
+            "answer": "for fun",
+            "logit": 0.2540106177330017,
+            "entropy": 3.4261860847473145,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 278375004,
+            "answer": "fire",
+            "logit": 0.26421746611595154,
+            "entropy": 2.5701165199279785,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 278636000,
+            "answer": "to catch frisbee",
+            "logit": 0.2469794601202011,
+            "entropy": 2.667367458343506,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 16521000,
+            "answer": "banana",
+            "logit": 0.44972842931747437,
+            "entropy": 1.3468530178070068,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 540859000,
+            "answer": "eating",
+            "logit": 0.8466494083404541,
+            "entropy": 0.6020470857620239,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 541086002,
+            "answer": "out of focus",
+            "logit": 0.7501301765441895,
+            "entropy": 1.153289794921875,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 279097003,
+            "answer": "waiting",
+            "logit": 0.2661437690258026,
+            "entropy": 2.7208476066589355,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 17179002,
+            "answer": "movement",
+            "logit": 0.20653750002384186,
+            "entropy": 2.918579578399658,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 17207001,
+            "answer": "yes",
+            "logit": 0.32176968455314636,
+            "entropy": 3.4585256576538086,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 541687001,
+            "answer": "tired",
+            "logit": 0.07974402606487274,
+            "entropy": 4.300158977508545,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 17921000,
+            "answer": "museum",
+            "logit": 0.09366068243980408,
+            "entropy": 4.312600612640381,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 280709003,
+            "answer": "to catch frisbee",
+            "logit": 0.9572104811668396,
+            "entropy": 0.2548905611038208,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 18841000,
+            "answer": "sun",
+            "logit": 0.4543134570121765,
+            "entropy": 1.6252062320709229,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 134231002,
+            "answer": "decoration",
+            "logit": 0.11051371693611145,
+            "entropy": 4.551257133483887,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 150779000,
+            "answer": "trash",
+            "logit": 0.5075626373291016,
+            "entropy": 2.0117435455322266,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 20178001,
+            "answer": "yes",
+            "logit": 0.31429874897003174,
+            "entropy": 2.0048937797546387,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 151670000,
+            "answer": "bathroom",
+            "logit": 0.8447470664978027,
+            "entropy": 0.9614148139953613,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 282768000,
+            "answer": "hot",
+            "logit": 0.7728714942932129,
+            "entropy": 1.2828311920166016,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 283055000,
+            "answer": "yes",
+            "logit": 0.5495911240577698,
+            "entropy": 2.6256206035614014,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 20992000,
+            "answer": "eating",
+            "logit": 0.9302756190299988,
+            "entropy": 0.2743493616580963,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 152106005,
+            "answer": "hungry",
+            "logit": 0.7590031027793884,
+            "entropy": 1.3417638540267944,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 152192006,
+            "answer": "grass",
+            "logit": 0.15403883159160614,
+            "entropy": 3.147672414779663,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 152211002,
+            "answer": "jumping",
+            "logit": 0.41947269439697266,
+            "entropy": 2.2739248275756836,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 283441001,
+            "answer": "yes",
+            "logit": 0.21158432960510254,
+            "entropy": 3.9229373931884766,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 545734006,
+            "answer": "yes",
+            "logit": 0.2671123445034027,
+            "entropy": 3.212974786758423,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 283977001,
+            "answer": "wet",
+            "logit": 0.9081414341926575,
+            "entropy": 0.5030962228775024,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 284015003,
+            "answer": "posing",
+            "logit": 0.26750898361206055,
+            "entropy": 3.0163075923919678,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 153011007,
+            "answer": "food truck",
+            "logit": 0.21417956054210663,
+            "entropy": 3.140742063522339,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 284220004,
+            "answer": "to hit ball",
+            "logit": 0.7370665669441223,
+            "entropy": 0.8292974233627319,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 22396000,
+            "answer": "yes",
+            "logit": 0.15620243549346924,
+            "entropy": 4.077952861785889,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 547003000,
+            "answer": "yes",
+            "logit": 0.19894899427890778,
+            "entropy": 3.4680142402648926,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 285421001,
+            "answer": "yes",
+            "logit": 0.6038079261779785,
+            "entropy": 1.3003650903701782,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 155451002,
+            "answer": "night",
+            "logit": 0.7730915546417236,
+            "entropy": 0.8018298149108887,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 286708002,
+            "answer": "yes",
+            "logit": 0.48236334323883057,
+            "entropy": 2.361658811569214,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 831000,
+            "answer": "sun",
+            "logit": 0.5137737393379211,
+            "entropy": 2.372267484664917,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 418701014,
+            "answer": "caution",
+            "logit": 0.33436304330825806,
+            "entropy": 2.625638008117676,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 25717002,
+            "answer": "decoration",
+            "logit": 0.7093509435653687,
+            "entropy": 1.5780537128448486,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 25804006,
+            "answer": "balance",
+            "logit": 0.10139686614274979,
+            "entropy": 4.194123268127441,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 48037001,
+            "answer": "yes",
+            "logit": 0.4609640836715698,
+            "entropy": 2.9681785106658936,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 157155000,
+            "answer": "yes",
+            "logit": 0.32964321970939636,
+            "entropy": 3.5226364135742188,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 157155002,
+            "answer": "yes",
+            "logit": 0.24045488238334656,
+            "entropy": 2.345111846923828,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 26584003,
+            "answer": "decoration",
+            "logit": 0.10249306261539459,
+            "entropy": 4.0909600257873535,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 26926002,
+            "answer": "yes",
+            "logit": 0.1753208041191101,
+            "entropy": 3.7198054790496826,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 27478003,
+            "answer": "wet",
+            "logit": 0.6563011407852173,
+            "entropy": 1.6549454927444458,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 551959007,
+            "answer": "no",
+            "logit": 0.1241900697350502,
+            "entropy": 4.024621486663818,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 552186005,
+            "answer": "parking lot",
+            "logit": 0.0823574885725975,
+            "entropy": 4.619288921356201,
+            "iscorrect": true,
+            "score": 1
+        },
+        {
+            "question_id": 397903001,
+            "answer": "yes",
+            "logit": 0.12685804069042206,
+            "entropy": 3.9995005130767822,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 28702006,
+            "answer": "old",
+            "logit": 0.38756081461906433,
+            "entropy": 2.9204392433166504,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 29430000,
+            "answer": "broken",
+            "logit": 0.18590471148490906,
+            "entropy": 4.085864543914795,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 160580001,
+            "answer": "black and white",
+            "logit": 0.34938496351242065,
+            "entropy": 2.344069480895996,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 291834004,
+            "answer": "skateboarding",
+            "logit": 0.515525758266449,
+            "entropy": 2.1961493492126465,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 292024002,
+            "answer": "pizza",
+            "logit": 0.9504711031913757,
+            "entropy": 0.25614574551582336,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 30356009,
+            "answer": "no",
+            "logit": 0.0854056105017662,
+            "entropy": 4.224714279174805,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 30356029,
+            "answer": "yes",
+            "logit": 0.22797249257564545,
+            "entropy": 2.8801157474517822,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 555131000,
+            "answer": "baseball",
+            "logit": 0.3103635311126709,
+            "entropy": 2.390639066696167,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 293733002,
+            "answer": "cold",
+            "logit": 0.22259530425071716,
+            "entropy": 3.242419481277466,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 163167015,
+            "answer": "movement",
+            "logit": 0.4427345395088196,
+            "entropy": 1.5707414150238037,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 163258002,
+            "answer": "yes",
+            "logit": 0.37780365347862244,
+            "entropy": 2.6523783206939697,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 425690002,
+            "answer": "yes",
+            "logit": 0.13686804473400116,
+            "entropy": 3.8705761432647705,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 32735000,
+            "answer": "skiing",
+            "logit": 0.8359740376472473,
+            "entropy": 0.5043585300445557,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 32760006,
+            "answer": "yes",
+            "logit": 0.2190735638141632,
+            "entropy": 3.4468934535980225,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 33005003,
+            "answer": "playing tennis",
+            "logit": 0.5663533806800842,
+            "entropy": 1.5065491199493408,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 33005005,
+            "answer": "yes",
+            "logit": 0.11490430682897568,
+            "entropy": 4.16850471496582,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 164292005,
+            "answer": "surfing",
+            "logit": 0.5816159844398499,
+            "entropy": 1.4866780042648315,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 557562012,
+            "answer": "old",
+            "logit": 0.12399448454380035,
+            "entropy": 3.8315963745117188,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 295593000,
+            "answer": "playing game",
+            "logit": 0.3441612422466278,
+            "entropy": 2.538666248321533,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 426687001,
+            "answer": "genetics",
+            "logit": 0.30570122599601746,
+            "entropy": 3.173832893371582,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 557977001,
+            "answer": "umpire",
+            "logit": 0.9810931086540222,
+            "entropy": 0.13632148504257202,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 558457000,
+            "answer": "happy",
+            "logit": 0.9763106107711792,
+            "entropy": 0.1807520091533661,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 34452005,
+            "answer": "playing frisbee",
+            "logit": 0.2688470482826233,
+            "entropy": 2.1671969890594482,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 296684000,
+            "answer": "in water",
+            "logit": 0.6111054420471191,
+            "entropy": 1.086790919303894,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 34754003,
+            "answer": "yes",
+            "logit": 0.1270306259393692,
+            "entropy": 3.6835544109344482,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 297037000,
+            "answer": "running",
+            "logit": 0.6705834269523621,
+            "entropy": 1.086730718612671,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 428336000,
+            "answer": "protest",
+            "logit": 0.09307796508073807,
+            "entropy": 4.0574951171875,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 35206002,
+            "answer": "yes",
+            "logit": 0.16837908327579498,
+            "entropy": 3.3617029190063477,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 166509000,
+            "answer": "stop",
+            "logit": 0.183367058634758,
+            "entropy": 3.627821445465088,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 428945000,
+            "answer": "genetics",
+            "logit": 0.1856071501970291,
+            "entropy": 3.4067587852478027,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 429109005,
+            "answer": "transportation",
+            "logit": 0.6614913940429688,
+            "entropy": 1.7036882638931274,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 298190006,
+            "answer": "advertisement",
+            "logit": 0.33938151597976685,
+            "entropy": 1.8655362129211426,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 36528002,
+            "answer": "yes",
+            "logit": 0.4444205164909363,
+            "entropy": 2.8648321628570557,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 561366002,
+            "answer": "yes",
+            "logit": 0.6976324915885925,
+            "entropy": 1.5047529935836792,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 402778001,
+            "answer": "moving",
+            "logit": 0.3183721899986267,
+            "entropy": 1.6751853227615356,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 430529006,
+            "answer": "surfing",
+            "logit": 0.40224507451057434,
+            "entropy": 2.148797035217285,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 299654008,
+            "answer": "yes",
+            "logit": 0.3883434236049652,
+            "entropy": 2.9545438289642334,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 430750001,
+            "answer": "safety",
+            "logit": 0.9172336459159851,
+            "entropy": 0.4980134963989258,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 431023004,
+            "answer": "phone",
+            "logit": 0.23259885609149933,
+            "entropy": 3.721064567565918,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 300012005,
+            "answer": "balance",
+            "logit": 0.23662735521793365,
+            "entropy": 2.4561030864715576,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 300303001,
+            "answer": "train",
+            "logit": 0.9539715051651001,
+            "entropy": 0.29942673444747925,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 431954000,
+            "answer": "yes",
+            "logit": 0.36898958683013916,
+            "entropy": 2.799436330795288,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 432085002,
+            "answer": "yes",
+            "logit": 0.5140005946159363,
+            "entropy": 2.3817267417907715,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 432120003,
+            "answer": "no",
+            "logit": 0.15735922753810883,
+            "entropy": 3.6700289249420166,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 170191003,
+            "answer": "vacation",
+            "logit": 0.07337254285812378,
+            "entropy": 4.559643268585205,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 563470004,
+            "answer": "yes",
+            "logit": 0.22583386301994324,
+            "entropy": 3.669785976409912,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 432619000,
+            "answer": "decoration",
+            "logit": 0.8701906204223633,
+            "entropy": 0.760913610458374,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 137699002,
+            "answer": "safety",
+            "logit": 0.49764177203178406,
+            "entropy": 2.6718573570251465,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 301926002,
+            "answer": "construction",
+            "logit": 0.4179234504699707,
+            "entropy": 2.1284804344177246,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 433547001,
+            "answer": "rain",
+            "logit": 0.33884838223457336,
+            "entropy": 1.8743594884872437,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 433714001,
+            "answer": "rain",
+            "logit": 0.3434455990791321,
+            "entropy": 1.931626319885254,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 303219021,
+            "answer": "moving",
+            "logit": 0.2493436634540558,
+            "entropy": 3.122776985168457,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 14494001,
+            "answer": "sunbathing",
+            "logit": 0.5946564674377441,
+            "entropy": 1.588104009628296,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 435312004,
+            "answer": "taking picture",
+            "logit": 0.509734034538269,
+            "entropy": 2.173853874206543,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 354929002,
+            "answer": "for fun",
+            "logit": 0.24743764102458954,
+            "entropy": 3.1974782943725586,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 42528000,
+            "answer": "yes",
+            "logit": 0.39839038252830505,
+            "entropy": 2.8295607566833496,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 42667013,
+            "answer": "playing",
+            "logit": 0.7148701548576355,
+            "entropy": 1.647628664970398,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 42685001,
+            "answer": "cold",
+            "logit": 0.36784693598747253,
+            "entropy": 2.3216376304626465,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 173830001,
+            "answer": "safety",
+            "logit": 0.5644662380218506,
+            "entropy": 1.2583171129226685,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 43305001,
+            "answer": "umpire",
+            "logit": 0.6820299625396729,
+            "entropy": 1.5740084648132324,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 568110000,
+            "answer": "stop",
+            "logit": 0.6453657150268555,
+            "entropy": 2.2149789333343506,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 174902010,
+            "answer": "warning",
+            "logit": 0.22885680198669434,
+            "entropy": 2.8521528244018555,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 51025002,
+            "answer": "trash",
+            "logit": 0.1923477053642273,
+            "entropy": 3.16133451461792,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 437540004,
+            "answer": "surfing",
+            "logit": 0.5375376343727112,
+            "entropy": 2.3582346439361572,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 306506005,
+            "answer": "no",
+            "logit": 0.291892409324646,
+            "entropy": 2.8454713821411133,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 175469007,
+            "answer": "ferry",
+            "logit": 0.2895472049713135,
+            "entropy": 2.8366432189941406,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 176031000,
+            "answer": "yes",
+            "logit": 0.30341947078704834,
+            "entropy": 3.330554962158203,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 176037008,
+            "answer": "rain",
+            "logit": 0.8290300965309143,
+            "entropy": 0.7390316724777222,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 569379001,
+            "answer": "resting",
+            "logit": 0.29291588068008423,
+            "entropy": 2.63777232170105,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 378894001,
+            "answer": "working",
+            "logit": 0.15549597144126892,
+            "entropy": 4.0520782470703125,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 307531003,
+            "answer": "to catch frisbee",
+            "logit": 0.6873482465744019,
+            "entropy": 1.1789313554763794,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 438707007,
+            "answer": "food",
+            "logit": 0.8986700773239136,
+            "entropy": 0.5379626750946045,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 308167004,
+            "answer": "safety",
+            "logit": 0.5998973250389099,
+            "entropy": 2.1087429523468018,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 571764004,
+            "answer": "happy",
+            "logit": 0.8761825561523438,
+            "entropy": 0.7476808428764343,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 47589003,
+            "answer": "yes",
+            "logit": 0.3950485289096832,
+            "entropy": 2.571781873703003,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 47769005,
+            "answer": "to see",
+            "logit": 0.39597955346107483,
+            "entropy": 2.558603286743164,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 488563002,
+            "answer": "resting",
+            "logit": 0.3414533734321594,
+            "entropy": 2.5422966480255127,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 310703001,
+            "answer": "warning",
+            "logit": 0.23468352854251862,
+            "entropy": 3.4179906845092773,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 573134004,
+            "answer": "running",
+            "logit": 0.4151761829853058,
+            "entropy": 2.6382880210876465,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 442149002,
+            "answer": "identification",
+            "logit": 0.5826646685600281,
+            "entropy": 1.9068442583084106,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 49428002,
+            "answer": "storage",
+            "logit": 0.5278973579406738,
+            "entropy": 1.4236395359039307,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 573843002,
+            "answer": "resting",
+            "logit": 0.8689714670181274,
+            "entropy": 0.6546282172203064,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 443363018,
+            "answer": "surfing",
+            "logit": 0.4283597767353058,
+            "entropy": 3.0716500282287598,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 443492001,
+            "answer": "happy",
+            "logit": 0.9282165765762329,
+            "entropy": 0.4797843098640442,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 510861000,
+            "answer": "taking picture",
+            "logit": 0.6170768141746521,
+            "entropy": 1.430634617805481,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 443952005,
+            "answer": "wall",
+            "logit": 0.21036435663700104,
+            "entropy": 3.3711843490600586,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 181859002,
+            "answer": "resting",
+            "logit": 0.33723780512809753,
+            "entropy": 2.85866379737854,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 51157002,
+            "answer": "surfing",
+            "logit": 0.7048157453536987,
+            "entropy": 1.6263865232467651,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 313588006,
+            "answer": "it's raining",
+            "logit": 0.4357967972755432,
+            "entropy": 1.1096614599227905,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 445313002,
+            "answer": "playing soccer",
+            "logit": 0.16736824810504913,
+            "entropy": 3.4040768146514893,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 576513002,
+            "answer": "curious",
+            "logit": 0.38104766607284546,
+            "entropy": 2.743685483932495,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 445682001,
+            "answer": "petting",
+            "logit": 0.17336037755012512,
+            "entropy": 3.396876811981201,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 52691001,
+            "answer": "movement",
+            "logit": 0.33235102891921997,
+            "entropy": 1.863725185394287,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 183803003,
+            "answer": "to see",
+            "logit": 0.3783397078514099,
+            "entropy": 2.9226574897766113,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 315073002,
+            "answer": "yes",
+            "logit": 0.36995935440063477,
+            "entropy": 3.1692299842834473,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 53267001,
+            "answer": "picture",
+            "logit": 0.10597951710224152,
+            "entropy": 3.6678414344787598,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 184557000,
+            "answer": "drinking",
+            "logit": 0.6385651230812073,
+            "entropy": 1.2692368030548096,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 315660004,
+            "answer": "watching",
+            "logit": 0.23485004901885986,
+            "entropy": 3.6345932483673096,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 53529003,
+            "answer": "yes",
+            "logit": 0.4148019254207611,
+            "entropy": 2.6571483612060547,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 577893009,
+            "answer": "to hit ball",
+            "logit": 0.48819443583488464,
+            "entropy": 2.080479383468628,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 577932019,
+            "answer": "rain",
+            "logit": 0.42879197001457214,
+            "entropy": 1.308547854423523,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 184827001,
+            "answer": "texting",
+            "logit": 0.8064287304878235,
+            "entropy": 1.0390807390213013,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 53956006,
+            "answer": "sign",
+            "logit": 0.19929452240467072,
+            "entropy": 3.7722787857055664,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 185393004,
+            "answer": "no",
+            "logit": 0.1973462998867035,
+            "entropy": 4.029426574707031,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 316605002,
+            "answer": "ramp",
+            "logit": 0.2698710262775421,
+            "entropy": 3.6179943084716797,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 317018003,
+            "answer": "playing frisbee",
+            "logit": 0.433605432510376,
+            "entropy": 1.6730568408966064,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 448269001,
+            "answer": "baseball game",
+            "logit": 0.8011597990989685,
+            "entropy": 1.0207396745681763,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 317939001,
+            "answer": "wind",
+            "logit": 0.24386322498321533,
+            "entropy": 3.781407117843628,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 580294000,
+            "answer": "yes",
+            "logit": 0.2824442684650421,
+            "entropy": 3.702692985534668,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 187079006,
+            "answer": "happy",
+            "logit": 0.8641831874847412,
+            "entropy": 0.8445473313331604,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 56413003,
+            "answer": "yes",
+            "logit": 0.06841311603784561,
+            "entropy": 4.1242570877075195,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 56541000,
+            "answer": "for fun",
+            "logit": 0.22217124700546265,
+            "entropy": 2.8407094478607178,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 450282002,
+            "answer": "food",
+            "logit": 0.15679557621479034,
+            "entropy": 3.6173996925354004,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 140642001,
+            "answer": "shade",
+            "logit": 0.7201945781707764,
+            "entropy": 1.0688847303390503,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 319655001,
+            "answer": "cloudy",
+            "logit": 0.2006002813577652,
+            "entropy": 2.745663642883301,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 53289024,
+            "answer": "baby",
+            "logit": 0.19493728876113892,
+            "entropy": 3.339181900024414,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 293625037,
+            "answer": "playing game",
+            "logit": 0.2650757133960724,
+            "entropy": 2.0982093811035156,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 189305015,
+            "answer": "no",
+            "logit": 0.10588358342647552,
+            "entropy": 3.9953694343566895,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 58462011,
+            "answer": "yes",
+            "logit": 0.24249011278152466,
+            "entropy": 3.623213529586792,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 58539008,
+            "answer": "happy",
+            "logit": 0.9129133224487305,
+            "entropy": 0.5904114246368408,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 321578001,
+            "answer": "hungry",
+            "logit": 0.8677325248718262,
+            "entropy": 0.6894310116767883,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 59652002,
+            "answer": "to catch frisbee",
+            "logit": 0.7141227126121521,
+            "entropy": 1.2177438735961914,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 190783002,
+            "answer": "on ground",
+            "logit": 0.8353370428085327,
+            "entropy": 0.8239742517471313,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 322177001,
+            "answer": "fell",
+            "logit": 0.3871186077594757,
+            "entropy": 2.298633098602295,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 60128005,
+            "answer": "bus stop",
+            "logit": 0.688485860824585,
+            "entropy": 1.7261316776275635,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 60456005,
+            "answer": "no",
+            "logit": 0.2827311158180237,
+            "entropy": 2.584474563598633,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 191672001,
+            "answer": "reflection",
+            "logit": 0.09375051409006119,
+            "entropy": 4.3636064529418945,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 60610007,
+            "answer": "traffic",
+            "logit": 0.23180370032787323,
+            "entropy": 2.763488292694092,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 322845001,
+            "answer": "railroad crossing",
+            "logit": 0.47128796577453613,
+            "entropy": 3.0331645011901855,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 323155001,
+            "answer": "shade",
+            "logit": 0.582679271697998,
+            "entropy": 1.1740036010742188,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 61314001,
+            "answer": "decoration",
+            "logit": 0.15878082811832428,
+            "entropy": 3.630402088165283,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 454750005,
+            "answer": "yes",
+            "logit": 0.21179400384426117,
+            "entropy": 3.01644229888916,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 455170002,
+            "answer": "decoration",
+            "logit": 0.17581890523433685,
+            "entropy": 4.319276332855225,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 316183000,
+            "answer": "raining",
+            "logit": 0.33840200304985046,
+            "entropy": 1.592907428741455,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 62210001,
+            "answer": "safety",
+            "logit": 0.18780574202537537,
+            "entropy": 3.609640598297119,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 324436004,
+            "answer": "genetics",
+            "logit": 0.2286880761384964,
+            "entropy": 3.3433423042297363,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 237772005,
+            "answer": "sleeping",
+            "logit": 0.8046954274177551,
+            "entropy": 0.7564388513565063,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 325356002,
+            "answer": "resting",
+            "logit": 0.40941059589385986,
+            "entropy": 2.3977391719818115,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 513181000,
+            "answer": "ferry",
+            "logit": 0.2666913568973541,
+            "entropy": 3.176095962524414,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 326837002,
+            "answer": "to eat",
+            "logit": 0.42740967869758606,
+            "entropy": 1.7586321830749512,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 251119001,
+            "answer": "to eat",
+            "logit": 0.2698850929737091,
+            "entropy": 3.1651298999786377,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 458485005,
+            "answer": "water",
+            "logit": 0.8645443320274353,
+            "entropy": 0.6749048233032227,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 65399000,
+            "answer": "yes",
+            "logit": 0.20304089784622192,
+            "entropy": 3.443727970123291,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 65433000,
+            "answer": "playing",
+            "logit": 0.3102307915687561,
+            "entropy": 2.6996865272521973,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 327769001,
+            "answer": "resting",
+            "logit": 0.7291509509086609,
+            "entropy": 1.3773813247680664,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 196879001,
+            "answer": "zebra",
+            "logit": 0.19744478166103363,
+            "entropy": 3.1552066802978516,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 197090012,
+            "answer": "stop",
+            "logit": 0.8369477987289429,
+            "entropy": 0.7844003438949585,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 197266003,
+            "answer": "broken",
+            "logit": 0.5443710088729858,
+            "entropy": 2.255399703979492,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 459665000,
+            "answer": "rain",
+            "logit": 0.8942777514457703,
+            "entropy": 0.505800724029541,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 66508002,
+            "answer": "fire",
+            "logit": 0.2853007912635803,
+            "entropy": 2.76534366607666,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 295076002,
+            "answer": "yes",
+            "logit": 0.4011212885379791,
+            "entropy": 2.04844331741333,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 66543001,
+            "answer": "warning",
+            "logit": 0.3972886800765991,
+            "entropy": 2.56050181388855,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 460049000,
+            "answer": "shadow",
+            "logit": 0.7349534630775452,
+            "entropy": 0.764274537563324,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 460632006,
+            "answer": "surfing",
+            "logit": 0.7833479046821594,
+            "entropy": 1.0332401990890503,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 460997001,
+            "answer": "water",
+            "logit": 0.8237011432647705,
+            "entropy": 0.7120741605758667,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 198921001,
+            "answer": "grazing",
+            "logit": 0.17421279847621918,
+            "entropy": 3.445178508758545,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 176841000,
+            "answer": "yes",
+            "logit": 0.3088203966617584,
+            "entropy": 2.623527765274048,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 199017000,
+            "answer": "dirty",
+            "logit": 0.7612971067428589,
+            "entropy": 1.238700032234192,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 461255013,
+            "answer": "sun",
+            "logit": 0.4603046178817749,
+            "entropy": 2.653207302093506,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 330387007,
+            "answer": "beach",
+            "logit": 0.4297579526901245,
+            "entropy": 2.240899085998535,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 199641000,
+            "answer": "movement",
+            "logit": 0.3143170475959778,
+            "entropy": 1.682051181793213,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 199842003,
+            "answer": "parked",
+            "logit": 0.10452208667993546,
+            "entropy": 3.832825183868408,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 200168000,
+            "answer": "safety",
+            "logit": 0.8154969811439514,
+            "entropy": 0.7045893669128418,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 448426004,
+            "answer": "shade",
+            "logit": 0.20895183086395264,
+            "entropy": 3.12307071685791,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 463347001,
+            "answer": "broken",
+            "logit": 0.8843032717704773,
+            "entropy": 0.7094690203666687,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 463611001,
+            "answer": "no",
+            "logit": 0.147760808467865,
+            "entropy": 3.3719894886016846,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 332582001,
+            "answer": "night",
+            "logit": 0.6910902261734009,
+            "entropy": 1.0928657054901123,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 70675002,
+            "answer": "to see",
+            "logit": 0.8976351618766785,
+            "entropy": 0.35675087571144104,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 405093002,
+            "answer": "yes",
+            "logit": 0.4843767583370209,
+            "entropy": 2.268214225769043,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 71360007,
+            "answer": "movement",
+            "logit": 0.23878857493400574,
+            "entropy": 2.8145933151245117,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 71647009,
+            "answer": "decoration",
+            "logit": 0.8677470684051514,
+            "entropy": 0.7291654944419861,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 334321002,
+            "answer": "small",
+            "logit": 0.11378700286149979,
+            "entropy": 4.164471626281738,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 203372014,
+            "answer": "no",
+            "logit": 0.17884674668312073,
+            "entropy": 4.012073993682861,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 465591002,
+            "answer": "resting",
+            "logit": 0.4800330400466919,
+            "entropy": 2.358229398727417,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 204206001,
+            "answer": "dalmatian",
+            "logit": 0.17622010409832,
+            "entropy": 4.106259346008301,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 204329000,
+            "answer": "surfing",
+            "logit": 0.3169529438018799,
+            "entropy": 3.3979365825653076,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 73445001,
+            "answer": "yes",
+            "logit": 0.25382915139198303,
+            "entropy": 3.1061549186706543,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 73595001,
+            "answer": "decoration",
+            "logit": 0.35219377279281616,
+            "entropy": 3.366391181945801,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 205002039,
+            "answer": "no",
+            "logit": 0.28525376319885254,
+            "entropy": 3.550736427307129,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 74446001,
+            "answer": "swimming",
+            "logit": 0.2941282093524933,
+            "entropy": 2.317553758621216,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 467742000,
+            "answer": "to eat",
+            "logit": 0.539393424987793,
+            "entropy": 2.539701461791992,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 75162004,
+            "answer": "no",
+            "logit": 0.32106631994247437,
+            "entropy": 3.375129461288452,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 337453001,
+            "answer": "fell",
+            "logit": 0.6366151571273804,
+            "entropy": 1.3774174451828003,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 206411002,
+            "answer": "yes",
+            "logit": 0.6057445406913757,
+            "entropy": 1.7648181915283203,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 76170002,
+            "answer": "yes",
+            "logit": 0.13266299664974213,
+            "entropy": 3.9002532958984375,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 469424001,
+            "answer": "resting",
+            "logit": 0.8547555208206177,
+            "entropy": 0.6771799921989441,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 76351003,
+            "answer": "resting",
+            "logit": 0.4693310260772705,
+            "entropy": 2.0437302589416504,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 338718000,
+            "answer": "broken",
+            "logit": 0.3095666170120239,
+            "entropy": 3.127281904220581,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 469803002,
+            "answer": "design",
+            "logit": 0.09421660751104355,
+            "entropy": 3.97286319732666,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 469936000,
+            "answer": "yes",
+            "logit": 0.5356816053390503,
+            "entropy": 2.2052018642425537,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 470070002,
+            "answer": "catcher",
+            "logit": 0.6194397211074829,
+            "entropy": 1.5527509450912476,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 580829002,
+            "answer": "directions",
+            "logit": 0.474582314491272,
+            "entropy": 2.0404677391052246,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 208376003,
+            "answer": "yes",
+            "logit": 0.3034798502922058,
+            "entropy": 2.6787354946136475,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 208473003,
+            "answer": "sand",
+            "logit": 0.2965593934059143,
+            "entropy": 2.4625580310821533,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 296907001,
+            "answer": "christmas",
+            "logit": 0.7573760747909546,
+            "entropy": 0.6435057520866394,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 77615000,
+            "answer": "directions",
+            "logit": 0.10744424164295197,
+            "entropy": 4.001871109008789,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 208748003,
+            "answer": "happy",
+            "logit": 0.45361530780792236,
+            "entropy": 2.0916543006896973,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 208991003,
+            "answer": "parked",
+            "logit": 0.5754595398902893,
+            "entropy": 2.090888738632202,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 340069002,
+            "answer": "yes",
+            "logit": 0.22408656775951385,
+            "entropy": 3.4546685218811035,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 209018000,
+            "answer": "yes",
+            "logit": 0.08566047996282578,
+            "entropy": 4.451655864715576,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 78478000,
+            "answer": "yes",
+            "logit": 0.7278334498405457,
+            "entropy": 1.4368586540222168,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 209664006,
+            "answer": "raining",
+            "logit": 0.412586510181427,
+            "entropy": 1.3294055461883545,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 341164002,
+            "answer": "balance",
+            "logit": 0.2658577561378479,
+            "entropy": 2.298210620880127,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 341309000,
+            "answer": "yes",
+            "logit": 0.5172333717346191,
+            "entropy": 2.4537353515625,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 79189004,
+            "answer": "cooking",
+            "logit": 0.7584803700447083,
+            "entropy": 1.406160831451416,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 341389009,
+            "answer": "wind",
+            "logit": 0.2763438820838928,
+            "entropy": 3.7968077659606934,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 341393001,
+            "answer": "tired",
+            "logit": 0.2630847096443176,
+            "entropy": 2.919785261154175,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 210394004,
+            "answer": "waiting",
+            "logit": 0.33354079723358154,
+            "entropy": 2.773355484008789,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 342204000,
+            "answer": "happy",
+            "logit": 0.7404396533966064,
+            "entropy": 1.2970918416976929,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 342232000,
+            "answer": "safety",
+            "logit": 0.9222797155380249,
+            "entropy": 0.35554876923561096,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 80671002,
+            "answer": "skiing",
+            "logit": 0.23596929013729095,
+            "entropy": 2.615905284881592,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 212470005,
+            "answer": "hungry",
+            "logit": 0.24551120400428772,
+            "entropy": 2.8498120307922363,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 474906040,
+            "answer": "construction",
+            "logit": 0.09781356900930405,
+            "entropy": 4.21155309677124,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 344013000,
+            "answer": "referee",
+            "logit": 0.6917254328727722,
+            "entropy": 0.9249463081359863,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 79229029,
+            "answer": "cold",
+            "logit": 0.3853086531162262,
+            "entropy": 2.6946325302124023,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 213361000,
+            "answer": "food",
+            "logit": 0.5342331528663635,
+            "entropy": 2.1962714195251465,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 213465005,
+            "answer": "happy",
+            "logit": 0.8007076978683472,
+            "entropy": 1.126209020614624,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 213465011,
+            "answer": "snowboarding",
+            "logit": 0.2222949117422104,
+            "entropy": 2.668147563934326,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 213650000,
+            "answer": "decoration",
+            "logit": 0.7948442101478577,
+            "entropy": 1.2814059257507324,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 344862000,
+            "answer": "moving",
+            "logit": 0.48286643624305725,
+            "entropy": 1.4362990856170654,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 214184001,
+            "answer": "resting",
+            "logit": 0.4668961763381958,
+            "entropy": 2.329326868057251,
+            "iscorrect": true,
+            "score": 1
+        },
+        {
+            "question_id": 214205003,
+            "answer": "yes",
+            "logit": 0.13125105202198029,
+            "entropy": 4.334834098815918,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 345288005,
+            "answer": "snowboarding",
+            "logit": 0.5700715780258179,
+            "entropy": 1.4409916400909424,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 83246000,
+            "answer": "safety",
+            "logit": 0.8103669881820679,
+            "entropy": 1.0544863939285278,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 476813001,
+            "answer": "traveling",
+            "logit": 0.2016470581293106,
+            "entropy": 3.3942809104919434,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 476872000,
+            "answer": "waves",
+            "logit": 0.9746105074882507,
+            "entropy": 0.16111895442008972,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 477750002,
+            "answer": "riding",
+            "logit": 0.14410115778446198,
+            "entropy": 3.7899420261383057,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 477791021,
+            "answer": "resting",
+            "logit": 0.2051997035741806,
+            "entropy": 3.4269657135009766,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 101491001,
+            "answer": "waiting",
+            "logit": 0.10716591030359268,
+            "entropy": 4.305928707122803,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 215815000,
+            "answer": "flying",
+            "logit": 0.2729111313819885,
+            "entropy": 3.734492778778076,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 84752006,
+            "answer": "yes",
+            "logit": 0.1356150209903717,
+            "entropy": 4.716753005981445,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 84929000,
+            "answer": "display",
+            "logit": 0.3093608021736145,
+            "entropy": 2.569509744644165,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 347377010,
+            "answer": "fog",
+            "logit": 0.543670117855072,
+            "entropy": 2.0989081859588623,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 167155004,
+            "answer": "snow",
+            "logit": 0.9564546942710876,
+            "entropy": 0.26475363969802856,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 347695000,
+            "answer": "yes",
+            "logit": 0.16399535536766052,
+            "entropy": 3.9472620487213135,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 216972000,
+            "answer": "no",
+            "logit": 0.08593203872442245,
+            "entropy": 4.320988178253174,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 217082002,
+            "answer": "leash",
+            "logit": 0.29137763381004333,
+            "entropy": 2.88002872467041,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 210980000,
+            "answer": "riding",
+            "logit": 0.7184445858001709,
+            "entropy": 1.055829405784607,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 479557000,
+            "answer": "surfing",
+            "logit": 0.6437373161315918,
+            "entropy": 1.5057041645050049,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 86448004,
+            "answer": "waiting",
+            "logit": 0.14097703993320465,
+            "entropy": 4.022659778594971,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 495031001,
+            "answer": "to hit ball",
+            "logit": 0.29942864179611206,
+            "entropy": 2.984360456466675,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 342142001,
+            "answer": "broken",
+            "logit": 0.25800350308418274,
+            "entropy": 3.429513931274414,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 87588001,
+            "answer": "safety",
+            "logit": 0.6088420748710632,
+            "entropy": 2.0560550689697266,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 481010000,
+            "answer": "to hit ball",
+            "logit": 0.9258596897125244,
+            "entropy": 0.4304981827735901,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 481239002,
+            "answer": "sunbathing",
+            "logit": 0.39724475145339966,
+            "entropy": 2.1503818035125732,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 481313003,
+            "answer": "sleeping",
+            "logit": 0.9949291944503784,
+            "entropy": 0.03857696056365967,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 481480002,
+            "answer": "racing",
+            "logit": 0.5204876065254211,
+            "entropy": 1.8962173461914062,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 88335002,
+            "answer": "skateboarding",
+            "logit": 0.6142206192016602,
+            "entropy": 1.5469282865524292,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 219440001,
+            "answer": "eating",
+            "logit": 0.18155662715435028,
+            "entropy": 3.4577627182006836,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 145815000,
+            "answer": "to catch frisbee",
+            "logit": 0.5406122207641602,
+            "entropy": 1.6088775396347046,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 482134000,
+            "answer": "design",
+            "logit": 0.1591109186410904,
+            "entropy": 3.348085403442383,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 220307003,
+            "answer": "hay",
+            "logit": 0.5367025136947632,
+            "entropy": 1.971018671989441,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 351477003,
+            "answer": "no",
+            "logit": 0.0654655322432518,
+            "entropy": 4.958096981048584,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 89430017,
+            "answer": "sleeping",
+            "logit": 0.6984978914260864,
+            "entropy": 1.2460925579071045,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 351715000,
+            "answer": "safety",
+            "logit": 0.7684842348098755,
+            "entropy": 0.8816210627555847,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 89603000,
+            "answer": "decoration",
+            "logit": 0.5641188025474548,
+            "entropy": 1.9406791925430298,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 483867002,
+            "answer": "walking",
+            "logit": 0.4362686276435852,
+            "entropy": 2.4325499534606934,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 91079002,
+            "answer": "decoration",
+            "logit": 0.28538909554481506,
+            "entropy": 3.0572643280029297,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 91349002,
+            "answer": "safety",
+            "logit": 0.12190130352973938,
+            "entropy": 3.5712149143218994,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 91353000,
+            "answer": "cooking",
+            "logit": 0.7499882578849792,
+            "entropy": 0.9067134857177734,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 353658004,
+            "answer": "raining",
+            "logit": 0.4390076696872711,
+            "entropy": 1.0840357542037964,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 353695005,
+            "answer": "identification",
+            "logit": 0.6534489989280701,
+            "entropy": 1.5460811853408813,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 354126002,
+            "answer": "baby",
+            "logit": 0.35581761598587036,
+            "entropy": 2.9107234477996826,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 255649004,
+            "answer": "yes",
+            "logit": 0.22039228677749634,
+            "entropy": 2.66017746925354,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 92196001,
+            "answer": "decoration",
+            "logit": 0.9837411642074585,
+            "entropy": 0.13126727938652039,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 354540002,
+            "answer": "yes",
+            "logit": 0.35419946908950806,
+            "entropy": 2.9957518577575684,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 354814001,
+            "answer": "yes",
+            "logit": 0.3516644537448883,
+            "entropy": 2.9917685985565186,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 146568001,
+            "answer": "no",
+            "logit": 0.5115801692008972,
+            "entropy": 2.731268882751465,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 355168000,
+            "answer": "to hit ball",
+            "logit": 0.8733097910881042,
+            "entropy": 0.6806046962738037,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 355214003,
+            "answer": "for fun",
+            "logit": 0.1721201241016388,
+            "entropy": 3.801145076751709,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 93607001,
+            "answer": "broken",
+            "logit": 0.36383646726608276,
+            "entropy": 3.081784248352051,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 561745001,
+            "answer": "to catch ball",
+            "logit": 0.7280201315879822,
+            "entropy": 0.8785090446472168,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 486968001,
+            "answer": "yes",
+            "logit": 0.20359663665294647,
+            "entropy": 3.293426990509033,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 93765003,
+            "answer": "decoration",
+            "logit": 0.37621936202049255,
+            "entropy": 2.6125261783599854,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 487428006,
+            "answer": "bus",
+            "logit": 0.7342509031295776,
+            "entropy": 1.8251639604568481,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 121633002,
+            "answer": "bathing",
+            "logit": 0.24700035154819489,
+            "entropy": 3.026291608810425,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 487741002,
+            "answer": "curious",
+            "logit": 0.2919340133666992,
+            "entropy": 3.524911642074585,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 357081001,
+            "answer": "genetics",
+            "logit": 0.3190312087535858,
+            "entropy": 3.315028429031372,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 95063005,
+            "answer": "stop",
+            "logit": 0.7122297883033752,
+            "entropy": 1.5434445142745972,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 226380001,
+            "answer": "it's raining",
+            "logit": 0.4963842034339905,
+            "entropy": 1.1030677556991577,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 357459002,
+            "answer": "to catch frisbee",
+            "logit": 0.7876931428909302,
+            "entropy": 0.8920689821243286,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 357529002,
+            "answer": "pitching",
+            "logit": 0.8161306381225586,
+            "entropy": 0.7709447741508484,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 95770002,
+            "answer": "skateboarding",
+            "logit": 0.5772759318351746,
+            "entropy": 1.329890489578247,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 226973003,
+            "answer": "no",
+            "logit": 0.15047915279865265,
+            "entropy": 4.106673717498779,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 358617001,
+            "answer": "surfing",
+            "logit": 0.44370967149734497,
+            "entropy": 1.680585503578186,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 358982001,
+            "answer": "movement",
+            "logit": 0.4217539131641388,
+            "entropy": 1.6343413591384888,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 97679011,
+            "answer": "parked",
+            "logit": 0.365894615650177,
+            "entropy": 3.365924835205078,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 97868001,
+            "answer": "yes",
+            "logit": 0.08472928404808044,
+            "entropy": 4.090632438659668,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 491098007,
+            "answer": "photography",
+            "logit": 0.17769411206245422,
+            "entropy": 3.7272443771362305,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 360182001,
+            "answer": "no",
+            "logit": 0.7848865985870361,
+            "entropy": 1.3060919046401978,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 360274001,
+            "answer": "umpire",
+            "logit": 0.860936164855957,
+            "entropy": 0.7703403234481812,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 229385001,
+            "answer": "yes",
+            "logit": 0.20116961002349854,
+            "entropy": 2.9948127269744873,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 98434001,
+            "answer": "yes",
+            "logit": 0.48570987582206726,
+            "entropy": 2.7970261573791504,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 99114017,
+            "answer": "rain",
+            "logit": 0.16297967731952667,
+            "entropy": 3.6329798698425293,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 99317001,
+            "answer": "packing",
+            "logit": 0.29146474599838257,
+            "entropy": 3.2248570919036865,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 99798003,
+            "answer": "playing soccer",
+            "logit": 0.4944310486316681,
+            "entropy": 1.9125139713287354,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 99875009,
+            "answer": "playing",
+            "logit": 0.1583128720521927,
+            "entropy": 3.648979663848877,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 363181000,
+            "answer": "shade",
+            "logit": 0.1853298395872116,
+            "entropy": 3.7733404636383057,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 101146002,
+            "answer": "out of focus",
+            "logit": 0.2034255862236023,
+            "entropy": 2.598783493041992,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 101312000,
+            "answer": "laptop",
+            "logit": 0.4365074336528778,
+            "entropy": 2.6470067501068115,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 232610007,
+            "answer": "talking on phone",
+            "logit": 0.48371362686157227,
+            "entropy": 1.4540427923202515,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 232684000,
+            "answer": "dark",
+            "logit": 0.49417558312416077,
+            "entropy": 1.8202358484268188,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 364297006,
+            "answer": "on",
+            "logit": 0.17380432784557343,
+            "entropy": 3.5837008953094482,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 495379000,
+            "answer": "fire hydrant",
+            "logit": 0.37268927693367004,
+            "entropy": 2.3398983478546143,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 322887007,
+            "answer": "falling",
+            "logit": 0.0999700278043747,
+            "entropy": 4.354625225067139,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 301082001,
+            "answer": "yes",
+            "logit": 0.26978230476379395,
+            "entropy": 2.9372787475585938,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 102577001,
+            "answer": "parasailing",
+            "logit": 0.49577438831329346,
+            "entropy": 1.720941424369812,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 103017003,
+            "answer": "yes",
+            "logit": 0.34404227137565613,
+            "entropy": 3.0612316131591797,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 496252000,
+            "answer": "tired",
+            "logit": 0.4283853769302368,
+            "entropy": 2.7729029655456543,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 279490011,
+            "answer": "food",
+            "logit": 0.14366623759269714,
+            "entropy": 3.5357799530029297,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 497555003,
+            "answer": "moving",
+            "logit": 0.2787710726261139,
+            "entropy": 2.717957019805908,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 104345016,
+            "answer": "night",
+            "logit": 0.21876870095729828,
+            "entropy": 2.853649616241455,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 497604004,
+            "answer": "safety",
+            "logit": 0.3792513310909271,
+            "entropy": 2.990036964416504,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 366611002,
+            "answer": "playing",
+            "logit": 0.8203299641609192,
+            "entropy": 0.935329794883728,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 104494000,
+            "answer": "resting",
+            "logit": 0.22674420475959778,
+            "entropy": 3.6891982555389404,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 104893002,
+            "answer": "yes",
+            "logit": 0.38482582569122314,
+            "entropy": 2.9977035522460938,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 476253002,
+            "answer": "safety",
+            "logit": 0.20733337104320526,
+            "entropy": 4.208903789520264,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 148591002,
+            "answer": "art",
+            "logit": 0.13592644035816193,
+            "entropy": 3.540898323059082,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 105482005,
+            "answer": "to hit ball",
+            "logit": 0.6412673592567444,
+            "entropy": 1.6110992431640625,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 105668012,
+            "answer": "yes",
+            "logit": 0.2243746817111969,
+            "entropy": 3.252019166946411,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 105670000,
+            "answer": "no",
+            "logit": 0.41031840443611145,
+            "entropy": 2.5357580184936523,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 106120007,
+            "answer": "yes",
+            "logit": 0.1243397668004036,
+            "entropy": 3.631295680999756,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 237597001,
+            "answer": "zoo",
+            "logit": 0.9087420701980591,
+            "entropy": 0.5166031122207642,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 238472007,
+            "answer": "fell",
+            "logit": 0.31607407331466675,
+            "entropy": 2.482586145401001,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 107858003,
+            "answer": "safety",
+            "logit": 0.7458398342132568,
+            "entropy": 1.1267904043197632,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 370207002,
+            "answer": "eating",
+            "logit": 0.1500633805990219,
+            "entropy": 3.4972734451293945,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 370486000,
+            "answer": "umbrella",
+            "logit": 0.24770087003707886,
+            "entropy": 3.823629856109619,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 239618001,
+            "answer": "zoo",
+            "logit": 0.8091942667961121,
+            "entropy": 0.9019637703895569,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 370711002,
+            "answer": "art",
+            "logit": 0.11583949625492096,
+            "entropy": 4.069797515869141,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 370842001,
+            "answer": "dirty",
+            "logit": 0.31782498955726624,
+            "entropy": 2.2978436946868896,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 345822003,
+            "answer": "yes",
+            "logit": 0.13150154054164886,
+            "entropy": 4.580671310424805,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 240718001,
+            "answer": "yes",
+            "logit": 0.42327243089675903,
+            "entropy": 2.8138532638549805,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 110027001,
+            "answer": "storage",
+            "logit": 0.36155450344085693,
+            "entropy": 3.233567476272583,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 110138001,
+            "answer": "for fun",
+            "logit": 0.1706131398677826,
+            "entropy": 3.544806480407715,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 110617001,
+            "answer": "batting",
+            "logit": 0.223890483379364,
+            "entropy": 2.6739888191223145,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 373810000,
+            "answer": "decoration",
+            "logit": 0.293561190366745,
+            "entropy": 2.9308955669403076,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 242757000,
+            "answer": "resting",
+            "logit": 0.3658217489719391,
+            "entropy": 2.745469570159912,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 242972000,
+            "answer": "teddy",
+            "logit": 0.5066720843315125,
+            "entropy": 1.0907245874404907,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 112160000,
+            "answer": "rain",
+            "logit": 0.660653829574585,
+            "entropy": 0.9953813552856445,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 374487000,
+            "answer": "safety",
+            "logit": 0.9058665633201599,
+            "entropy": 0.3736877143383026,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 375483000,
+            "answer": "yes",
+            "logit": 0.4868493378162384,
+            "entropy": 2.7721211910247803,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 375902002,
+            "answer": "happy",
+            "logit": 0.6734095811843872,
+            "entropy": 1.4339799880981445,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 244834002,
+            "answer": "walking",
+            "logit": 0.756354570388794,
+            "entropy": 1.4098113775253296,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 193743001,
+            "answer": "to hit ball",
+            "logit": 0.3736591637134552,
+            "entropy": 2.639467239379883,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 376278000,
+            "answer": "dead",
+            "logit": 0.25135549902915955,
+            "entropy": 3.112424373626709,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 245462009,
+            "answer": "hungry",
+            "logit": 0.7612771391868591,
+            "entropy": 1.0955742597579956,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 115898001,
+            "answer": "yes",
+            "logit": 0.6942420601844788,
+            "entropy": 1.0900884866714478,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 115912003,
+            "answer": "to catch frisbee",
+            "logit": 0.21180269122123718,
+            "entropy": 2.586135149002075,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 379014010,
+            "answer": "construction",
+            "logit": 0.4576747417449951,
+            "entropy": 2.0189146995544434,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 117508003,
+            "answer": "protection",
+            "logit": 0.4312532842159271,
+            "entropy": 1.9279239177703857,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 117530000,
+            "answer": "fence",
+            "logit": 0.12189556658267975,
+            "entropy": 4.498259544372559,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 117530002,
+            "answer": "yes",
+            "logit": 0.2364681363105774,
+            "entropy": 2.8909082412719727,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 380993002,
+            "answer": "rain",
+            "logit": 0.6538373827934265,
+            "entropy": 1.1805152893066406,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 391179003,
+            "answer": "referee",
+            "logit": 0.5891708731651306,
+            "entropy": 1.3669992685317993,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 119081001,
+            "answer": "sitting",
+            "logit": 0.9325425028800964,
+            "entropy": 0.4031696617603302,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 250205002,
+            "answer": "yes",
+            "logit": 0.15179097652435303,
+            "entropy": 3.502026319503784,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 512416001,
+            "answer": "moving",
+            "logit": 0.23048417270183563,
+            "entropy": 2.4955949783325195,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 250571007,
+            "answer": "flying kite",
+            "logit": 0.31292372941970825,
+            "entropy": 1.6344850063323975,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 119640004,
+            "answer": "playing tennis",
+            "logit": 0.3493676781654358,
+            "entropy": 1.9507060050964355,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 119710000,
+            "answer": "safety",
+            "logit": 0.2127462774515152,
+            "entropy": 3.204366683959961,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 513690005,
+            "answer": "caution",
+            "logit": 0.5401041507720947,
+            "entropy": 1.604813814163208,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 120874002,
+            "answer": "transportation",
+            "logit": 0.22484000027179718,
+            "entropy": 3.475107431411743,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 514598003,
+            "answer": "yes",
+            "logit": 0.09542223811149597,
+            "entropy": 4.527163982391357,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 515025000,
+            "answer": "cat",
+            "logit": 0.527174174785614,
+            "entropy": 1.9335335493087769,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 384402000,
+            "answer": "taking picture",
+            "logit": 0.13185721635818481,
+            "entropy": 3.5065994262695312,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 122549018,
+            "answer": "no",
+            "logit": 0.32888340950012207,
+            "entropy": 3.248640775680542,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 385036001,
+            "answer": "lighting",
+            "logit": 0.09250304102897644,
+            "entropy": 4.014434814453125,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 254045003,
+            "answer": "cat",
+            "logit": 0.7979480624198914,
+            "entropy": 0.9857499599456787,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 123213011,
+            "answer": "to hit ball",
+            "logit": 0.26909565925598145,
+            "entropy": 3.087249517440796,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 244160000,
+            "answer": "decoration",
+            "logit": 0.1424744576215744,
+            "entropy": 4.390329360961914,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 254789013,
+            "answer": "safety",
+            "logit": 0.5644391179084778,
+            "entropy": 1.5181857347488403,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 254983000,
+            "answer": "safety",
+            "logit": 0.5637050271034241,
+            "entropy": 0.8955302238464355,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 124452004,
+            "answer": "catching frisbee",
+            "logit": 0.5131220817565918,
+            "entropy": 1.0283308029174805,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 255630003,
+            "answer": "for balance",
+            "logit": 0.5417898297309875,
+            "entropy": 0.8857344388961792,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 124979002,
+            "answer": "hot",
+            "logit": 0.4852368235588074,
+            "entropy": 2.133584499359131,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 387244002,
+            "answer": "rain",
+            "logit": 0.44754165410995483,
+            "entropy": 1.518118977546692,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 518438002,
+            "answer": "yes",
+            "logit": 0.23634310066699982,
+            "entropy": 2.846519708633423,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 256903000,
+            "answer": "movement",
+            "logit": 0.13973316550254822,
+            "entropy": 4.1516499519348145,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 519094001,
+            "answer": "yes",
+            "logit": 0.5766913890838623,
+            "entropy": 2.4591376781463623,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 388027007,
+            "answer": "broken",
+            "logit": 0.253194123506546,
+            "entropy": 2.7463459968566895,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 388707003,
+            "answer": "paint",
+            "logit": 0.1452174335718155,
+            "entropy": 3.9238176345825195,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 257838001,
+            "answer": "cooking",
+            "logit": 0.33303067088127136,
+            "entropy": 1.7647639513015747,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 257865002,
+            "answer": "playing tennis",
+            "logit": 0.541251003742218,
+            "entropy": 1.9570751190185547,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 257965000,
+            "answer": "yes",
+            "logit": 0.33498063683509827,
+            "entropy": 2.4405951499938965,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 195974002,
+            "answer": "snowboarding",
+            "logit": 0.6449398994445801,
+            "entropy": 1.3291089534759521,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 127520000,
+            "answer": "waiting",
+            "logit": 0.2577053904533386,
+            "entropy": 3.2028021812438965,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 258850001,
+            "answer": "yes",
+            "logit": 0.19206561148166656,
+            "entropy": 3.241572141647339,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 127801003,
+            "answer": "out of focus",
+            "logit": 0.7013536691665649,
+            "entropy": 1.22621750831604,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 327149002,
+            "answer": "no",
+            "logit": 0.2159188687801361,
+            "entropy": 3.242589235305786,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 259049003,
+            "answer": "transportation",
+            "logit": 0.7812653183937073,
+            "entropy": 1.1531137228012085,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 390348002,
+            "answer": "yes",
+            "logit": 0.21553319692611694,
+            "entropy": 3.871250629425049,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 521692001,
+            "answer": "trees",
+            "logit": 0.3659052550792694,
+            "entropy": 2.882080554962158,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 390760000,
+            "answer": "yes",
+            "logit": 0.26910027861595154,
+            "entropy": 2.373007297515869,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 128704005,
+            "answer": "safety",
+            "logit": 0.9887773394584656,
+            "entropy": 0.08362846821546555,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 349090009,
+            "answer": "taking picture",
+            "logit": 0.4349987506866455,
+            "entropy": 2.142180919647217,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 391539000,
+            "answer": "waiting",
+            "logit": 0.09625690430402756,
+            "entropy": 4.114261150360107,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 567708000,
+            "answer": "yes",
+            "logit": 0.2791729271411896,
+            "entropy": 2.6381258964538574,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 391603002,
+            "answer": "wind",
+            "logit": 0.6077651977539062,
+            "entropy": 2.343346118927002,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 239997000,
+            "answer": "parked",
+            "logit": 0.586872398853302,
+            "entropy": 2.3185129165649414,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 239997002,
+            "answer": "bus stop",
+            "logit": 0.5861219763755798,
+            "entropy": 2.313444137573242,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 305639001,
+            "answer": "playing wii",
+            "logit": 0.4008239805698395,
+            "entropy": 1.8606722354888916,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 480416023,
+            "answer": "phone",
+            "logit": 0.10231446474790573,
+            "entropy": 4.140703201293945,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 392183000,
+            "answer": "rain",
+            "logit": 0.6316511631011963,
+            "entropy": 1.0484801530838013,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 392555002,
+            "answer": "resting",
+            "logit": 0.4380459189414978,
+            "entropy": 1.7388757467269897,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 392650000,
+            "answer": "landing",
+            "logit": 0.4883909523487091,
+            "entropy": 1.184072732925415,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 261888001,
+            "answer": "traffic",
+            "logit": 0.27006280422210693,
+            "entropy": 3.328411340713501,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 283947003,
+            "answer": "watching",
+            "logit": 0.2430311143398285,
+            "entropy": 2.8096258640289307,
+            "iscorrect": false,
+            "score": 2
+        }
+    ],
+    "statistics": {
+        "0": 171,
+        "1": 121,
+        "2": 90,
+        "3": 69,
+        "4": 63
+    },
+    "metadata": {
+        "question_type": "why is the",
+        "correct": 178,
+        "all_num": 514,
+        "accuracy": 34.63
+    }
+}
