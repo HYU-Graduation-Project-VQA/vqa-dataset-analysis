@@ -3,22 +3,33 @@ import matplotlib.pyplot as plt
 import tqdm
 
 QUESTION_JSON = 'val2014_json/v2_mscoco_val2014_annotations.json'
-ENTROPY_JSON = 'logit_entropy_analysis/val_banc1280_logit_epoch12.json'
-OCR_JSON = 'ocr_combination/ocr_results_combination.json'
+ENTROPY_JSON = '05_logit_entropy_analysis/val_banc1280_logit_epoch12.json'
+OCR_JSON = '07_ocr_combination/ocr_results_combination.json'
 
 threshold = [5.0, 4.9, 4.8, 4.7, 4.6, 4.5, 4.4, 4.3, 4.2, 4.1, 4.0, 3.9, 3.8, 3.7, 3.6, 3.5, 3.4, 3.3, 3.2, 3.1, 3.0]
+
+score_list = [0.0, 0.3, 0.6, 0.9, 1.0]
 
 def find_imgId(jsonfile, qid):
     # criteria : multiple_choice_answer
     for elem in jsonfile:
         if elem['question_id'] == qid:
-            return elem['image_id'], elem['multiple_choice_answer']
+            return elem['image_id'], elem['multiple_choice_answer'], elem['answers']
 
 def find_ocrAnswer(jsonFile, imgId):
     imgId = str(imgId).zfill(6)
     for elem in jsonFile:
         if elem['img_id'] == imgId:
             return elem['texts']
+
+def getScore_model(answerStr, answerList):
+    num = 0
+    for elem in answerList:
+        if elem["answer"] == answerStr:
+            num += 1
+    if (num >= 4): return 4
+    else:
+        return num; # 0, 1, 2, 3
 
 if __name__ == '__main__':
     # open JSON files
@@ -47,7 +58,7 @@ if __name__ == '__main__':
             # image_id = find_imgId(question_json, qid)
 
             # answer: multiple_choice_answer
-            image_id, answer = find_imgId(question_json, qid)
+            image_id, answer, answer10 = find_imgId(question_json, qid)
 
             mymodel_answer = q['answer']
             isCorrect = (mymodel_answer == answer)
@@ -56,6 +67,8 @@ if __name__ == '__main__':
             isBlank = False
             isExist = False
             ratio = None
+
+            score = score_list[getScore_model(mymodel_answer, answer10)]
 
             if not ocr_answer:
                 isBlank = True
@@ -66,8 +79,8 @@ if __name__ == '__main__':
 
             # ratio: 1 / 해당 image id에서 뽑은 OCR 텍스트 전체 개수
             qdict = {'qid': qid, 'isblank': isBlank, 'isExist': isExist, 'answer': answer,
-            'model_answer': mymodel_answer, 'isCorrect': isCorrect, 'ratio': ratio}
+            'model_answer': mymodel_answer, 'isCorrect': isCorrect, 'ratio': ratio, 'score': score}
             result_list.append(qdict)
         
-        with open('ocr_combination/annotation_OCR_result(thr={thr}).json'.format(thr=threshold[i]), 'w') as fp:
+        with open('07_ocr_combination/results_json(only model, ocrX)/annotation_OCR_result(thr={thr}).json'.format(thr=threshold[i]), 'w') as fp:
             json.dump(result_list, fp, indent=4)

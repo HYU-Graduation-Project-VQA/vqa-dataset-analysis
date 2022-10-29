@@ -6,7 +6,8 @@
         "answer": "corona",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 1342069,
@@ -15,7 +16,8 @@
         "answer": "shapes",
         "model_answer": "airplane",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 7444000,
@@ -24,7 +26,8 @@
         "answer": "established",
         "model_answer": "food",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 8498005,
@@ -33,7 +36,8 @@
         "answer": "4:30",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 8876001,
@@ -42,7 +46,8 @@
         "answer": "temperature",
         "model_answer": "numbers",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 11727004,
@@ -51,7 +56,8 @@
         "answer": "none",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 12666001,
@@ -60,7 +66,8 @@
         "answer": "l'amour travail",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 13175001,
@@ -69,7 +76,8 @@
         "answer": "notre dame",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 14038002,
@@ -78,7 +86,8 @@
         "answer": "balloons",
         "model_answer": "balloons",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 14557003,
@@ -87,7 +96,8 @@
         "answer": "6:05",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 19957004,
@@ -96,7 +106,8 @@
         "answer": "yu gi oh",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 20629002,
@@ -105,7 +116,8 @@
         "answer": "policia",
         "model_answer": "scania",
         "isCorrect": false,
-        "ratio": 0.2
+        "ratio": 0.2,
+        "score": 0.0
     },
     {
         "qid": 21365000,
@@ -114,7 +126,8 @@
         "answer": "elephant",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 22271002,
@@ -123,7 +136,8 @@
         "answer": "western ave",
         "model_answer": "1 way",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 22324007,
@@ -132,7 +146,8 @@
         "answer": "bottles",
         "model_answer": "table",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 23017001,
@@ -141,7 +156,8 @@
         "answer": "p",
         "model_answer": "low",
         "isCorrect": false,
-        "ratio": 0.3333333333333333
+        "ratio": 0.3333333333333333,
+        "score": 0.3
     },
     {
         "qid": 24195002,
@@ -150,7 +166,8 @@
         "answer": "b",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 24560001,
@@ -159,7 +176,8 @@
         "answer": "mat",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": 1.0
+        "ratio": 1.0,
+        "score": 0.0
     },
     {
         "qid": 25282002,
@@ -168,7 +186,8 @@
         "answer": "fish",
         "model_answer": "logo",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 26501001,
@@ -177,7 +196,8 @@
         "answer": "time",
         "model_answer": "time",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 26501007,
@@ -186,7 +206,8 @@
         "answer": "12:20",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 28998002,
@@ -195,7 +216,8 @@
         "answer": "french fries",
         "model_answer": "french fries",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 29253001,
@@ -204,7 +226,8 @@
         "answer": "ipad",
         "model_answer": "coca cola",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 30793000,
@@ -213,7 +236,8 @@
         "answer": "heineken",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 33131002,
@@ -222,7 +246,8 @@
         "answer": "arrows",
         "model_answer": "power",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 34571001,
@@ -231,7 +256,8 @@
         "answer": "11:13",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 34571002,
@@ -240,7 +266,8 @@
         "answer": "11:12",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 35760002,
@@ -249,7 +276,8 @@
         "answer": "3:30",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 36522004,
@@ -258,7 +286,8 @@
         "answer": "cardinal",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 38029001,
@@ -267,7 +296,8 @@
         "answer": "jazz",
         "model_answer": "not sure",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 38439000,
@@ -276,7 +306,8 @@
         "answer": "bun",
         "model_answer": "bread",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 40016002,
@@ -285,7 +316,8 @@
         "answer": "unknown",
         "model_answer": "olympics",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 42471012,
@@ -294,7 +326,8 @@
         "answer": "5:10",
         "model_answer": "3:30",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 43218012,
@@ -303,7 +336,8 @@
         "answer": "8:55",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 43404004,
@@ -312,7 +346,8 @@
         "answer": "10:35",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 43404010,
@@ -321,7 +356,8 @@
         "answer": "10:35",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 43957001,
@@ -330,7 +366,8 @@
         "answer": "nothing",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 47611000,
@@ -339,7 +376,8 @@
         "answer": "6:10",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 47720000,
@@ -348,7 +386,8 @@
         "answer": "custard",
         "model_answer": "peace",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 51277000,
@@ -357,7 +396,8 @@
         "answer": "ferris wheels",
         "model_answer": "flowers",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 53267003,
@@ -366,7 +406,8 @@
         "answer": "11:00",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 53919004,
@@ -375,7 +416,8 @@
         "answer": "12:55",
         "model_answer": "night",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 57550003,
@@ -384,7 +426,8 @@
         "answer": "sitting",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 57814000,
@@ -393,7 +436,8 @@
         "answer": "none",
         "model_answer": "floral",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 61972001,
@@ -402,7 +446,8 @@
         "answer": "3:10",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 62041002,
@@ -411,7 +456,8 @@
         "answer": "1:48",
         "model_answer": "12:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 64150000,
@@ -420,7 +466,8 @@
         "answer": "colgate",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 64693001,
@@ -429,7 +476,8 @@
         "answer": "2:54",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 66568002,
@@ -438,7 +486,8 @@
         "answer": "brazil",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 67078005,
@@ -447,7 +496,8 @@
         "answer": "all british",
         "model_answer": "beer",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 67255008,
@@ -456,7 +506,8 @@
         "answer": "delta",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 67867002,
@@ -465,7 +516,8 @@
         "answer": "evergreen",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 68219003,
@@ -474,7 +526,8 @@
         "answer": "none",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 68411003,
@@ -483,7 +536,8 @@
         "answer": "cheesecake",
         "model_answer": "chinese",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 70067003,
@@ -492,7 +546,8 @@
         "answer": "too late",
         "model_answer": "12:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 70125005,
@@ -501,7 +556,8 @@
         "answer": "second st",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 71283002,
@@ -510,7 +566,8 @@
         "answer": "painting",
         "model_answer": "painting",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 71807000,
@@ -519,7 +576,8 @@
         "answer": "3:29",
         "model_answer": "12",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 74000003,
@@ -528,7 +586,8 @@
         "answer": "12:15",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 74209006,
@@ -537,7 +596,8 @@
         "answer": "6:00",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 75426003,
@@ -546,7 +606,8 @@
         "answer": "time",
         "model_answer": "time",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 75426021,
@@ -555,7 +616,8 @@
         "answer": "zoo",
         "model_answer": "park",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 75426023,
@@ -564,7 +626,8 @@
         "answer": "complaints",
         "model_answer": "end",
         "isCorrect": false,
-        "ratio": 0.25
+        "ratio": 0.25,
+        "score": 0.0
     },
     {
         "qid": 75426027,
@@ -573,7 +636,8 @@
         "answer": "tourist office",
         "model_answer": "right",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.9
     },
     {
         "qid": 77405001,
@@ -582,7 +646,8 @@
         "answer": "scream",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 77837000,
@@ -591,7 +656,8 @@
         "answer": "303",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 78176000,
@@ -600,7 +666,8 @@
         "answer": "9:15",
         "model_answer": "6:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 78176001,
@@ -609,7 +676,8 @@
         "answer": "9:15",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 78176003,
@@ -618,7 +686,8 @@
         "answer": "3:45",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 78312000,
@@ -627,7 +696,8 @@
         "answer": "2:10",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 78312001,
@@ -636,7 +706,8 @@
         "answer": "2:10",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 79261002,
@@ -645,7 +716,8 @@
         "answer": "25 7 13 00",
         "model_answer": "12",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 80017001,
@@ -654,7 +726,8 @@
         "answer": "sorry",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 81061003,
@@ -663,7 +736,8 @@
         "answer": "its out for trash",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 82327001,
@@ -672,7 +746,8 @@
         "answer": "3:45",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 82558002,
@@ -681,7 +756,8 @@
         "answer": "100",
         "model_answer": "0",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 83045001,
@@ -690,7 +766,8 @@
         "answer": "sm3",
         "model_answer": "s",
         "isCorrect": false,
-        "ratio": 1.0
+        "ratio": 1.0,
+        "score": 0.0
     },
     {
         "qid": 83086003,
@@ -699,7 +776,8 @@
         "answer": "6:35",
         "model_answer": "10:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 84982004,
@@ -708,7 +786,8 @@
         "answer": "1600",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 86845002,
@@ -717,7 +796,8 @@
         "answer": "4:05",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 87052029,
@@ -726,7 +806,8 @@
         "answer": "dirt",
         "model_answer": "refrigerator",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 87354000,
@@ -735,7 +816,8 @@
         "answer": "34th",
         "model_answer": "washington",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 87387001,
@@ -744,7 +826,8 @@
         "answer": "10:30",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 89745003,
@@ -753,7 +836,8 @@
         "answer": "12:15",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 90802000,
@@ -762,7 +846,8 @@
         "answer": "brand",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 91343001,
@@ -771,7 +856,8 @@
         "answer": "hamburger",
         "model_answer": "dog",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 91715007,
@@ -780,7 +866,8 @@
         "answer": "roy cawood",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": 0.14285714285714285
+        "ratio": 0.14285714285714285,
+        "score": 0.0
     },
     {
         "qid": 92177002,
@@ -789,7 +876,8 @@
         "answer": "palm trees",
         "model_answer": "tree",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 92604001,
@@ -798,7 +886,8 @@
         "answer": "address",
         "model_answer": "street",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 94317002,
@@ -807,7 +896,8 @@
         "answer": "cookbooks",
         "model_answer": "books",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 95569000,
@@ -816,7 +906,8 @@
         "answer": "1:45",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 96804000,
@@ -825,7 +916,8 @@
         "answer": "chilled",
         "model_answer": "pepsi",
         "isCorrect": false,
-        "ratio": 0.25
+        "ratio": 0.25,
+        "score": 0.0
     },
     {
         "qid": 98392000,
@@ -834,7 +926,8 @@
         "answer": "2:03",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 98392006,
@@ -843,7 +936,8 @@
         "answer": "1:10",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 98392007,
@@ -852,7 +946,8 @@
         "answer": "2:03",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 98392009,
@@ -861,7 +956,8 @@
         "answer": "2:03",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 99615000,
@@ -870,7 +966,8 @@
         "answer": "trucks",
         "model_answer": "bears",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 101588003,
@@ -879,7 +976,8 @@
         "answer": "1:38",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 101588004,
@@ -888,7 +986,8 @@
         "answer": "1:38",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 101884000,
@@ -897,7 +996,8 @@
         "answer": "6:15",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 104625005,
@@ -906,7 +1006,8 @@
         "answer": "lg",
         "model_answer": "news",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 105455003,
@@ -915,7 +1016,8 @@
         "answer": "6:20",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 105455004,
@@ -924,7 +1026,8 @@
         "answer": "6:20",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 105455006,
@@ -933,7 +1036,8 @@
         "answer": "6:20",
         "model_answer": "3:30",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 105455010,
@@ -942,7 +1046,8 @@
         "answer": "6:20",
         "model_answer": "3:30",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 106073002,
@@ -951,7 +1056,8 @@
         "answer": "5:05",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 106563000,
@@ -960,7 +1066,8 @@
         "answer": "12:10",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 106563001,
@@ -969,7 +1076,8 @@
         "answer": "12:10",
         "model_answer": "time",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 109146007,
@@ -978,7 +1086,8 @@
         "answer": "white horse",
         "model_answer": "white house",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.9
     },
     {
         "qid": 109308001,
@@ -987,7 +1096,8 @@
         "answer": "2010",
         "model_answer": "0",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 112739003,
@@ -996,7 +1106,8 @@
         "answer": "40",
         "model_answer": "speed limit",
         "isCorrect": false,
-        "ratio": 0.2
+        "ratio": 0.2,
+        "score": 0.6
     },
     {
         "qid": 112897002,
@@ -1005,7 +1116,8 @@
         "answer": "1:25",
         "model_answer": "12:15",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 113440002,
@@ -1014,7 +1126,8 @@
         "answer": "turkey",
         "model_answer": "fish",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 114033001,
@@ -1023,7 +1136,8 @@
         "answer": "center",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": 0.2
+        "ratio": 0.2,
+        "score": 0.0
     },
     {
         "qid": 115229000,
@@ -1032,7 +1146,8 @@
         "answer": "paper",
         "model_answer": "bench",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 117725002,
@@ -1041,7 +1156,8 @@
         "answer": "6:58",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 118237000,
@@ -1050,7 +1166,8 @@
         "answer": "woman's face",
         "model_answer": "bear",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 121143004,
@@ -1059,7 +1176,8 @@
         "answer": "5:40",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 121196005,
@@ -1068,7 +1186,8 @@
         "answer": "mill ln",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 124627001,
@@ -1077,7 +1196,8 @@
         "answer": "5:45",
         "model_answer": "night",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 126340004,
@@ -1086,7 +1206,8 @@
         "answer": "really",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 127775002,
@@ -1095,7 +1216,8 @@
         "answer": "mcdonald's",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 127984000,
@@ -1104,7 +1226,8 @@
         "answer": "9:45",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 128417001,
@@ -1113,7 +1236,8 @@
         "answer": "drink",
         "model_answer": "paper",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 129159007,
@@ -1122,7 +1246,8 @@
         "answer": "4:35",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 129579005,
@@ -1131,7 +1256,8 @@
         "answer": "12:00",
         "model_answer": "12:00",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 132373004,
@@ -1140,7 +1266,8 @@
         "answer": "1:08",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 132861002,
@@ -1149,7 +1276,8 @@
         "answer": "10:05",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 133693009,
@@ -1158,7 +1286,8 @@
         "answer": "5 eleven",
         "model_answer": "5",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.9
     },
     {
         "qid": 134575000,
@@ -1167,7 +1296,8 @@
         "answer": "nova",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 135890004,
@@ -1176,7 +1306,8 @@
         "answer": "10:25",
         "model_answer": "10:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 136400003,
@@ -1185,7 +1316,8 @@
         "answer": "seat",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 137108000,
@@ -1194,7 +1326,8 @@
         "answer": "0:44",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 138601003,
@@ -1203,7 +1336,8 @@
         "answer": "car",
         "model_answer": "advertisement",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 139294002,
@@ -1212,7 +1346,8 @@
         "answer": "dock",
         "model_answer": "ski",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 142774013,
@@ -1221,7 +1356,8 @@
         "answer": "arabic",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 142774036,
@@ -1230,7 +1366,8 @@
         "answer": "unknown",
         "model_answer": "unknown",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 143174001,
@@ -1239,7 +1376,8 @@
         "answer": "museum",
         "model_answer": "street",
         "isCorrect": false,
-        "ratio": 0.5
+        "ratio": 0.5,
+        "score": 0.0
     },
     {
         "qid": 143767000,
@@ -1248,7 +1386,8 @@
         "answer": "female care",
         "model_answer": "female",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 144706000,
@@ -1257,7 +1396,8 @@
         "answer": "washington",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": 1.0
+        "ratio": 1.0,
+        "score": 0.0
     },
     {
         "qid": 145073002,
@@ -1266,7 +1406,8 @@
         "answer": "google",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 145628000,
@@ -1275,7 +1416,8 @@
         "answer": "water",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": 0.25
+        "ratio": 0.25,
+        "score": 0.0
     },
     {
         "qid": 146738000,
@@ -1284,7 +1426,8 @@
         "answer": "7:30",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 148403001,
@@ -1293,7 +1436,8 @@
         "answer": "12:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 148614011,
@@ -1302,7 +1446,8 @@
         "answer": "1:30",
         "model_answer": "1:30",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 153283011,
@@ -1311,7 +1456,8 @@
         "answer": "3:30",
         "model_answer": "3:30",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 153782002,
@@ -1320,7 +1466,8 @@
         "answer": "3:25",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 156292000,
@@ -1329,7 +1476,8 @@
         "answer": "630",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 156606002,
@@ -1338,7 +1486,8 @@
         "answer": "dancing",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": 0.2
+        "ratio": 0.2,
+        "score": 0.0
     },
     {
         "qid": 156935004,
@@ -1347,7 +1496,8 @@
         "answer": "reading",
         "model_answer": "red sox",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 157847004,
@@ -1356,7 +1506,8 @@
         "answer": "no fence",
         "model_answer": "safety",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 158035004,
@@ -1365,7 +1516,8 @@
         "answer": "city",
         "model_answer": "us open",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 159561003,
@@ -1374,7 +1526,8 @@
         "answer": "illinois",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 160580002,
@@ -1383,7 +1536,8 @@
         "answer": "1:50",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 160580003,
@@ -1392,7 +1546,8 @@
         "answer": "12:50",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 160580006,
@@ -1401,7 +1556,8 @@
         "answer": "12:50",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 160580007,
@@ -1410,7 +1566,8 @@
         "answer": "12:50",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 162561003,
@@ -1419,7 +1576,8 @@
         "answer": "7:05",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 162914002,
@@ -1428,7 +1586,8 @@
         "answer": "11:55",
         "model_answer": "11:55",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 163219009,
@@ -1437,7 +1596,8 @@
         "answer": "city sightseeing",
         "model_answer": "red",
         "isCorrect": false,
-        "ratio": 0.07692307692307693
+        "ratio": 0.07692307692307693,
+        "score": 0.0
     },
     {
         "qid": 163798001,
@@ -1446,7 +1606,8 @@
         "answer": "2:10",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 163798004,
@@ -1455,7 +1616,8 @@
         "answer": "2:10",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 164363000,
@@ -1464,7 +1626,8 @@
         "answer": "west",
         "model_answer": "left",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 165422000,
@@ -1473,7 +1636,8 @@
         "answer": "12:25",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 166096001,
@@ -1482,7 +1646,8 @@
         "answer": "7:05",
         "model_answer": "2:25",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 166527000,
@@ -1491,7 +1656,8 @@
         "answer": "12",
         "model_answer": "7:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 167003000,
@@ -1500,7 +1666,8 @@
         "answer": "ride",
         "model_answer": "apple",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 169273000,
@@ -1509,7 +1676,8 @@
         "answer": "1:38",
         "model_answer": "12",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 170017004,
@@ -1518,7 +1686,8 @@
         "answer": "place",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 171067002,
@@ -1527,7 +1696,8 @@
         "answer": "6:00",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 171335001,
@@ -1536,7 +1706,8 @@
         "answer": "1:40",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 171335004,
@@ -1545,7 +1716,8 @@
         "answer": "1:40",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 173434009,
@@ -1554,7 +1726,8 @@
         "answer": "9:15",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 174567005,
@@ -1563,7 +1736,8 @@
         "answer": "apple",
         "model_answer": "apple",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 176811002,
@@ -1572,7 +1746,8 @@
         "answer": "3:32",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 177173000,
@@ -1581,7 +1756,8 @@
         "answer": "antique",
         "model_answer": "restaurant",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 179317022,
@@ -1590,7 +1766,8 @@
         "answer": "nothing",
         "model_answer": "nothing",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 182362000,
@@ -1599,7 +1776,8 @@
         "answer": "pig",
         "model_answer": "logo",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 184402001,
@@ -1608,7 +1786,8 @@
         "answer": "i don't know",
         "model_answer": "safety",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 185327001,
@@ -1617,7 +1796,8 @@
         "answer": "store name",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 186130002,
@@ -1626,7 +1806,8 @@
         "answer": "face",
         "model_answer": "train",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 188818010,
@@ -1635,7 +1816,8 @@
         "answer": "website",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 188992001,
@@ -1644,7 +1826,8 @@
         "answer": "1:50",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 189241002,
@@ -1653,7 +1836,8 @@
         "answer": "ashby's",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 190432003,
@@ -1662,7 +1846,8 @@
         "answer": "necklaces",
         "model_answer": "scissors",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 191013001,
@@ -1671,7 +1856,8 @@
         "answer": "5:54",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 193494002,
@@ -1680,7 +1866,8 @@
         "answer": "trash",
         "model_answer": "blue",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 193704016,
@@ -1689,7 +1876,8 @@
         "answer": "letom",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 194012002,
@@ -1698,7 +1886,8 @@
         "answer": "fish",
         "model_answer": "cat",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 195271001,
@@ -1707,7 +1896,8 @@
         "answer": "6:35",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 197130000,
@@ -1716,7 +1906,8 @@
         "answer": "school",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 198650001,
@@ -1725,7 +1916,8 @@
         "answer": "art",
         "model_answer": "graffiti",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 198661000,
@@ -1734,7 +1926,8 @@
         "answer": "11:10",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 200882002,
@@ -1743,7 +1936,8 @@
         "answer": "1:10",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 201555002,
@@ -1752,7 +1946,8 @@
         "answer": "grand national blvd",
         "model_answer": "water",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 202118004,
@@ -1761,7 +1956,8 @@
         "answer": "banque nationale de paris",
         "model_answer": "emirates",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 202572004,
@@ -1770,7 +1966,8 @@
         "answer": "won't kill you",
         "model_answer": "warning",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 202777006,
@@ -1779,7 +1976,8 @@
         "answer": "11:35",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 202935002,
@@ -1788,7 +1986,8 @@
         "answer": "12:00",
         "model_answer": "12:00",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 203345005,
@@ -1797,7 +1996,8 @@
         "answer": "hot dog",
         "model_answer": "yellow",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 203667002,
@@ -1806,7 +2006,8 @@
         "answer": "9:30",
         "model_answer": "10:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 204502003,
@@ -1815,7 +2016,8 @@
         "answer": "granite",
         "model_answer": "glass",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 205239002,
@@ -1824,7 +2026,8 @@
         "answer": "12:55",
         "model_answer": "12:55",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 205239004,
@@ -1833,7 +2036,8 @@
         "answer": "12:55",
         "model_answer": "12:55",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 207180004,
@@ -1842,7 +2046,8 @@
         "answer": "10:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 207670003,
@@ -1851,7 +2056,8 @@
         "answer": "24",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 208585004,
@@ -1860,7 +2066,8 @@
         "answer": "4:45",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 208830002,
@@ -1869,7 +2076,8 @@
         "answer": "5:15",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 209388001,
@@ -1878,7 +2086,8 @@
         "answer": "power plant",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 209530018,
@@ -1887,7 +2096,8 @@
         "answer": "fruit",
         "model_answer": "flowers",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 209930003,
@@ -1896,7 +2106,8 @@
         "answer": "giants",
         "model_answer": "budweiser",
         "isCorrect": false,
-        "ratio": 0.09090909090909091
+        "ratio": 0.09090909090909091,
+        "score": 0.3
     },
     {
         "qid": 210103001,
@@ -1905,7 +2116,8 @@
         "answer": "softball",
         "model_answer": "boston",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 213728002,
@@ -1914,7 +2126,8 @@
         "answer": "504",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": 0.1111111111111111
+        "ratio": 0.1111111111111111,
+        "score": 0.0
     },
     {
         "qid": 214527000,
@@ -1923,7 +2136,8 @@
         "answer": "12:58",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.9
     },
     {
         "qid": 214527005,
@@ -1932,7 +2146,8 @@
         "answer": "12:58",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 214527007,
@@ -1941,7 +2156,8 @@
         "answer": "12:55",
         "model_answer": "12:55",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 214527008,
@@ -1950,7 +2166,8 @@
         "answer": "12:55",
         "model_answer": "12:55",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 214527011,
@@ -1959,7 +2176,8 @@
         "answer": "1",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 214527017,
@@ -1968,7 +2186,8 @@
         "answer": "12:57",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 214527023,
@@ -1977,7 +2196,8 @@
         "answer": "12:55",
         "model_answer": "12:55",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 214527033,
@@ -1986,7 +2206,8 @@
         "answer": "12:58",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 214527043,
@@ -1995,7 +2216,8 @@
         "answer": "12:57",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 214527047,
@@ -2004,7 +2226,8 @@
         "answer": "12:58",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 214737000,
@@ -2013,7 +2236,8 @@
         "answer": "1:50",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 214742002,
@@ -2022,7 +2246,8 @@
         "answer": "cereal",
         "model_answer": "food",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 216369001,
@@ -2031,7 +2256,8 @@
         "answer": "6:12",
         "model_answer": "10:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 218205000,
@@ -2040,7 +2266,8 @@
         "answer": "tree",
         "model_answer": "tree",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.9
     },
     {
         "qid": 218388003,
@@ -2049,7 +2276,8 @@
         "answer": "c st",
         "model_answer": "main",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 219514007,
@@ -2058,7 +2286,8 @@
         "answer": "ge",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": 0.14285714285714285
+        "ratio": 0.14285714285714285,
+        "score": 0.0
     },
     {
         "qid": 220528003,
@@ -2067,7 +2296,8 @@
         "answer": "brazil",
         "model_answer": "brazil",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 222635046,
@@ -2076,7 +2306,8 @@
         "answer": "feet",
         "model_answer": "feet",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 223256000,
@@ -2085,7 +2316,8 @@
         "answer": "live hard drive easy",
         "model_answer": "peace",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 223833001,
@@ -2094,7 +2326,8 @@
         "answer": "arrows",
         "model_answer": "words",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 225518000,
@@ -2103,7 +2336,8 @@
         "answer": "alcohol",
         "model_answer": "wine",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 225700004,
@@ -2112,7 +2346,8 @@
         "answer": "12:20",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 226256000,
@@ -2121,7 +2356,8 @@
         "answer": "6:50",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 226592002,
@@ -2130,7 +2366,8 @@
         "answer": "zebra",
         "model_answer": "bedroom",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 227879001,
@@ -2139,7 +2376,8 @@
         "answer": "com",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": 0.5
+        "ratio": 0.5,
+        "score": 0.0
     },
     {
         "qid": 229270003,
@@ -2148,7 +2386,8 @@
         "answer": "life jacket",
         "model_answer": "rectangle",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 229782001,
@@ -2157,7 +2396,8 @@
         "answer": "chemin du let say",
         "model_answer": "blue",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 229782005,
@@ -2166,7 +2406,8 @@
         "answer": "chemin du let say",
         "model_answer": "words",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 230576002,
@@ -2175,7 +2416,8 @@
         "answer": "4:55",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 230982002,
@@ -2184,7 +2426,8 @@
         "answer": "fish",
         "model_answer": "logo",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 231617007,
@@ -2193,7 +2436,8 @@
         "answer": "hitch",
         "model_answer": "metal",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 233187002,
@@ -2202,7 +2446,8 @@
         "answer": "mistletoe",
         "model_answer": "umbrella",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 234684005,
@@ -2211,7 +2456,8 @@
         "answer": "salon",
         "model_answer": "restaurant",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 234684007,
@@ -2220,7 +2466,8 @@
         "answer": "salon de paris esthetique",
         "model_answer": "sign",
         "isCorrect": false,
-        "ratio": 0.5
+        "ratio": 0.5,
+        "score": 0.0
     },
     {
         "qid": 238911005,
@@ -2229,7 +2476,8 @@
         "answer": "saints",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 241986001,
@@ -2238,7 +2486,8 @@
         "answer": "luggage",
         "model_answer": "books",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 244496002,
@@ -2247,7 +2496,8 @@
         "answer": "robot",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 244496003,
@@ -2256,7 +2506,8 @@
         "answer": "robot and fire",
         "model_answer": "red",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 244496006,
@@ -2265,7 +2516,8 @@
         "answer": "robot",
         "model_answer": "face",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 245026011,
@@ -2274,7 +2526,8 @@
         "answer": "e",
         "model_answer": "happy birthday",
         "isCorrect": false,
-        "ratio": 0.5
+        "ratio": 0.5,
+        "score": 0.6
     },
     {
         "qid": 246145001,
@@ -2283,7 +2536,8 @@
         "answer": "3:50",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 248129004,
@@ -2292,7 +2546,8 @@
         "answer": "goods",
         "model_answer": "peace",
         "isCorrect": false,
-        "ratio": 0.16666666666666666
+        "ratio": 0.16666666666666666,
+        "score": 0.0
     },
     {
         "qid": 248232000,
@@ -2301,7 +2556,8 @@
         "answer": "9:10",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 249295001,
@@ -2310,7 +2566,8 @@
         "answer": "2:17",
         "model_answer": "7:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 249720005,
@@ -2319,7 +2576,8 @@
         "answer": "harbor",
         "model_answer": "coca cola",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 253282000,
@@ -2328,7 +2586,8 @@
         "answer": "doves",
         "model_answer": "chocolate",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 255385001,
@@ -2337,7 +2596,8 @@
         "answer": "4:45",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 255385004,
@@ -2346,7 +2606,8 @@
         "answer": "4:45",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 256407002,
@@ -2355,7 +2616,8 @@
         "answer": "8:35",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 256868002,
@@ -2364,7 +2626,8 @@
         "answer": "museum",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 256973008,
@@ -2373,7 +2636,8 @@
         "answer": "none",
         "model_answer": "words",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 257053002,
@@ -2382,7 +2646,8 @@
         "answer": "toilet",
         "model_answer": "toilet",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 259136003,
@@ -2391,7 +2656,8 @@
         "answer": "photoshop",
         "model_answer": "wind",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 260695001,
@@ -2400,7 +2666,8 @@
         "answer": "george bush",
         "model_answer": "news",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 261707000,
@@ -2409,7 +2676,8 @@
         "answer": "pie",
         "model_answer": "apple",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 261707002,
@@ -2418,7 +2686,8 @@
         "answer": "coffee cup",
         "model_answer": "clock",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 262738001,
@@ -2427,7 +2696,8 @@
         "answer": "boris",
         "model_answer": "wisconsin",
         "isCorrect": false,
-        "ratio": 1.0
+        "ratio": 1.0,
+        "score": 0.0
     },
     {
         "qid": 263346020,
@@ -2436,7 +2706,8 @@
         "answer": "j",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 263382001,
@@ -2445,7 +2716,8 @@
         "answer": "11:55",
         "model_answer": "11:55",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 266385000,
@@ -2454,7 +2726,8 @@
         "answer": "5:30",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 266857001,
@@ -2463,7 +2736,8 @@
         "answer": "10:20",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 268356002,
@@ -2472,7 +2746,8 @@
         "answer": "10:15",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 268496001,
@@ -2481,7 +2756,8 @@
         "answer": "yarmouth",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 270274000,
@@ -2490,7 +2766,8 @@
         "answer": "receipt",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 271035003,
@@ -2499,7 +2776,8 @@
         "answer": "metro",
         "model_answer": "coca cola",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 271068001,
@@ -2508,7 +2786,8 @@
         "answer": "1:10",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 271143002,
@@ -2517,7 +2796,8 @@
         "answer": "shoe",
         "model_answer": "dog",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 272080002,
@@ -2526,7 +2806,8 @@
         "answer": "12:40",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 272185022,
@@ -2535,7 +2816,8 @@
         "answer": "pay here",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 272925001,
@@ -2544,7 +2826,8 @@
         "answer": "metro free daily",
         "model_answer": "welcome",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 274864001,
@@ -2553,7 +2836,8 @@
         "answer": "11:55",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 274864010,
@@ -2562,7 +2846,8 @@
         "answer": "11:55",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 274939002,
@@ -2571,7 +2856,8 @@
         "answer": "10:55",
         "model_answer": "10:55",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 275722002,
@@ -2580,7 +2866,8 @@
         "answer": "12:47",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 276413007,
@@ -2589,7 +2876,8 @@
         "answer": "age",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 278134002,
@@ -2598,7 +2886,8 @@
         "answer": "none",
         "model_answer": "top",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 279696001,
@@ -2607,7 +2896,8 @@
         "answer": "exit",
         "model_answer": "welcome",
         "isCorrect": false,
-        "ratio": 0.2
+        "ratio": 0.2,
+        "score": 0.0
     },
     {
         "qid": 280530002,
@@ -2616,7 +2906,8 @@
         "answer": "2:45",
         "model_answer": "3:30",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 281512017,
@@ -2625,7 +2916,8 @@
         "answer": "perimeter",
         "model_answer": "signs",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 281625006,
@@ -2634,7 +2926,8 @@
         "answer": "2:40",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 282298001,
@@ -2643,7 +2936,8 @@
         "answer": "6:17",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 283268002,
@@ -2652,7 +2946,8 @@
         "answer": "child",
         "model_answer": "chair",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 283432001,
@@ -2661,7 +2956,8 @@
         "answer": "8:28",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 285302002,
@@ -2670,7 +2966,8 @@
         "answer": "origami",
         "model_answer": "flags",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 288062001,
@@ -2679,7 +2976,8 @@
         "answer": "green",
         "model_answer": "green",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 288493000,
@@ -2688,7 +2986,8 @@
         "answer": "2:15",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 288729002,
@@ -2697,7 +2996,8 @@
         "answer": "aiden",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": 1.0
+        "ratio": 1.0,
+        "score": 0.0
     },
     {
         "qid": 289702000,
@@ -2706,7 +3006,8 @@
         "answer": "dodgers",
         "model_answer": "words",
         "isCorrect": false,
-        "ratio": 0.3333333333333333
+        "ratio": 0.3333333333333333,
+        "score": 0.0
     },
     {
         "qid": 289938003,
@@ -2715,7 +3016,8 @@
         "answer": "none",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 289943003,
@@ -2724,7 +3026,8 @@
         "answer": "al boom st",
         "model_answer": "end",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 290248003,
@@ -2733,7 +3036,8 @@
         "answer": "shield",
         "model_answer": "advertisement",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 291458003,
@@ -2742,7 +3046,8 @@
         "answer": "1:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 291458004,
@@ -2751,7 +3056,8 @@
         "answer": "1:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 291458005,
@@ -2760,7 +3066,8 @@
         "answer": "1:50",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 291983007,
@@ -2769,7 +3076,8 @@
         "answer": "7",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 292467000,
@@ -2778,7 +3086,8 @@
         "answer": "9:15",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 292804004,
@@ -2787,7 +3096,8 @@
         "answer": "5:50",
         "model_answer": "7:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 292804005,
@@ -2796,7 +3106,8 @@
         "answer": "5:50",
         "model_answer": "6:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 293228001,
@@ -2805,7 +3116,8 @@
         "answer": "children's",
         "model_answer": "school",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 293666000,
@@ -2814,7 +3126,8 @@
         "answer": "1:49",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 294032003,
@@ -2823,7 +3136,8 @@
         "answer": "south",
         "model_answer": "california",
         "isCorrect": false,
-        "ratio": 0.3333333333333333
+        "ratio": 0.3333333333333333,
+        "score": 0.0
     },
     {
         "qid": 296098003,
@@ -2832,7 +3146,8 @@
         "answer": "9:08",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 296098006,
@@ -2841,7 +3156,8 @@
         "answer": "9:07",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 296222001,
@@ -2850,7 +3166,8 @@
         "answer": "911",
         "model_answer": "wisconsin",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 296988001,
@@ -2859,7 +3176,8 @@
         "answer": "trains",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 300121001,
@@ -2868,7 +3186,8 @@
         "answer": "8:10",
         "model_answer": "12",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 300644001,
@@ -2877,7 +3196,8 @@
         "answer": "oriental",
         "model_answer": "chinese",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 301581001,
@@ -2886,7 +3206,8 @@
         "answer": "xx",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 301817000,
@@ -2895,7 +3216,8 @@
         "answer": "1:10",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 301817007,
@@ -2904,7 +3226,8 @@
         "answer": "1:05",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 303667004,
@@ -2913,7 +3236,8 @@
         "answer": "pj's",
         "model_answer": "no parking",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 304390002,
@@ -2922,7 +3246,8 @@
         "answer": "9:55",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 304396001,
@@ -2931,7 +3256,8 @@
         "answer": "2:30",
         "model_answer": "1:05",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 304484001,
@@ -2940,7 +3266,8 @@
         "answer": "1:53",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 304484003,
@@ -2949,7 +3276,8 @@
         "answer": "1:55",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 305833006,
@@ -2958,7 +3286,8 @@
         "answer": "6:30",
         "model_answer": "5:15",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 306426000,
@@ -2967,7 +3296,8 @@
         "answer": "braid",
         "model_answer": "squares",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 309341000,
@@ -2976,7 +3306,8 @@
         "answer": "waves",
         "model_answer": "waves",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.9
     },
     {
         "qid": 312144002,
@@ -2985,7 +3316,8 @@
         "answer": "5:30",
         "model_answer": "7:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 313647007,
@@ -2994,7 +3326,8 @@
         "answer": "11",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 314426001,
@@ -3003,7 +3336,8 @@
         "answer": "5:35",
         "model_answer": "night",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 315209011,
@@ -3012,7 +3346,8 @@
         "answer": "hair services",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 315209012,
@@ -3021,7 +3356,8 @@
         "answer": "fence",
         "model_answer": "railroad crossing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 315660007,
@@ -3030,7 +3366,8 @@
         "answer": "spring valley",
         "model_answer": "corona",
         "isCorrect": false,
-        "ratio": 0.05
+        "ratio": 0.05,
+        "score": 0.0
     },
     {
         "qid": 317479002,
@@ -3039,7 +3376,8 @@
         "answer": "souvlaki gr",
         "model_answer": "blue",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 318910001,
@@ -3048,7 +3386,8 @@
         "answer": "cigarettes",
         "model_answer": "coffee",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 319655005,
@@ -3057,7 +3396,8 @@
         "answer": "4:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 319677001,
@@ -3066,7 +3406,8 @@
         "answer": "battle royale",
         "model_answer": "picture",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 321665003,
@@ -3075,7 +3416,8 @@
         "answer": "1:20",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 321805000,
@@ -3084,7 +3426,8 @@
         "answer": "5:15",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 321935004,
@@ -3093,7 +3436,8 @@
         "answer": "4:00",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 321935019,
@@ -3102,7 +3446,8 @@
         "answer": "12:20",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 322822002,
@@ -3111,7 +3456,8 @@
         "answer": "1:50",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 323682002,
@@ -3120,7 +3466,8 @@
         "answer": "surf",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 323888001,
@@ -3129,7 +3476,8 @@
         "answer": "7:30",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 323888002,
@@ -3138,7 +3486,8 @@
         "answer": "6:55",
         "model_answer": "7:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 324161003,
@@ -3147,7 +3496,8 @@
         "answer": "5:45",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 324161005,
@@ -3156,7 +3506,8 @@
         "answer": "5:45",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 324774002,
@@ -3165,7 +3516,8 @@
         "answer": "10:10",
         "model_answer": "10:10",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 325836001,
@@ -3174,7 +3526,8 @@
         "answer": "flames",
         "model_answer": "motorcycle",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 325873001,
@@ -3183,7 +3536,8 @@
         "answer": "fun fun",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 328551002,
@@ -3192,7 +3546,8 @@
         "answer": "2:20",
         "model_answer": "7:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 329280000,
@@ -3201,7 +3556,8 @@
         "answer": "ups",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 329582002,
@@ -3210,7 +3566,8 @@
         "answer": "1:45",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 329582008,
@@ -3219,7 +3576,8 @@
         "answer": "1:45",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 330237002,
@@ -3228,7 +3586,8 @@
         "answer": "maui",
         "model_answer": "donuts",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 331236002,
@@ -3237,7 +3596,8 @@
         "answer": "slurpee",
         "model_answer": "frisbee",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 333140000,
@@ -3246,7 +3606,8 @@
         "answer": "bible",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 333556005,
@@ -3255,7 +3616,8 @@
         "answer": "12:52",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 333556006,
@@ -3264,7 +3626,8 @@
         "answer": "1:20",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 333565000,
@@ -3273,7 +3636,8 @@
         "answer": "water",
         "model_answer": "orange",
         "isCorrect": false,
-        "ratio": 0.14285714285714285
+        "ratio": 0.14285714285714285,
+        "score": 0.0
     },
     {
         "qid": 336777004,
@@ -3282,7 +3646,8 @@
         "answer": "many",
         "model_answer": "0",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 337379002,
@@ -3291,7 +3656,8 @@
         "answer": "beach",
         "model_answer": "beach",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.9
     },
     {
         "qid": 338007001,
@@ -3300,7 +3666,8 @@
         "answer": "no smoking",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 338592004,
@@ -3309,7 +3676,8 @@
         "answer": "1:00",
         "model_answer": "2:25",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 341469014,
@@ -3318,7 +3686,8 @@
         "answer": "aa",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 342006007,
@@ -3327,7 +3696,8 @@
         "answer": "8:35",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 342460001,
@@ -3336,7 +3706,8 @@
         "answer": "11:55",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 342819001,
@@ -3345,7 +3716,8 @@
         "answer": "modern",
         "model_answer": "floral",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 343325002,
@@ -3354,7 +3726,8 @@
         "answer": "b",
         "model_answer": "logo",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 343599002,
@@ -3363,7 +3736,8 @@
         "answer": "5pm",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 345869000,
@@ -3372,7 +3746,8 @@
         "answer": "1:25",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 345869002,
@@ -3381,7 +3756,8 @@
         "answer": "2:25",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 347023001,
@@ -3390,7 +3766,8 @@
         "answer": "national portrait gallery",
         "model_answer": "words",
         "isCorrect": false,
-        "ratio": 1.0
+        "ratio": 1.0,
+        "score": 0.0
     },
     {
         "qid": 347039000,
@@ -3399,7 +3776,8 @@
         "answer": "6:25",
         "model_answer": "6:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 349575000,
@@ -3408,7 +3786,8 @@
         "answer": "2:59",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 349678005,
@@ -3417,7 +3796,8 @@
         "answer": "10:40",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 351466003,
@@ -3426,7 +3806,8 @@
         "answer": "11:50",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 351477003,
@@ -3435,7 +3816,8 @@
         "answer": "it isn't",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 351590005,
@@ -3444,7 +3826,8 @@
         "answer": "4:35",
         "model_answer": "9:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 352703001,
@@ -3453,7 +3836,8 @@
         "answer": "pinch",
         "model_answer": "pizza cutter",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 353836006,
@@ -3462,7 +3846,8 @@
         "answer": "happy",
         "model_answer": "0",
         "isCorrect": false,
-        "ratio": 0.5
+        "ratio": 0.5,
+        "score": 0.0
     },
     {
         "qid": 354254007,
@@ -3471,7 +3856,8 @@
         "answer": "none",
         "model_answer": "wisconsin",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 356406009,
@@ -3480,7 +3866,8 @@
         "answer": "shadows",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 357194009,
@@ -3489,7 +3876,8 @@
         "answer": "3:50",
         "model_answer": "9:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 357870001,
@@ -3498,7 +3886,8 @@
         "answer": "easy",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 358039002,
@@ -3507,7 +3896,8 @@
         "answer": "california",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 358342001,
@@ -3516,7 +3906,8 @@
         "answer": "8:45",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 359110001,
@@ -3525,7 +3916,8 @@
         "answer": "8:35",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 360735014,
@@ -3534,7 +3926,8 @@
         "answer": "barber",
         "model_answer": "beer",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 362289012,
@@ -3543,7 +3936,8 @@
         "answer": "guitar",
         "model_answer": "table",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 364340003,
@@ -3552,7 +3946,8 @@
         "answer": "3:45",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 365542003,
@@ -3561,7 +3956,8 @@
         "answer": "word",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": 0.5
+        "ratio": 0.5,
+        "score": 0.0
     },
     {
         "qid": 368080004,
@@ -3570,7 +3966,8 @@
         "answer": "10:15",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 368505002,
@@ -3579,7 +3976,8 @@
         "answer": "12",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 368727005,
@@ -3588,7 +3986,8 @@
         "answer": "more",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": 0.09090909090909091
+        "ratio": 0.09090909090909091,
+        "score": 0.0
     },
     {
         "qid": 370103000,
@@ -3597,7 +3996,8 @@
         "answer": "1:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 370413011,
@@ -3606,7 +4006,8 @@
         "answer": "30",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 370999002,
@@ -3615,7 +4016,8 @@
         "answer": "circles",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 371151007,
@@ -3624,7 +4026,8 @@
         "answer": "2:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 371151011,
@@ -3633,7 +4036,8 @@
         "answer": "1:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 371958003,
@@ -3642,7 +4046,8 @@
         "answer": "3:30",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 372147001,
@@ -3651,7 +4056,8 @@
         "answer": "peace",
         "model_answer": "peace",
         "isCorrect": true,
-        "ratio": 0.25
+        "ratio": 0.25,
+        "score": 1.0
     },
     {
         "qid": 372150000,
@@ -3660,7 +4066,8 @@
         "answer": "6:57",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 372150001,
@@ -3669,7 +4076,8 @@
         "answer": "6:57",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 373677002,
@@ -3678,7 +4086,8 @@
         "answer": "3:25",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 373857000,
@@ -3687,7 +4096,8 @@
         "answer": "door",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 376160002,
@@ -3696,7 +4106,8 @@
         "answer": "oxygen",
         "model_answer": "curtain",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 376564002,
@@ -3705,7 +4116,8 @@
         "answer": "2013",
         "model_answer": "birthday",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 376856001,
@@ -3714,7 +4126,8 @@
         "answer": "11:10",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 378727005,
@@ -3723,7 +4136,8 @@
         "answer": "speed",
         "model_answer": "time",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 379402064,
@@ -3732,7 +4146,8 @@
         "answer": "8:20",
         "model_answer": "9:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 380493002,
@@ -3741,7 +4156,8 @@
         "answer": "spiderman",
         "model_answer": "spiderman",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 380510001,
@@ -3750,7 +4166,8 @@
         "answer": "2:44",
         "model_answer": "clock",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 380639003,
@@ -3759,7 +4176,8 @@
         "answer": "r",
         "model_answer": "nike",
         "isCorrect": false,
-        "ratio": 0.3333333333333333
+        "ratio": 0.3333333333333333,
+        "score": 0.0
     },
     {
         "qid": 381699000,
@@ -3768,7 +4186,8 @@
         "answer": "7:35",
         "model_answer": "12",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 382973002,
@@ -3777,7 +4196,8 @@
         "answer": "11:10",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 382973008,
@@ -3786,7 +4206,8 @@
         "answer": "1:57",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 383748002,
@@ -3795,7 +4216,8 @@
         "answer": "11:00",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 384188000,
@@ -3804,7 +4226,8 @@
         "answer": "aran",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 384794000,
@@ -3813,7 +4236,8 @@
         "answer": "2:00",
         "model_answer": "1:30",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 385236002,
@@ -3822,7 +4246,8 @@
         "answer": "11:50",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 385248008,
@@ -3831,7 +4256,8 @@
         "answer": "can't tell",
         "model_answer": "peace",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 386189012,
@@ -3840,7 +4266,8 @@
         "answer": "too hot",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 386193002,
@@ -3849,7 +4276,8 @@
         "answer": "10:10",
         "model_answer": "10:10",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 386313004,
@@ -3858,7 +4286,8 @@
         "answer": "fat bayou",
         "model_answer": "for sale",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 386819001,
@@ -3867,7 +4296,8 @@
         "answer": "colgate",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": 0.5
+        "ratio": 0.5,
+        "score": 0.0
     },
     {
         "qid": 387833000,
@@ -3876,7 +4306,8 @@
         "answer": "2:10",
         "model_answer": "1:30",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 387950002,
@@ -3885,7 +4316,8 @@
         "answer": "this is mets country",
         "model_answer": "new york",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 388770006,
@@ -3894,7 +4326,8 @@
         "answer": "4:02",
         "model_answer": "afternoon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 388854001,
@@ -3903,7 +4336,8 @@
         "answer": "2:26",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 390704000,
@@ -3912,7 +4346,8 @@
         "answer": "rossignol",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": 0.3333333333333333
+        "ratio": 0.3333333333333333,
+        "score": 0.0
     },
     {
         "qid": 391290009,
@@ -3921,7 +4356,8 @@
         "answer": "both",
         "model_answer": "girl",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 394157001,
@@ -3930,7 +4366,8 @@
         "answer": "10:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 395324000,
@@ -3939,7 +4376,8 @@
         "answer": "metal",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 396676002,
@@ -3948,7 +4386,8 @@
         "answer": "12:05",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 398138006,
@@ -3957,7 +4396,8 @@
         "answer": "picture",
         "model_answer": "police",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 398682000,
@@ -3966,7 +4406,8 @@
         "answer": "11:57",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 399297000,
@@ -3975,7 +4416,8 @@
         "answer": "raf",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 399830006,
@@ -3984,7 +4426,8 @@
         "answer": "11:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 400803001,
@@ -3993,7 +4436,8 @@
         "answer": "wine",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 400922002,
@@ -4002,7 +4446,8 @@
         "answer": "11:05",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 402433003,
@@ -4011,7 +4456,8 @@
         "answer": "pizza cutter",
         "model_answer": "scissors",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 403180000,
@@ -4020,7 +4466,8 @@
         "answer": "1:10",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 404027002,
@@ -4029,7 +4476,8 @@
         "answer": "guinot",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": 0.25
+        "ratio": 0.25,
+        "score": 0.0
     },
     {
         "qid": 404464009,
@@ -4038,7 +4486,8 @@
         "answer": "ineligible",
         "model_answer": "fedex",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 404655002,
@@ -4047,7 +4496,8 @@
         "answer": "fred flintstone",
         "model_answer": "pirate",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 407168010,
@@ -4056,7 +4506,8 @@
         "answer": "3:10",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 409542001,
@@ -4065,7 +4516,8 @@
         "answer": "12:58",
         "model_answer": "time",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 410101005,
@@ -4074,7 +4526,8 @@
         "answer": "back to future",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 410632004,
@@ -4083,7 +4536,8 @@
         "answer": "covidien",
         "model_answer": "best buy",
         "isCorrect": false,
-        "ratio": 0.019230769230769232
+        "ratio": 0.019230769230769232,
+        "score": 0.0
     },
     {
         "qid": 410849002,
@@ -4092,7 +4546,8 @@
         "answer": "eiffel tower",
         "model_answer": "guitar",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 411277003,
@@ -4101,7 +4556,8 @@
         "answer": "paw",
         "model_answer": "mouse",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 411695002,
@@ -4110,7 +4566,8 @@
         "answer": "1:15",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 417055000,
@@ -4119,7 +4576,8 @@
         "answer": "12:10",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 418701001,
@@ -4128,7 +4586,8 @@
         "answer": "wave",
         "model_answer": "logo",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 420658002,
@@ -4137,7 +4596,8 @@
         "answer": "se 4th",
         "model_answer": "stop",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 421970002,
@@ -4146,7 +4606,8 @@
         "answer": "inn by bay",
         "model_answer": "park",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 422464000,
@@ -4155,7 +4616,8 @@
         "answer": "building",
         "model_answer": "cooking",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 425925002,
@@ -4164,7 +4626,8 @@
         "answer": "10:10",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 427083001,
@@ -4173,7 +4636,8 @@
         "answer": "water drops",
         "model_answer": "circle",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 429109002,
@@ -4182,7 +4646,8 @@
         "answer": "mts",
         "model_answer": "metro",
         "isCorrect": false,
-        "ratio": 0.1
+        "ratio": 0.1,
+        "score": 0.0
     },
     {
         "qid": 429174006,
@@ -4191,7 +4656,8 @@
         "answer": "tower",
         "model_answer": "top",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 432332003,
@@ -4200,7 +4666,8 @@
         "answer": "2:35",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 434583005,
@@ -4209,7 +4676,8 @@
         "answer": "uoit",
         "model_answer": "adidas",
         "isCorrect": false,
-        "ratio": 0.3333333333333333
+        "ratio": 0.3333333333333333,
+        "score": 0.0
     },
     {
         "qid": 434829005,
@@ -4218,7 +4686,8 @@
         "answer": "1:10",
         "model_answer": "12",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 435709001,
@@ -4227,7 +4696,8 @@
         "answer": "1:00",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 435709003,
@@ -4236,7 +4706,8 @@
         "answer": "1:00",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 435922002,
@@ -4245,7 +4716,8 @@
         "answer": "car",
         "model_answer": "cat",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 436218002,
@@ -4254,7 +4726,8 @@
         "answer": "pie",
         "model_answer": "apple",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 436520002,
@@ -4263,7 +4736,8 @@
         "answer": "d",
         "model_answer": "stripes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 437392000,
@@ -4272,7 +4746,8 @@
         "answer": "monster",
         "model_answer": "fish",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 437392004,
@@ -4281,7 +4756,8 @@
         "answer": "costume",
         "model_answer": "plastic",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 438258010,
@@ -4290,7 +4766,8 @@
         "answer": "sunshine",
         "model_answer": "peace",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 438535003,
@@ -4299,7 +4776,8 @@
         "answer": "10:10",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 440106003,
@@ -4308,7 +4786,8 @@
         "answer": "stadium",
         "model_answer": "stadium",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 441292006,
@@ -4317,7 +4796,8 @@
         "answer": "scania",
         "model_answer": "scania",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.9
     },
     {
         "qid": 448425000,
@@ -4326,7 +4806,8 @@
         "answer": "museum",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": 0.1111111111111111
+        "ratio": 0.1111111111111111,
+        "score": 0.0
     },
     {
         "qid": 448697002,
@@ -4335,7 +4816,8 @@
         "answer": "3:25",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 448837001,
@@ -4344,7 +4826,8 @@
         "answer": "it's logo",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 448868001,
@@ -4353,7 +4836,8 @@
         "answer": "license plate",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 449402002,
@@ -4362,7 +4846,8 @@
         "answer": "jewish",
         "model_answer": "business",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 450655001,
@@ -4371,7 +4856,8 @@
         "answer": "1:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 451373012,
@@ -4380,7 +4866,8 @@
         "answer": "kidney bean",
         "model_answer": "donuts",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 452881003,
@@ -4389,7 +4876,8 @@
         "answer": "1:10",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 453341008,
@@ -4398,7 +4886,8 @@
         "answer": "3",
         "model_answer": "2",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 454329000,
@@ -4407,7 +4896,8 @@
         "answer": "2:00",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 454562004,
@@ -4416,7 +4906,8 @@
         "answer": "nevadacom",
         "model_answer": "toyota",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 455170001,
@@ -4425,7 +4916,8 @@
         "answer": "ireland",
         "model_answer": "bottom right",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 456178003,
@@ -4434,7 +4926,8 @@
         "answer": "11:20",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 458073001,
@@ -4443,7 +4936,8 @@
         "answer": "2:15",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 460149001,
@@ -4452,7 +4946,8 @@
         "answer": "2:23",
         "model_answer": "time",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 461973012,
@@ -4461,7 +4956,8 @@
         "answer": "bridge",
         "model_answer": "tracks",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 462241003,
@@ -4470,7 +4966,8 @@
         "answer": "american",
         "model_answer": "yes",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 465718006,
@@ -4479,7 +4976,8 @@
         "answer": "picture",
         "model_answer": "woman",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 466960000,
@@ -4488,7 +4986,8 @@
         "answer": "differently",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 467249003,
@@ -4497,7 +4996,8 @@
         "answer": "9:12",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 469075004,
@@ -4506,7 +5006,8 @@
         "answer": "7:05",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 469152003,
@@ -4515,7 +5016,8 @@
         "answer": "the",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 469824006,
@@ -4524,7 +5026,8 @@
         "answer": "2:45",
         "model_answer": "3:30",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 471528002,
@@ -4533,7 +5036,8 @@
         "answer": "music",
         "model_answer": "music",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 471578005,
@@ -4542,7 +5046,8 @@
         "answer": "5:10",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 473260004,
@@ -4551,7 +5056,8 @@
         "answer": "storage",
         "model_answer": "for sale",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 474675002,
@@ -4560,7 +5066,8 @@
         "answer": "2:51",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 475641002,
@@ -4569,7 +5076,8 @@
         "answer": "2:55",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 475890001,
@@ -4578,7 +5086,8 @@
         "answer": "7:00",
         "model_answer": "12:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 475923002,
@@ -4587,7 +5096,8 @@
         "answer": "crown",
         "model_answer": "sign",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 476415002,
@@ -4596,7 +5106,8 @@
         "answer": "reel big fish",
         "model_answer": "pirate",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 476628002,
@@ -4605,7 +5116,8 @@
         "answer": "5:00",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 477671003,
@@ -4614,7 +5126,8 @@
         "answer": "halloween",
         "model_answer": "peace",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 477671004,
@@ -4623,7 +5136,8 @@
         "answer": "halloween snow team",
         "model_answer": "red bull",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 479042000,
@@ -4632,7 +5146,8 @@
         "answer": "label",
         "model_answer": "drinking",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 479613004,
@@ -4641,7 +5156,8 @@
         "answer": "woman",
         "model_answer": "people",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 482476002,
@@ -4650,7 +5166,8 @@
         "answer": "le chateau",
         "model_answer": "grocery",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 482487000,
@@ -4659,7 +5176,8 @@
         "answer": "10:45",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 482784001,
@@ -4668,7 +5186,8 @@
         "answer": "flowers",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 482910001,
@@ -4677,7 +5196,8 @@
         "answer": "website",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 484474000,
@@ -4686,7 +5206,8 @@
         "answer": "11:07",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 485333002,
@@ -4695,7 +5216,8 @@
         "answer": "outside",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 486576010,
@@ -4704,7 +5226,8 @@
         "answer": "11:30",
         "model_answer": "9:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 486632003,
@@ -4713,7 +5236,8 @@
         "answer": "jerry orbach way",
         "model_answer": "broadway",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 487013002,
@@ -4722,7 +5246,8 @@
         "answer": "6:30",
         "model_answer": "7:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 487013010,
@@ -4731,7 +5256,8 @@
         "answer": "6:30",
         "model_answer": "7:45",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 487013011,
@@ -4740,7 +5266,8 @@
         "answer": "6:30",
         "model_answer": "10:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 487698004,
@@ -4749,7 +5276,8 @@
         "answer": "ny",
         "model_answer": "new york",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 489896004,
@@ -4758,7 +5286,8 @@
         "answer": "pen",
         "model_answer": "chinese",
         "isCorrect": false,
-        "ratio": 0.043478260869565216
+        "ratio": 0.043478260869565216,
+        "score": 0.0
     },
     {
         "qid": 490022001,
@@ -4767,7 +5296,8 @@
         "answer": "suck",
         "model_answer": "can't tell",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 490322006,
@@ -4776,7 +5306,8 @@
         "answer": "3:44",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 492132002,
@@ -4785,7 +5316,8 @@
         "answer": "people",
         "model_answer": "people",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 494085003,
@@ -4794,7 +5326,8 @@
         "answer": "9:43",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 495894016,
@@ -4803,7 +5336,8 @@
         "answer": "none",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 498804001,
@@ -4812,7 +5346,8 @@
         "answer": "1:45",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 499423000,
@@ -4821,7 +5356,8 @@
         "answer": "4:00",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 503081002,
@@ -4830,7 +5366,8 @@
         "answer": "3:00",
         "model_answer": "12",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 504256001,
@@ -4839,7 +5376,8 @@
         "answer": "hong kong",
         "model_answer": "happy birthday",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 506085003,
@@ -4848,7 +5386,8 @@
         "answer": "11:05",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 506085005,
@@ -4857,7 +5396,8 @@
         "answer": "11:05",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 506085010,
@@ -4866,7 +5406,8 @@
         "answer": "11:05",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 506628001,
@@ -4875,7 +5416,8 @@
         "answer": "7:55",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 507684003,
@@ -4884,7 +5426,8 @@
         "answer": "can't see it",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 509468000,
@@ -4893,7 +5436,8 @@
         "answer": "r",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": 1.0
+        "ratio": 1.0,
+        "score": 0.0
     },
     {
         "qid": 509551001,
@@ -4902,7 +5446,8 @@
         "answer": "7:00",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 511159000,
@@ -4911,7 +5456,8 @@
         "answer": "clock",
         "model_answer": "design",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 513659000,
@@ -4920,7 +5466,8 @@
         "answer": "mcneely & co",
         "model_answer": "unknown",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 514083003,
@@ -4929,7 +5476,8 @@
         "answer": "milk",
         "model_answer": "plastic",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 514508000,
@@ -4938,7 +5486,8 @@
         "answer": "love tv",
         "model_answer": "not sure",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 517443000,
@@ -4947,7 +5496,8 @@
         "answer": "8:00",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 517443006,
@@ -4956,7 +5506,8 @@
         "answer": "12:40",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 517819009,
@@ -4965,7 +5516,8 @@
         "answer": "6:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 517945001,
@@ -4974,7 +5526,8 @@
         "answer": "ncaa",
         "model_answer": "pepsi",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 518234001,
@@ -4983,7 +5536,8 @@
         "answer": "12:25",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 518234006,
@@ -4992,7 +5546,8 @@
         "answer": "12:25",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 520683000,
@@ -5001,7 +5556,8 @@
         "answer": "4:00",
         "model_answer": "3:30",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 521549001,
@@ -5010,7 +5566,8 @@
         "answer": "12:15",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 524642003,
@@ -5019,7 +5576,8 @@
         "answer": "boxes",
         "model_answer": "books",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 527025001,
@@ -5028,7 +5586,8 @@
         "answer": "ribbon",
         "model_answer": "window",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 528184000,
@@ -5037,7 +5596,8 @@
         "answer": "10:15",
         "model_answer": "3:30",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 534894001,
@@ -5046,7 +5606,8 @@
         "answer": "9:00",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 536656003,
@@ -5055,7 +5616,8 @@
         "answer": "4:30",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 539298002,
@@ -5064,7 +5626,8 @@
         "answer": "2:45",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 544306000,
@@ -5073,7 +5636,8 @@
         "answer": "2:22",
         "model_answer": "3:30",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 545007002,
@@ -5082,7 +5646,8 @@
         "answer": "2:25",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 545235001,
@@ -5091,7 +5656,8 @@
         "answer": "pizza",
         "model_answer": "pizza",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 545268005,
@@ -5100,7 +5666,8 @@
         "answer": "arizona",
         "model_answer": "boston",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 546292000,
@@ -5109,7 +5676,8 @@
         "answer": "4:05",
         "model_answer": "12:20",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 547106003,
@@ -5118,7 +5686,8 @@
         "answer": "9:53",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 547221002,
@@ -5127,7 +5696,8 @@
         "answer": "1:05",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 548095007,
@@ -5136,7 +5706,8 @@
         "answer": "none",
         "model_answer": "metal",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 548930003,
@@ -5145,7 +5716,8 @@
         "answer": "1:45",
         "model_answer": "12",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 550073001,
@@ -5154,7 +5726,8 @@
         "answer": "polar bear",
         "model_answer": "cartoon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 550073002,
@@ -5163,7 +5736,8 @@
         "answer": "play",
         "model_answer": "toy",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.3
     },
     {
         "qid": 551403000,
@@ -5172,7 +5746,8 @@
         "answer": "8:32",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 551454001,
@@ -5181,7 +5756,8 @@
         "answer": "4:45",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 553097005,
@@ -5190,7 +5766,8 @@
         "answer": "3:55",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 555390012,
@@ -5199,7 +5776,8 @@
         "answer": "coffee",
         "model_answer": "person",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 558229000,
@@ -5208,7 +5786,8 @@
         "answer": "bow",
         "model_answer": "nothing",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 559364000,
@@ -5217,7 +5796,8 @@
         "answer": "paper",
         "model_answer": "statue",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 560025000,
@@ -5226,7 +5806,8 @@
         "answer": "harry potter",
         "model_answer": "cartoon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 561814002,
@@ -5235,7 +5816,8 @@
         "answer": "5:50",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 564123000,
@@ -5244,7 +5826,8 @@
         "answer": "5:15",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 564123004,
@@ -5253,7 +5836,8 @@
         "answer": "5:15",
         "model_answer": "2:35",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 566103000,
@@ -5262,7 +5846,8 @@
         "answer": "franklin",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 568584003,
@@ -5271,7 +5856,8 @@
         "answer": "torsten",
         "model_answer": "0",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 568863004,
@@ -5280,7 +5866,8 @@
         "answer": "arrow",
         "model_answer": "arrow",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 0.9
     },
     {
         "qid": 571364001,
@@ -5289,7 +5876,8 @@
         "answer": "garlic",
         "model_answer": "peppers",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 571641002,
@@ -5298,7 +5886,8 @@
         "answer": "lava",
         "model_answer": "regular",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 571834019,
@@ -5307,7 +5896,8 @@
         "answer": "spices",
         "model_answer": "no",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 574010002,
@@ -5316,7 +5906,8 @@
         "answer": "2:15",
         "model_answer": "noon",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 574110004,
@@ -5325,7 +5916,8 @@
         "answer": "4:00",
         "model_answer": "3:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 574110005,
@@ -5334,7 +5926,8 @@
         "answer": "3:59",
         "model_answer": "4",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.6
     },
     {
         "qid": 574110006,
@@ -5343,7 +5936,8 @@
         "answer": "4:00",
         "model_answer": "1:50",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 574823000,
@@ -5352,7 +5946,8 @@
         "answer": "22",
         "model_answer": "red sox",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 577169000,
@@ -5361,7 +5956,8 @@
         "answer": "2:40",
         "model_answer": "12:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 577169003,
@@ -5370,7 +5966,8 @@
         "answer": "3:50",
         "model_answer": "11:55",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 579226004,
@@ -5379,7 +5976,8 @@
         "answer": "12:55",
         "model_answer": "12:55",
         "isCorrect": true,
-        "ratio": null
+        "ratio": null,
+        "score": 1.0
     },
     {
         "qid": 579859013,
@@ -5388,7 +5986,8 @@
         "answer": "2:35",
         "model_answer": "12:00",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 581632000,
@@ -5397,7 +5996,8 @@
         "answer": "10:05",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     },
     {
         "qid": 581632003,
@@ -5406,6 +6006,7 @@
         "answer": "10:05",
         "model_answer": "10:10",
         "isCorrect": false,
-        "ratio": null
+        "ratio": null,
+        "score": 0.0
     }
 ]

@@ -216,7 +216,7 @@ if __name__ == "__main__":
     print('finished opening json!')
 
     print('opening h5py file ...')
-    h5py_file = h5py.File('../data/val.hdf5', 'r')
+    h5py_file = h5py.File('val.hdf5', 'r')
     
     with open("results/val2014_qids_1004.json", "rb") as fp:
         qid_list = json.load(fp)
