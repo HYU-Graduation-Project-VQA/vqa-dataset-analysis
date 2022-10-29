@@ -1,0 +1,5401 @@
+{
+    "result": [
+        {
+            "question_id": 262161018,
+            "answer": "1",
+            "logit": 0.08491800725460052,
+            "entropy": 4.1675872802734375,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 525087003,
+            "answer": "6",
+            "logit": 0.27781593799591064,
+            "entropy": 2.0815446376800537,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 132084002,
+            "answer": "20",
+            "logit": 0.23156410455703735,
+            "entropy": 2.9301648139953613,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 525361000,
+            "answer": "52",
+            "logit": 0.11475472152233124,
+            "entropy": 3.832653284072876,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 132182003,
+            "answer": "9",
+            "logit": 0.1913854479789734,
+            "entropy": 2.6598522663116455,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 132189000,
+            "answer": "2",
+            "logit": 0.07633047550916672,
+            "entropy": 3.9082133769989014,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 1171002,
+            "answer": "12",
+            "logit": 0.3989051878452301,
+            "entropy": 2.7531867027282715,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 525542005,
+            "answer": "23",
+            "logit": 0.09101031720638275,
+            "entropy": 3.9090726375579834,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 525542009,
+            "answer": "23",
+            "logit": 0.09466853737831116,
+            "entropy": 3.863945960998535,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 1584007,
+            "answer": "15",
+            "logit": 0.06532945483922958,
+            "entropy": 3.7776899337768555,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 1584008,
+            "answer": "2",
+            "logit": 0.0970405861735344,
+            "entropy": 3.7725324630737305,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 1584011,
+            "answer": "24",
+            "logit": 0.10900509357452393,
+            "entropy": 3.670046329498291,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 263866003,
+            "answer": "52",
+            "logit": 0.31671640276908875,
+            "entropy": 3.384584426879883,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 526133001,
+            "answer": "6",
+            "logit": 0.3166711628437042,
+            "entropy": 2.4713380336761475,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 132931002,
+            "answer": "5",
+            "logit": 0.07833059132099152,
+            "entropy": 3.8874545097351074,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 44003002,
+            "answer": "100",
+            "logit": 0.1489560604095459,
+            "entropy": 3.694509267807007,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 526446000,
+            "answer": "15",
+            "logit": 0.05338290333747864,
+            "entropy": 3.737654685974121,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 262565002,
+            "answer": "25",
+            "logit": 0.13633809983730316,
+            "entropy": 3.4589180946350098,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 133636002,
+            "answer": "7",
+            "logit": 0.1345619112253189,
+            "entropy": 3.0986900329589844,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 133693020,
+            "answer": "0",
+            "logit": 0.34137773513793945,
+            "entropy": 3.152395009994507,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 265066005,
+            "answer": "23",
+            "logit": 0.0694287046790123,
+            "entropy": 4.0719313621521,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 396167002,
+            "answer": "9",
+            "logit": 0.11194375157356262,
+            "entropy": 3.184177875518799,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 396519000,
+            "answer": "23",
+            "logit": 0.13748042285442352,
+            "entropy": 3.589308977127075,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 459303002,
+            "answer": "52",
+            "logit": 0.28021588921546936,
+            "entropy": 3.27657151222229,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 265611002,
+            "answer": "3",
+            "logit": 0.519206166267395,
+            "entropy": 1.6353203058242798,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 396692001,
+            "answer": "2",
+            "logit": 0.1556018590927124,
+            "entropy": 3.7600150108337402,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 396692005,
+            "answer": "2",
+            "logit": 0.20599578320980072,
+            "entropy": 3.654407262802124,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 415648002,
+            "answer": "25",
+            "logit": 0.11566076427698135,
+            "entropy": 3.474215507507324,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 265725000,
+            "answer": "6",
+            "logit": 0.12174674868583679,
+            "entropy": 3.1657533645629883,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 265950001,
+            "answer": "10",
+            "logit": 0.1042415127158165,
+            "entropy": 3.584083318710327,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 4021002,
+            "answer": "23",
+            "logit": 0.07872717082500458,
+            "entropy": 3.859480381011963,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 397475000,
+            "answer": "0",
+            "logit": 0.09766311943531036,
+            "entropy": 3.7624545097351074,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 397475002,
+            "answer": "11",
+            "logit": 0.09903670847415924,
+            "entropy": 3.377889394760132,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 397475003,
+            "answer": "0",
+            "logit": 0.15215902030467987,
+            "entropy": 3.3835275173187256,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 397475004,
+            "answer": "0",
+            "logit": 0.24567966163158417,
+            "entropy": 3.3047096729278564,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 331856005,
+            "answer": "2",
+            "logit": 0.31951382756233215,
+            "entropy": 2.1364853382110596,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 4736002,
+            "answer": "25",
+            "logit": 0.048407603055238724,
+            "entropy": 4.14036226272583,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 398028001,
+            "answer": "25",
+            "logit": 0.18422135710716248,
+            "entropy": 3.1939828395843506,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 503293001,
+            "answer": "25",
+            "logit": 0.34071385860443115,
+            "entropy": 2.810969829559326,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 267363001,
+            "answer": "0",
+            "logit": 0.43603718280792236,
+            "entropy": 2.541508197784424,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 529636000,
+            "answer": "4",
+            "logit": 0.2821408808231354,
+            "entropy": 2.2716896533966064,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 5385009,
+            "answer": "15",
+            "logit": 0.10814137756824493,
+            "entropy": 3.4040820598602295,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 136642004,
+            "answer": "12",
+            "logit": 0.0737016424536705,
+            "entropy": 3.7323973178863525,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 267910003,
+            "answer": "0",
+            "logit": 0.2497711181640625,
+            "entropy": 3.3503501415252686,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 6040004,
+            "answer": "2",
+            "logit": 0.9146475791931152,
+            "entropy": 0.43642979860305786,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 6040005,
+            "answer": "2",
+            "logit": 0.8629672527313232,
+            "entropy": 0.6071485877037048,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 399274003,
+            "answer": "2",
+            "logit": 0.2774243950843811,
+            "entropy": 3.4060590267181396,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 137496007,
+            "answer": "1",
+            "logit": 0.12001898884773254,
+            "entropy": 3.2420296669006348,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 6471008,
+            "answer": "13",
+            "logit": 0.11763123422861099,
+            "entropy": 3.3555736541748047,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 399998000,
+            "answer": "23",
+            "logit": 0.10455391556024551,
+            "entropy": 3.7603702545166016,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 399998002,
+            "answer": "23",
+            "logit": 0.10455391556024551,
+            "entropy": 3.7603702545166016,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 138054001,
+            "answer": "25",
+            "logit": 0.06840477883815765,
+            "entropy": 3.9338438510894775,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 400401005,
+            "answer": "6",
+            "logit": 0.03529694303870201,
+            "entropy": 4.449212074279785,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 138550002,
+            "answer": "7",
+            "logit": 0.13146312534809113,
+            "entropy": 3.2875092029571533,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 532387005,
+            "answer": "0",
+            "logit": 0.8297293782234192,
+            "entropy": 0.9055177569389343,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 270815002,
+            "answer": "10",
+            "logit": 0.05705020949244499,
+            "entropy": 3.8896372318267822,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 456584006,
+            "answer": "2",
+            "logit": 0.17701178789138794,
+            "entropy": 2.746166706085205,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 139871000,
+            "answer": "1",
+            "logit": 0.17009210586547852,
+            "entropy": 3.2564172744750977,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 519673004,
+            "answer": "2",
+            "logit": 0.1812768280506134,
+            "entropy": 3.5888092517852783,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 140068004,
+            "answer": "5",
+            "logit": 0.11760737746953964,
+            "entropy": 3.362823963165283,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 140270001,
+            "answer": "1",
+            "logit": 0.11650332808494568,
+            "entropy": 3.0546152591705322,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 534035002,
+            "answer": "38",
+            "logit": 0.035537902265787125,
+            "entropy": 4.605851650238037,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 272136000,
+            "answer": "25",
+            "logit": 0.13246393203735352,
+            "entropy": 3.642894744873047,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 10012002,
+            "answer": "30",
+            "logit": 0.1536596715450287,
+            "entropy": 3.464200496673584,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 534373001,
+            "answer": "13",
+            "logit": 0.1420166790485382,
+            "entropy": 2.8936657905578613,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 403531000,
+            "answer": "2",
+            "logit": 0.1266455054283142,
+            "entropy": 3.3958075046539307,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 404229004,
+            "answer": "8",
+            "logit": 0.1180296465754509,
+            "entropy": 3.522813081741333,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 142249004,
+            "answer": "25",
+            "logit": 0.10901989042758942,
+            "entropy": 3.630899667739868,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 559037003,
+            "answer": "6",
+            "logit": 0.06964732706546783,
+            "entropy": 4.028675079345703,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 154816003,
+            "answer": "25",
+            "logit": 0.11624932289123535,
+            "entropy": 3.5743744373321533,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 273582004,
+            "answer": "25",
+            "logit": 0.1499485969543457,
+            "entropy": 3.3839619159698486,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 142742001,
+            "answer": "25",
+            "logit": 0.3536944091320038,
+            "entropy": 2.859597682952881,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 142742002,
+            "answer": "25",
+            "logit": 0.3229268789291382,
+            "entropy": 2.968419075012207,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 142742005,
+            "answer": "25",
+            "logit": 0.3272233307361603,
+            "entropy": 2.9183802604675293,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 273918001,
+            "answer": "2",
+            "logit": 0.299932599067688,
+            "entropy": 2.928614616394043,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 274272001,
+            "answer": "25",
+            "logit": 0.05098302662372589,
+            "entropy": 4.094695091247559,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 405882005,
+            "answer": "0",
+            "logit": 0.8409256339073181,
+            "entropy": 0.8005388975143433,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 351747000,
+            "answer": "25",
+            "logit": 0.07924196869134903,
+            "entropy": 3.6688289642333984,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 275727005,
+            "answer": "52",
+            "logit": 0.21910914778709412,
+            "entropy": 3.680955648422241,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 275761000,
+            "answer": "0",
+            "logit": 0.16487474739551544,
+            "entropy": 3.9391698837280273,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 275761001,
+            "answer": "0",
+            "logit": 0.28160619735717773,
+            "entropy": 3.5933332443237305,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 407168001,
+            "answer": "2",
+            "logit": 0.3266468644142151,
+            "entropy": 2.7992656230926514,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 407457003,
+            "answer": "4",
+            "logit": 0.36375662684440613,
+            "entropy": 1.7739951610565186,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 145378000,
+            "answer": "23",
+            "logit": 0.0554954819381237,
+            "entropy": 4.254044532775879,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 145862000,
+            "answer": "3",
+            "logit": 0.2051595151424408,
+            "entropy": 3.0089898109436035,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 89861001,
+            "answer": "2",
+            "logit": 0.717553436756134,
+            "entropy": 0.7682386636734009,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 277048001,
+            "answer": "23",
+            "logit": 0.19208984076976776,
+            "entropy": 3.706289052963257,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 408138004,
+            "answer": "2",
+            "logit": 0.10875508934259415,
+            "entropy": 4.087284564971924,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 539445004,
+            "answer": "1",
+            "logit": 0.21225611865520477,
+            "entropy": 3.5672686100006104,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 408950002,
+            "answer": "38",
+            "logit": 0.4609309732913971,
+            "entropy": 2.5444231033325195,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 408950004,
+            "answer": "38",
+            "logit": 0.4656907618045807,
+            "entropy": 2.5229415893554688,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 374060004,
+            "answer": "12",
+            "logit": 0.03697967529296875,
+            "entropy": 4.259056091308594,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 409439002,
+            "answer": "15",
+            "logit": 0.12021154910326004,
+            "entropy": 3.073529005050659,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 147393000,
+            "answer": "6",
+            "logit": 0.20683643221855164,
+            "entropy": 2.4983911514282227,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 409921017,
+            "answer": "2",
+            "logit": 0.11595547944307327,
+            "entropy": 4.025420665740967,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 16879000,
+            "answer": "28",
+            "logit": 0.060567937791347504,
+            "entropy": 3.7124829292297363,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 279499001,
+            "answer": "2",
+            "logit": 0.118345707654953,
+            "entropy": 3.5084025859832764,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 541744003,
+            "answer": "25",
+            "logit": 0.24167920649051666,
+            "entropy": 3.1318726539611816,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 483550000,
+            "answer": "52",
+            "logit": 0.1703384518623352,
+            "entropy": 3.7352330684661865,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 280008002,
+            "answer": "13",
+            "logit": 0.08397700637578964,
+            "entropy": 3.633514404296875,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 18046002,
+            "answer": "2",
+            "logit": 0.15352044999599457,
+            "entropy": 3.9370808601379395,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 18319000,
+            "answer": "3",
+            "logit": 0.33923473954200745,
+            "entropy": 1.9019458293914795,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 411674000,
+            "answer": "24",
+            "logit": 0.14848433434963226,
+            "entropy": 3.4298295974731445,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 411674001,
+            "answer": "24",
+            "logit": 0.1697310358285904,
+            "entropy": 3.3340864181518555,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 542803000,
+            "answer": "0",
+            "logit": 0.0728415995836258,
+            "entropy": 4.063615798950195,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 542803001,
+            "answer": "2",
+            "logit": 0.13173681497573853,
+            "entropy": 3.812795400619507,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 542856004,
+            "answer": "2",
+            "logit": 0.21179333329200745,
+            "entropy": 2.957592725753784,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 412015000,
+            "answer": "0",
+            "logit": 0.6481887102127075,
+            "entropy": 1.9520611763000488,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 412301004,
+            "answer": "10",
+            "logit": 0.04488866403698921,
+            "entropy": 4.129378318786621,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 19158000,
+            "answer": "41",
+            "logit": 0.3024085760116577,
+            "entropy": 3.3554234504699707,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 150267003,
+            "answer": "1",
+            "logit": 0.2700082063674927,
+            "entropy": 3.1525728702545166,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 150284005,
+            "answer": "0",
+            "logit": 0.1689268797636032,
+            "entropy": 3.2329862117767334,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 412916000,
+            "answer": "3",
+            "logit": 0.14091931283473969,
+            "entropy": 3.2140214443206787,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 544272002,
+            "answer": "24",
+            "logit": 0.05229363590478897,
+            "entropy": 4.225986003875732,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 413339007,
+            "answer": "23",
+            "logit": 0.0449950248003006,
+            "entropy": 4.166825294494629,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 20178005,
+            "answer": "6",
+            "logit": 0.2607569098472595,
+            "entropy": 2.1133334636688232,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 20273001,
+            "answer": "41",
+            "logit": 0.3082083463668823,
+            "entropy": 3.1982979774475098,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 544607006,
+            "answer": "33",
+            "logit": 0.1009453609585762,
+            "entropy": 4.013972282409668,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 20381006,
+            "answer": "52",
+            "logit": 0.09877496212720871,
+            "entropy": 3.9895007610321045,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 151857000,
+            "answer": "2",
+            "logit": 0.15379227697849274,
+            "entropy": 3.667325735092163,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 152258005,
+            "answer": "4",
+            "logit": 0.05675012990832329,
+            "entropy": 3.707878589630127,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 414750001,
+            "answer": "25",
+            "logit": 0.0985909029841423,
+            "entropy": 3.7685859203338623,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 23201000,
+            "answer": "1",
+            "logit": 0.22218073904514313,
+            "entropy": 2.9215149879455566,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 286021004,
+            "answer": "52",
+            "logit": 0.35251230001449585,
+            "entropy": 3.2804112434387207,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 113233013,
+            "answer": "33",
+            "logit": 0.0800413191318512,
+            "entropy": 4.259509086608887,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 155443003,
+            "answer": "8",
+            "logit": 0.21723060309886932,
+            "entropy": 2.4479641914367676,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 417857000,
+            "answer": "9",
+            "logit": 0.1463194042444229,
+            "entropy": 2.422004222869873,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 286813003,
+            "answer": "1",
+            "logit": 0.9943053126335144,
+            "entropy": 0.03987975791096687,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 549119002,
+            "answer": "41",
+            "logit": 0.060363441705703735,
+            "entropy": 4.248799800872803,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 25005000,
+            "answer": "38",
+            "logit": 0.0817577913403511,
+            "entropy": 3.8130838871002197,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 549448002,
+            "answer": "38",
+            "logit": 0.09986403584480286,
+            "entropy": 3.869670867919922,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 287318000,
+            "answer": "20",
+            "logit": 0.2751252055168152,
+            "entropy": 2.362980365753174,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 156341004,
+            "answer": "25",
+            "logit": 0.20762678980827332,
+            "entropy": 3.2084693908691406,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 156341006,
+            "answer": "25",
+            "logit": 0.21190926432609558,
+            "entropy": 3.2081737518310547,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 156341008,
+            "answer": "25",
+            "logit": 0.2536507248878479,
+            "entropy": 3.0560646057128906,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 156341010,
+            "answer": "25",
+            "logit": 0.27833542227745056,
+            "entropy": 2.931536912918091,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 549718019,
+            "answer": "9",
+            "logit": 0.08661596477031708,
+            "entropy": 3.6334736347198486,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 418949001,
+            "answer": "25",
+            "logit": 0.1919974833726883,
+            "entropy": 3.2696642875671387,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 156809000,
+            "answer": "6",
+            "logit": 0.17514900863170624,
+            "entropy": 2.8142433166503906,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 419096007,
+            "answer": "52",
+            "logit": 0.12888510525226593,
+            "entropy": 3.8911707401275635,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 550372004,
+            "answer": "2",
+            "logit": 0.37304815649986267,
+            "entropy": 2.684575319290161,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 550444007,
+            "answer": "15",
+            "logit": 0.1357106864452362,
+            "entropy": 3.084630012512207,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 550452002,
+            "answer": "52",
+            "logit": 0.19257883727550507,
+            "entropy": 4.014683246612549,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 157261005,
+            "answer": "2",
+            "logit": 0.20156623423099518,
+            "entropy": 3.5132033824920654,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 157271002,
+            "answer": "0",
+            "logit": 0.40776902437210083,
+            "entropy": 2.660679340362549,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 550691003,
+            "answer": "38",
+            "logit": 0.26607459783554077,
+            "entropy": 3.2336058616638184,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 26413000,
+            "answer": "25",
+            "logit": 0.12380772083997726,
+            "entropy": 3.8640458583831787,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 26413003,
+            "answer": "25",
+            "logit": 0.11233626306056976,
+            "entropy": 3.9146616458892822,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 157948003,
+            "answer": "6",
+            "logit": 0.11429444700479507,
+            "entropy": 3.546818733215332,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 354027004,
+            "answer": "24",
+            "logit": 0.10831841826438904,
+            "entropy": 3.6077020168304443,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 420234000,
+            "answer": "25",
+            "logit": 0.1333836019039154,
+            "entropy": 3.543715238571167,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 420234006,
+            "answer": "25",
+            "logit": 0.14943775534629822,
+            "entropy": 3.525181770324707,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 26393002,
+            "answer": "25",
+            "logit": 0.06568771600723267,
+            "entropy": 3.9483563899993896,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 420596000,
+            "answer": "6",
+            "logit": 0.0944957584142685,
+            "entropy": 3.6168739795684814,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 289941000,
+            "answer": "0",
+            "logit": 0.11086008697748184,
+            "entropy": 3.635344982147217,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 158950007,
+            "answer": "3",
+            "logit": 0.07216082513332367,
+            "entropy": 3.9622414112091064,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 158950008,
+            "answer": "3",
+            "logit": 0.12103475630283356,
+            "entropy": 3.419739007949829,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 290026001,
+            "answer": "38",
+            "logit": 0.04606056958436966,
+            "entropy": 4.264419078826904,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 421209005,
+            "answer": "2",
+            "logit": 0.0919095128774643,
+            "entropy": 3.7820112705230713,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 552302001,
+            "answer": "1",
+            "logit": 0.16754011809825897,
+            "entropy": 3.1466805934906006,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 552320002,
+            "answer": "10",
+            "logit": 0.11836209893226624,
+            "entropy": 3.2740025520324707,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 290231000,
+            "answer": "1",
+            "logit": 0.8183355331420898,
+            "entropy": 0.7849630117416382,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 290231004,
+            "answer": "1",
+            "logit": 0.9809561371803284,
+            "entropy": 0.1224658191204071,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 28246002,
+            "answer": "2",
+            "logit": 0.06277526915073395,
+            "entropy": 4.114127159118652,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 550872001,
+            "answer": "0",
+            "logit": 0.2904609143733978,
+            "entropy": 3.014204502105713,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 28526001,
+            "answer": "2",
+            "logit": 0.6605921387672424,
+            "entropy": 0.8746604919433594,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 159627006,
+            "answer": "38",
+            "logit": 0.16004420816898346,
+            "entropy": 3.259323835372925,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 290827003,
+            "answer": "2",
+            "logit": 0.16321639716625214,
+            "entropy": 3.664916753768921,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 553420002,
+            "answer": "2",
+            "logit": 0.1613067090511322,
+            "entropy": 3.3092024326324463,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 245162004,
+            "answer": "0",
+            "logit": 0.12310075014829636,
+            "entropy": 3.6831374168395996,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 29187008,
+            "answer": "8",
+            "logit": 0.8233948349952698,
+            "entropy": 0.7046638131141663,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 29187016,
+            "answer": "8",
+            "logit": 0.8260670304298401,
+            "entropy": 0.7095752358436584,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 160330001,
+            "answer": "0",
+            "logit": 0.2997971475124359,
+            "entropy": 2.81166672706604,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 422677005,
+            "answer": "33",
+            "logit": 0.07892373949289322,
+            "entropy": 3.941864490509033,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 160669002,
+            "answer": "13",
+            "logit": 0.08689633756875992,
+            "entropy": 3.5689425468444824,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 292526001,
+            "answer": "14",
+            "logit": 0.10414541512727737,
+            "entropy": 3.3776237964630127,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 292663002,
+            "answer": "1",
+            "logit": 0.05479883775115013,
+            "entropy": 4.06683874130249,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 161990001,
+            "answer": "52",
+            "logit": 0.3093702793121338,
+            "entropy": 3.4105327129364014,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 555538000,
+            "answer": "8",
+            "logit": 0.22696568071842194,
+            "entropy": 2.368683338165283,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 556012000,
+            "answer": "0",
+            "logit": 0.1768614649772644,
+            "entropy": 3.8414008617401123,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 293909000,
+            "answer": "10",
+            "logit": 0.07187791168689728,
+            "entropy": 3.8785219192504883,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 294032005,
+            "answer": "5",
+            "logit": 0.07563215494155884,
+            "entropy": 3.7082459926605225,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 294247000,
+            "answer": "2",
+            "logit": 0.3946669399738312,
+            "entropy": 2.1198062896728516,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 556518001,
+            "answer": "25",
+            "logit": 0.09890082478523254,
+            "entropy": 3.724048614501953,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 164121008,
+            "answer": "0",
+            "logit": 0.3877619206905365,
+            "entropy": 2.8443377017974854,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 426372000,
+            "answer": "0",
+            "logit": 0.08935093134641647,
+            "entropy": 4.205815315246582,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 33372000,
+            "answer": "1",
+            "logit": 0.9985681772232056,
+            "entropy": 0.012259269133210182,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 295797004,
+            "answer": "12",
+            "logit": 0.323629230260849,
+            "entropy": 2.16774845123291,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 426917002,
+            "answer": "38",
+            "logit": 0.25370970368385315,
+            "entropy": 3.1770243644714355,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 164848001,
+            "answer": "2",
+            "logit": 0.15195882320404053,
+            "entropy": 3.3913700580596924,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 427091000,
+            "answer": "23",
+            "logit": 0.17253340780735016,
+            "entropy": 3.743511915206909,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 165039001,
+            "answer": "41",
+            "logit": 0.07219307124614716,
+            "entropy": 3.9785072803497314,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 296353002,
+            "answer": "41",
+            "logit": 0.24974574148654938,
+            "entropy": 3.549936294555664,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 442681001,
+            "answer": "0",
+            "logit": 0.055413246154785156,
+            "entropy": 4.318894386291504,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 559166005,
+            "answer": "6",
+            "logit": 0.13946795463562012,
+            "entropy": 2.9446208477020264,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 559685001,
+            "answer": "25",
+            "logit": 0.08746205270290375,
+            "entropy": 3.668454647064209,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 49683002,
+            "answer": "23",
+            "logit": 0.10600888729095459,
+            "entropy": 3.8936941623687744,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 49683007,
+            "answer": "23",
+            "logit": 0.09412387013435364,
+            "entropy": 3.8949389457702637,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 560272002,
+            "answer": "0",
+            "logit": 0.054520200937986374,
+            "entropy": 4.337007522583008,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 560439003,
+            "answer": "0",
+            "logit": 0.8474190831184387,
+            "entropy": 0.7726165652275085,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 311877003,
+            "answer": "4",
+            "logit": 0.13124148547649384,
+            "entropy": 3.2062392234802246,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 429558001,
+            "answer": "2",
+            "logit": 0.2040608823299408,
+            "entropy": 3.395458221435547,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 560662000,
+            "answer": "23",
+            "logit": 0.15820372104644775,
+            "entropy": 3.381880521774292,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 560662003,
+            "answer": "23",
+            "logit": 0.1674249917268753,
+            "entropy": 3.32883358001709,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 560662004,
+            "answer": "23",
+            "logit": 0.16698847711086273,
+            "entropy": 3.2614502906799316,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 560675004,
+            "answer": "52",
+            "logit": 0.21799325942993164,
+            "entropy": 3.8993945121765137,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 36420003,
+            "answer": "13",
+            "logit": 0.08461444079875946,
+            "entropy": 3.5582892894744873,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 429718001,
+            "answer": "10",
+            "logit": 0.23422667384147644,
+            "entropy": 2.6182901859283447,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 560797002,
+            "answer": "15",
+            "logit": 0.043788082897663116,
+            "entropy": 3.9545469284057617,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 36539003,
+            "answer": "0",
+            "logit": 0.4154103398323059,
+            "entropy": 2.4636213779449463,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 167725014,
+            "answer": "13",
+            "logit": 0.0883110985159874,
+            "entropy": 3.399946451187134,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 36911003,
+            "answer": "9",
+            "logit": 0.489946186542511,
+            "entropy": 1.8268262147903442,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 36911006,
+            "answer": "9",
+            "logit": 0.5184873938560486,
+            "entropy": 1.674485683441162,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 36911013,
+            "answer": "9",
+            "logit": 0.437325119972229,
+            "entropy": 1.8309274911880493,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 299074006,
+            "answer": "41",
+            "logit": 0.3363216519355774,
+            "entropy": 3.2802343368530273,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 561336006,
+            "answer": "25",
+            "logit": 0.14647553861141205,
+            "entropy": 3.453969717025757,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 561386000,
+            "answer": "0",
+            "logit": 0.13968566060066223,
+            "entropy": 3.9405343532562256,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 561386005,
+            "answer": "0",
+            "logit": 0.10575007647275925,
+            "entropy": 3.9033384323120117,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 299548002,
+            "answer": "52",
+            "logit": 0.10514169186353683,
+            "entropy": 4.073943138122559,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 562062002,
+            "answer": "24",
+            "logit": 0.05300583317875862,
+            "entropy": 4.227787971496582,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 562062006,
+            "answer": "24",
+            "logit": 0.04528630152344704,
+            "entropy": 4.123377799987793,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 37882002,
+            "answer": "5",
+            "logit": 0.21648633480072021,
+            "entropy": 2.3811495304107666,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 377715001,
+            "answer": "13",
+            "logit": 0.10057573020458221,
+            "entropy": 3.665811061859131,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 38210005,
+            "answer": "33",
+            "logit": 0.07744250446557999,
+            "entropy": 4.195104598999023,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 431660000,
+            "answer": "9",
+            "logit": 0.17621292173862457,
+            "entropy": 2.663689374923706,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 431660005,
+            "answer": "5",
+            "logit": 0.1702071875333786,
+            "entropy": 2.5890774726867676,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 562885004,
+            "answer": "6",
+            "logit": 0.09514602273702621,
+            "entropy": 3.6667299270629883,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 300962002,
+            "answer": "25",
+            "logit": 0.2732691466808319,
+            "entropy": 3.0429787635803223,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 300994001,
+            "answer": "3",
+            "logit": 0.38976332545280457,
+            "entropy": 1.7678296566009521,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 170007005,
+            "answer": "9",
+            "logit": 0.06812912225723267,
+            "entropy": 3.7525432109832764,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 432179004,
+            "answer": "2",
+            "logit": 0.4042121469974518,
+            "entropy": 2.21877384185791,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 301333001,
+            "answer": "2",
+            "logit": 0.2858581840991974,
+            "entropy": 2.503410816192627,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 563702000,
+            "answer": "2",
+            "logit": 0.10956568270921707,
+            "entropy": 3.446760892868042,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 432657001,
+            "answer": "2",
+            "logit": 0.144131138920784,
+            "entropy": 3.193910837173462,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 432820001,
+            "answer": "25",
+            "logit": 0.11699690669775009,
+            "entropy": 3.3642773628234863,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 432820005,
+            "answer": "15",
+            "logit": 0.11536967009305954,
+            "entropy": 3.397442102432251,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 432820006,
+            "answer": "25",
+            "logit": 0.11334288120269775,
+            "entropy": 3.57705020904541,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 39628005,
+            "answer": "10",
+            "logit": 0.19327916204929352,
+            "entropy": 2.708986520767212,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 137678000,
+            "answer": "12",
+            "logit": 0.3971623480319977,
+            "entropy": 2.952773094177246,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 39871000,
+            "answer": "2",
+            "logit": 0.16762815415859222,
+            "entropy": 3.554670572280884,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 302512006,
+            "answer": "7",
+            "logit": 0.18830865621566772,
+            "entropy": 2.626508951187134,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 564940002,
+            "answer": "0",
+            "logit": 0.21032024919986725,
+            "entropy": 3.688152551651001,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 303024001,
+            "answer": "25",
+            "logit": 0.27356114983558655,
+            "entropy": 3.154392719268799,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 303024005,
+            "answer": "25",
+            "logit": 0.18208707869052887,
+            "entropy": 3.4294533729553223,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 171962002,
+            "answer": "41",
+            "logit": 0.050488896667957306,
+            "entropy": 3.9477250576019287,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 41110003,
+            "answer": "18",
+            "logit": 0.08626698702573776,
+            "entropy": 3.4749298095703125,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 434358003,
+            "answer": "0",
+            "logit": 0.12188322097063065,
+            "entropy": 3.7244489192962646,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 400117002,
+            "answer": "1",
+            "logit": 0.5522717833518982,
+            "entropy": 1.4040606021881104,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 303778004,
+            "answer": "3",
+            "logit": 0.1361483931541443,
+            "entropy": 2.8346140384674072,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 303778006,
+            "answer": "5",
+            "logit": 0.17866607010364532,
+            "entropy": 2.5379555225372314,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 434891002,
+            "answer": "8",
+            "logit": 0.14129838347434998,
+            "entropy": 3.1784069538116455,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 304076001,
+            "answer": "1",
+            "logit": 0.12027282267808914,
+            "entropy": 3.810436248779297,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 304076014,
+            "answer": "1",
+            "logit": 0.1491168588399887,
+            "entropy": 3.680250644683838,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 304076015,
+            "answer": "1",
+            "logit": 0.13622792065143585,
+            "entropy": 3.745732307434082,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 435359000,
+            "answer": "5",
+            "logit": 0.17409154772758484,
+            "entropy": 3.093140125274658,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 42968006,
+            "answer": "0",
+            "logit": 0.1596536785364151,
+            "entropy": 3.3894777297973633,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 42968008,
+            "answer": "0",
+            "logit": 0.18435317277908325,
+            "entropy": 3.5345206260681152,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 291209004,
+            "answer": "23",
+            "logit": 0.055150195956230164,
+            "entropy": 4.009252071380615,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 291209009,
+            "answer": "25",
+            "logit": 0.05360075831413269,
+            "entropy": 4.055053234100342,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 436559001,
+            "answer": "2",
+            "logit": 0.06639125943183899,
+            "entropy": 4.164811611175537,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 174420000,
+            "answer": "3",
+            "logit": 0.12207628786563873,
+            "entropy": 3.372142791748047,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 305526000,
+            "answer": "12",
+            "logit": 0.2739982306957245,
+            "entropy": 2.3510801792144775,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 43670011,
+            "answer": "25",
+            "logit": 0.04868043586611748,
+            "entropy": 4.126090049743652,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 437284000,
+            "answer": "2",
+            "logit": 0.4733671247959137,
+            "entropy": 2.191067934036255,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 437370000,
+            "answer": "25",
+            "logit": 0.05799093097448349,
+            "entropy": 4.117641448974609,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 437497004,
+            "answer": "7",
+            "logit": 0.0930175930261612,
+            "entropy": 3.3393630981445312,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 437497011,
+            "answer": "1",
+            "logit": 0.07326330244541168,
+            "entropy": 3.537909984588623,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 575465001,
+            "answer": "2",
+            "logit": 0.12518355250358582,
+            "entropy": 3.715884208679199,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 176037006,
+            "answer": "10",
+            "logit": 0.03967614099383354,
+            "entropy": 4.138430595397949,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 438258003,
+            "answer": "0",
+            "logit": 0.34226730465888977,
+            "entropy": 2.7055368423461914,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 438862002,
+            "answer": "8",
+            "logit": 0.36672720313072205,
+            "entropy": 2.138478994369507,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 95039003,
+            "answer": "25",
+            "logit": 0.09606917202472687,
+            "entropy": 3.644178867340088,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 189213001,
+            "answer": "13",
+            "logit": 0.1242266446352005,
+            "entropy": 3.224008798599243,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 570643007,
+            "answer": "4",
+            "logit": 0.15153604745864868,
+            "entropy": 2.572662115097046,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 439593001,
+            "answer": "2",
+            "logit": 0.186960369348526,
+            "entropy": 3.5461716651916504,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 570866000,
+            "answer": "13",
+            "logit": 0.0720616951584816,
+            "entropy": 3.7631819248199463,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 46859000,
+            "answer": "11",
+            "logit": 0.10425898432731628,
+            "entropy": 3.358623504638672,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 313647006,
+            "answer": "0",
+            "logit": 0.08313601464033127,
+            "entropy": 4.01031494140625,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 309366001,
+            "answer": "3",
+            "logit": 0.3178792893886566,
+            "entropy": 1.9442204236984253,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 571584019,
+            "answer": "41",
+            "logit": 0.06832309812307358,
+            "entropy": 4.038236618041992,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 440554001,
+            "answer": "1",
+            "logit": 0.21733903884887695,
+            "entropy": 2.8391401767730713,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 47394000,
+            "answer": "13",
+            "logit": 0.08231242001056671,
+            "entropy": 3.4495182037353516,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 440617001,
+            "answer": "1",
+            "logit": 0.2216511368751526,
+            "entropy": 3.1243674755096436,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 178683002,
+            "answer": "25",
+            "logit": 0.2269701063632965,
+            "entropy": 3.3629207611083984,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 309802006,
+            "answer": "0",
+            "logit": 0.0613899827003479,
+            "entropy": 4.182008266448975,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 48044000,
+            "answer": "1",
+            "logit": 0.44093719124794006,
+            "entropy": 2.1547489166259766,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 441442004,
+            "answer": "4",
+            "logit": 0.1144370287656784,
+            "entropy": 3.043262004852295,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 179599001,
+            "answer": "24",
+            "logit": 0.053830839693546295,
+            "entropy": 4.155882835388184,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 441841002,
+            "answer": "6",
+            "logit": 0.2791493833065033,
+            "entropy": 3.0005955696105957,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 310882001,
+            "answer": "2",
+            "logit": 0.14206913113594055,
+            "entropy": 3.5743911266326904,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 442165002,
+            "answer": "25",
+            "logit": 0.08082050085067749,
+            "entropy": 3.765674591064453,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 49005004,
+            "answer": "2",
+            "logit": 0.12033859640359879,
+            "entropy": 3.317997932434082,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 236010002,
+            "answer": "24",
+            "logit": 0.05689644068479538,
+            "entropy": 4.105855941772461,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 49236001,
+            "answer": "2",
+            "logit": 0.12424129247665405,
+            "entropy": 3.463738203048706,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 180510000,
+            "answer": "52",
+            "logit": 0.16444361209869385,
+            "entropy": 3.7603960037231445,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 180784000,
+            "answer": "9",
+            "logit": 0.05726362019777298,
+            "entropy": 4.235995769500732,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 181007002,
+            "answer": "40",
+            "logit": 0.2530844211578369,
+            "entropy": 2.009201765060425,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 50124015,
+            "answer": "41",
+            "logit": 0.13247717916965485,
+            "entropy": 3.6111316680908203,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 50124022,
+            "answer": "41",
+            "logit": 0.12003254890441895,
+            "entropy": 3.741755247116089,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 574823001,
+            "answer": "10",
+            "logit": 0.07097340375185013,
+            "entropy": 3.5383777618408203,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 312692007,
+            "answer": "2",
+            "logit": 0.16244885325431824,
+            "entropy": 3.768385410308838,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 50627002,
+            "answer": "9",
+            "logit": 0.21995316445827484,
+            "entropy": 2.767932653427124,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 444302003,
+            "answer": "20",
+            "logit": 0.3039822578430176,
+            "entropy": 2.396064043045044,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 182339003,
+            "answer": "5",
+            "logit": 0.08529669046401978,
+            "entropy": 3.7423577308654785,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 313623003,
+            "answer": "40",
+            "logit": 0.14626382291316986,
+            "entropy": 3.306248664855957,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 51540001,
+            "answer": "0",
+            "logit": 0.5907688140869141,
+            "entropy": 1.6464375257492065,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 445561004,
+            "answer": "0",
+            "logit": 0.23897060751914978,
+            "entropy": 2.972212314605713,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 445606000,
+            "answer": "5",
+            "logit": 0.05636563524603844,
+            "entropy": 3.913640260696411,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 183571000,
+            "answer": "23",
+            "logit": 0.0657438114285469,
+            "entropy": 3.719963550567627,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 184405002,
+            "answer": "7",
+            "logit": 0.15639515221118927,
+            "entropy": 2.759103775024414,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 184667002,
+            "answer": "0",
+            "logit": 0.13325291872024536,
+            "entropy": 3.501559257507324,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 316123000,
+            "answer": "11",
+            "logit": 0.1470768004655838,
+            "entropy": 2.808915376663208,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 316189001,
+            "answer": "0",
+            "logit": 0.08211417496204376,
+            "entropy": 4.014057636260986,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 316397001,
+            "answer": "2",
+            "logit": 0.09206415712833405,
+            "entropy": 3.609524965286255,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 316397003,
+            "answer": "8",
+            "logit": 0.09274505823850632,
+            "entropy": 3.2085254192352295,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 314880005,
+            "answer": "0",
+            "logit": 0.08031732589006424,
+            "entropy": 3.680229425430298,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 447558002,
+            "answer": "5",
+            "logit": 0.16187936067581177,
+            "entropy": 3.009183645248413,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 578964001,
+            "answer": "2",
+            "logit": 0.40068575739860535,
+            "entropy": 1.8959932327270508,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 185941003,
+            "answer": "38",
+            "logit": 0.11172840744256973,
+            "entropy": 3.808232545852661,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 96689000,
+            "answer": "2",
+            "logit": 0.1476401537656784,
+            "entropy": 3.5855140686035156,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 187144005,
+            "answer": "1",
+            "logit": 0.23688054084777832,
+            "entropy": 2.958489418029785,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 187240002,
+            "answer": "0",
+            "logit": 0.10419200360774994,
+            "entropy": 3.9333527088165283,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 187496002,
+            "answer": "13",
+            "logit": 0.08651101589202881,
+            "entropy": 3.340503215789795,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 56872000,
+            "answer": "7",
+            "logit": 0.14832770824432373,
+            "entropy": 2.9070215225219727,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 581262000,
+            "answer": "0",
+            "logit": 0.10566774755716324,
+            "entropy": 3.5184361934661865,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 319184004,
+            "answer": "33",
+            "logit": 0.07171674817800522,
+            "entropy": 3.7297844886779785,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 450695008,
+            "answer": "2",
+            "logit": 0.14615724980831146,
+            "entropy": 3.514084815979004,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 319655004,
+            "answer": "2",
+            "logit": 0.07822968810796738,
+            "entropy": 3.9994935989379883,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 57597000,
+            "answer": "33",
+            "logit": 0.053726207464933395,
+            "entropy": 3.8173274993896484,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 188766001,
+            "answer": "3",
+            "logit": 0.23295263946056366,
+            "entropy": 2.7022898197174072,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 58006004,
+            "answer": "24",
+            "logit": 0.04641275107860565,
+            "entropy": 4.070323944091797,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 58006009,
+            "answer": "2",
+            "logit": 0.049254052340984344,
+            "entropy": 4.0467915534973145,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 58006010,
+            "answer": "5",
+            "logit": 0.04713134095072746,
+            "entropy": 3.9612104892730713,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 451373021,
+            "answer": "1",
+            "logit": 0.1512698233127594,
+            "entropy": 3.367788553237915,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 320428002,
+            "answer": "3",
+            "logit": 0.10440633445978165,
+            "entropy": 3.79672908782959,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 451879002,
+            "answer": "8",
+            "logit": 0.1923699676990509,
+            "entropy": 2.589360237121582,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 320901002,
+            "answer": "1",
+            "logit": 0.1285179704427719,
+            "entropy": 3.5593504905700684,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 452201012,
+            "answer": "25",
+            "logit": 0.07036370038986206,
+            "entropy": 3.861124038696289,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 452201014,
+            "answer": "0",
+            "logit": 0.20191019773483276,
+            "entropy": 3.933537721633911,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 452201015,
+            "answer": "25",
+            "logit": 0.06301812082529068,
+            "entropy": 3.902113437652588,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 31711005,
+            "answer": "41",
+            "logit": 0.45898228883743286,
+            "entropy": 2.774263620376587,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 321516000,
+            "answer": "1",
+            "logit": 0.07489442825317383,
+            "entropy": 4.178714752197266,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 321804004,
+            "answer": "3",
+            "logit": 0.15518653392791748,
+            "entropy": 3.001664638519287,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 59744000,
+            "answer": "9",
+            "logit": 0.04872981831431389,
+            "entropy": 4.182845592498779,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 191096002,
+            "answer": "15",
+            "logit": 0.19323569536209106,
+            "entropy": 2.782961845397949,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 191270005,
+            "answer": "2",
+            "logit": 0.2948662042617798,
+            "entropy": 2.090217351913452,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 322785003,
+            "answer": "24",
+            "logit": 0.07680124044418335,
+            "entropy": 3.9801440238952637,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 322848001,
+            "answer": "25",
+            "logit": 0.07483770698308945,
+            "entropy": 3.8627405166625977,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 61175001,
+            "answer": "9",
+            "logit": 0.13177955150604248,
+            "entropy": 3.3295860290527344,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 323525003,
+            "answer": "5",
+            "logit": 0.08023573458194733,
+            "entropy": 3.6672120094299316,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 455005001,
+            "answer": "25",
+            "logit": 0.2284732460975647,
+            "entropy": 3.0219171047210693,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 455005003,
+            "answer": "25",
+            "logit": 0.27413374185562134,
+            "entropy": 3.07108736038208,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 359843022,
+            "answer": "0",
+            "logit": 0.91717928647995,
+            "entropy": 0.524802029132843,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 193108001,
+            "answer": "12",
+            "logit": 0.11169655621051788,
+            "entropy": 3.2181904315948486,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 62230003,
+            "answer": "23",
+            "logit": 0.07952073216438293,
+            "entropy": 3.7842438220977783,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 455624000,
+            "answer": "23",
+            "logit": 0.08925209939479828,
+            "entropy": 4.027647018432617,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 324891004,
+            "answer": "11",
+            "logit": 0.12947949767112732,
+            "entropy": 2.7979631423950195,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 324891010,
+            "answer": "9",
+            "logit": 0.1441725492477417,
+            "entropy": 2.6963930130004883,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 491215001,
+            "answer": "2",
+            "logit": 0.10317210853099823,
+            "entropy": 3.2338967323303223,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 326243001,
+            "answer": "10",
+            "logit": 0.12646490335464478,
+            "entropy": 3.331376552581787,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 326243005,
+            "answer": "10",
+            "logit": 0.15438994765281677,
+            "entropy": 3.117152214050293,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 64516000,
+            "answer": "12",
+            "logit": 0.17284700274467468,
+            "entropy": 3.0074732303619385,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 64723001,
+            "answer": "23",
+            "logit": 0.14522816240787506,
+            "entropy": 3.8351073265075684,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 458103000,
+            "answer": "2",
+            "logit": 0.07826308161020279,
+            "entropy": 3.5828895568847656,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 327225002,
+            "answer": "9",
+            "logit": 0.1339901238679886,
+            "entropy": 2.926191568374634,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 327225003,
+            "answer": "9",
+            "logit": 0.14740341901779175,
+            "entropy": 3.0394954681396484,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 196490001,
+            "answer": "1",
+            "logit": 0.1717609465122223,
+            "entropy": 3.718886137008667,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 196811010,
+            "answer": "4",
+            "logit": 0.08560239523649216,
+            "entropy": 3.314992904663086,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 197090016,
+            "answer": "0",
+            "logit": 0.4520195722579956,
+            "entropy": 2.541893482208252,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 295006000,
+            "answer": "25",
+            "logit": 0.17287209630012512,
+            "entropy": 3.435413360595703,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 66135002,
+            "answer": "52",
+            "logit": 0.1749463528394699,
+            "entropy": 3.6358532905578613,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 66135003,
+            "answer": "52",
+            "logit": 0.22523842751979828,
+            "entropy": 3.6865720748901367,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 328464002,
+            "answer": "23",
+            "logit": 0.044798389077186584,
+            "entropy": 4.388556957244873,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 462026000,
+            "answer": "23",
+            "logit": 0.08120664209127426,
+            "entropy": 4.0005574226379395,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 197716002,
+            "answer": "1",
+            "logit": 0.06503426283597946,
+            "entropy": 3.9994852542877197,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 66973000,
+            "answer": "3",
+            "logit": 0.3370712399482727,
+            "entropy": 2.303215980529785,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 67178000,
+            "answer": "2",
+            "logit": 0.36328479647636414,
+            "entropy": 2.7314093112945557,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 513681001,
+            "answer": "1",
+            "logit": 0.12491820007562637,
+            "entropy": 3.6399052143096924,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 329900006,
+            "answer": "10",
+            "logit": 0.04250282421708107,
+            "entropy": 4.0744452476501465,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 330055001,
+            "answer": "12",
+            "logit": 0.057024165987968445,
+            "entropy": 3.891486406326294,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 491921004,
+            "answer": "2",
+            "logit": 0.08338943123817444,
+            "entropy": 3.8736143112182617,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 68380004,
+            "answer": "1",
+            "logit": 0.06355874240398407,
+            "entropy": 4.258199214935303,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 295420003,
+            "answer": "0",
+            "logit": 0.14305968582630157,
+            "entropy": 3.640573024749756,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 68740001,
+            "answer": "12",
+            "logit": 0.0792052149772644,
+            "entropy": 3.9428091049194336,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 199842002,
+            "answer": "23",
+            "logit": 0.09125122427940369,
+            "entropy": 3.763827085494995,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 462031002,
+            "answer": "25",
+            "logit": 0.19854111969470978,
+            "entropy": 3.0947561264038086,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 462809000,
+            "answer": "25",
+            "logit": 0.2464364469051361,
+            "entropy": 3.1008241176605225,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 69668006,
+            "answer": "0",
+            "logit": 0.1530671864748001,
+            "entropy": 3.893907070159912,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 331959001,
+            "answer": "8",
+            "logit": 0.10970395803451538,
+            "entropy": 3.195502281188965,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 463325000,
+            "answer": "2",
+            "logit": 0.1340920776128769,
+            "entropy": 3.5111212730407715,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 70134008,
+            "answer": "3",
+            "logit": 0.36229076981544495,
+            "entropy": 2.2252402305603027,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 463605002,
+            "answer": "1",
+            "logit": 0.6600428819656372,
+            "entropy": 0.9638099670410156,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 120964000,
+            "answer": "23",
+            "logit": 0.06614857167005539,
+            "entropy": 4.154902458190918,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 249219000,
+            "answer": "38",
+            "logit": 0.07162513583898544,
+            "entropy": 4.084009647369385,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 333014003,
+            "answer": "10",
+            "logit": 0.09414694458246231,
+            "entropy": 3.4091765880584717,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 464087003,
+            "answer": "5",
+            "logit": 0.07853461802005768,
+            "entropy": 3.7548727989196777,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 464087004,
+            "answer": "5",
+            "logit": 0.08114511519670486,
+            "entropy": 3.775118112564087,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 464181002,
+            "answer": "23",
+            "logit": 0.09835551679134369,
+            "entropy": 3.9147286415100098,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 405047006,
+            "answer": "0",
+            "logit": 0.1451130211353302,
+            "entropy": 4.021140098571777,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 443038004,
+            "answer": "2",
+            "logit": 0.5893944501876831,
+            "entropy": 0.9370104670524597,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 334034002,
+            "answer": "25",
+            "logit": 0.06492569297552109,
+            "entropy": 3.8003149032592773,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 465664002,
+            "answer": "2",
+            "logit": 0.1158163771033287,
+            "entropy": 3.694941282272339,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 72507000,
+            "answer": "3",
+            "logit": 0.10444262623786926,
+            "entropy": 3.7254276275634766,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 334743001,
+            "answer": "10",
+            "logit": 0.12699739634990692,
+            "entropy": 3.441128969192505,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 558235001,
+            "answer": "52",
+            "logit": 0.27942657470703125,
+            "entropy": 3.433135509490967,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 203865003,
+            "answer": "41",
+            "logit": 0.32122230529785156,
+            "entropy": 3.38637638092041,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 203931000,
+            "answer": "9",
+            "logit": 0.096198171377182,
+            "entropy": 3.0968096256256104,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 203931003,
+            "answer": "8",
+            "logit": 0.12719228863716125,
+            "entropy": 3.064486265182495,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 466346003,
+            "answer": "0",
+            "logit": 0.1002446636557579,
+            "entropy": 4.1523518562316895,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 466449004,
+            "answer": "10",
+            "logit": 0.04764404520392418,
+            "entropy": 4.061669826507568,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 165164001,
+            "answer": "23",
+            "logit": 0.1004393994808197,
+            "entropy": 3.668048620223999,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 335887005,
+            "answer": "52",
+            "logit": 0.34304121136665344,
+            "entropy": 3.2925100326538086,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 73927000,
+            "answer": "25",
+            "logit": 0.08953061699867249,
+            "entropy": 3.627746820449829,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 417115006,
+            "answer": "0",
+            "logit": 0.10594671219587326,
+            "entropy": 3.816257953643799,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 417115009,
+            "answer": "1",
+            "logit": 0.06252813339233398,
+            "entropy": 3.8969764709472656,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 206290000,
+            "answer": "20",
+            "logit": 0.13130684196949005,
+            "entropy": 3.3972744941711426,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 75426010,
+            "answer": "2",
+            "logit": 0.19460472464561462,
+            "entropy": 3.1681108474731445,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 206613001,
+            "answer": "2",
+            "logit": 0.07140037417411804,
+            "entropy": 3.6280531883239746,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 76176005,
+            "answer": "0",
+            "logit": 0.6631483435630798,
+            "entropy": 1.7964047193527222,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 469529004,
+            "answer": "25",
+            "logit": 0.11366897821426392,
+            "entropy": 3.756682872772217,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 469529005,
+            "answer": "25",
+            "logit": 0.07744582742452621,
+            "entropy": 3.867112636566162,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 338625001,
+            "answer": "23",
+            "logit": 0.0722033753991127,
+            "entropy": 4.058473587036133,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 207670004,
+            "answer": "6",
+            "logit": 0.06254789978265762,
+            "entropy": 4.115113735198975,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 207670006,
+            "answer": "24",
+            "logit": 0.06370846927165985,
+            "entropy": 4.164254665374756,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 274931004,
+            "answer": "0",
+            "logit": 0.2340458631515503,
+            "entropy": 2.983376979827881,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 76956003,
+            "answer": "25",
+            "logit": 0.061987921595573425,
+            "entropy": 3.970069646835327,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 339344000,
+            "answer": "2",
+            "logit": 0.2270553559064865,
+            "entropy": 3.1738555431365967,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 339344001,
+            "answer": "2",
+            "logit": 0.309506893157959,
+            "entropy": 3.033447742462158,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 208524000,
+            "answer": "2",
+            "logit": 0.1365867555141449,
+            "entropy": 3.803142547607422,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 208524002,
+            "answer": "52",
+            "logit": 0.17386676371097565,
+            "entropy": 3.744831085205078,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 208524011,
+            "answer": "52",
+            "logit": 0.15519022941589355,
+            "entropy": 3.9648070335388184,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 208524015,
+            "answer": "52",
+            "logit": 0.1802777349948883,
+            "entropy": 3.757838487625122,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 471073002,
+            "answer": "8",
+            "logit": 0.16484999656677246,
+            "entropy": 2.717216968536377,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 209130003,
+            "answer": "13",
+            "logit": 0.08125618100166321,
+            "entropy": 3.5749809741973877,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 78638005,
+            "answer": "28",
+            "logit": 0.09316445142030716,
+            "entropy": 3.6865925788879395,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 78947000,
+            "answer": "2",
+            "logit": 0.11427774280309677,
+            "entropy": 3.685272693634033,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 472678017,
+            "answer": "0",
+            "logit": 0.26495257019996643,
+            "entropy": 3.155435800552368,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 79846000,
+            "answer": "7",
+            "logit": 0.3355509638786316,
+            "entropy": 1.928336262702942,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 473323000,
+            "answer": "25",
+            "logit": 0.06262604892253876,
+            "entropy": 3.7872166633605957,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 211189001,
+            "answer": "10",
+            "logit": 0.07149753719568253,
+            "entropy": 3.7826387882232666,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 211386002,
+            "answer": "41",
+            "logit": 0.34780848026275635,
+            "entropy": 2.98047137260437,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 342762000,
+            "answer": "44",
+            "logit": 0.034580521285533905,
+            "entropy": 4.23518705368042,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 80659003,
+            "answer": "4",
+            "logit": 0.17660634219646454,
+            "entropy": 2.7072415351867676,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 343325008,
+            "answer": "1",
+            "logit": 0.19217883050441742,
+            "entropy": 3.2351958751678467,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 344029000,
+            "answer": "1",
+            "logit": 0.07423346489667892,
+            "entropy": 4.106784820556641,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 344029008,
+            "answer": "1",
+            "logit": 0.08981061726808548,
+            "entropy": 3.775162696838379,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 344029028,
+            "answer": "2",
+            "logit": 0.13732855021953583,
+            "entropy": 3.2206320762634277,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 344229003,
+            "answer": "2",
+            "logit": 0.7054868340492249,
+            "entropy": 1.2795312404632568,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 475365001,
+            "answer": "9",
+            "logit": 0.0502956323325634,
+            "entropy": 4.115167140960693,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 475389005,
+            "answer": "38",
+            "logit": 0.07003903388977051,
+            "entropy": 4.254714488983154,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 82787001,
+            "answer": "23",
+            "logit": 0.08555841445922852,
+            "entropy": 3.8311171531677246,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 82812000,
+            "answer": "2",
+            "logit": 0.21876361966133118,
+            "entropy": 3.039874792098999,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 476339005,
+            "answer": "0",
+            "logit": 0.09477350860834122,
+            "entropy": 4.165125370025635,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 345376001,
+            "answer": "25",
+            "logit": 0.24015900492668152,
+            "entropy": 3.1998584270477295,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 214305001,
+            "answer": "6",
+            "logit": 0.08616911619901657,
+            "entropy": 3.452570915222168,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 83275004,
+            "answer": "25",
+            "logit": 0.21078315377235413,
+            "entropy": 3.424349069595337,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 345466003,
+            "answer": "30",
+            "logit": 0.09158045798540115,
+            "entropy": 3.507246255874634,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 476704002,
+            "answer": "38",
+            "logit": 0.10130559653043747,
+            "entropy": 3.937816619873047,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 477172002,
+            "answer": "6",
+            "logit": 0.05410436913371086,
+            "entropy": 4.217256546020508,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 215524002,
+            "answer": "2",
+            "logit": 0.12749245762825012,
+            "entropy": 3.858610153198242,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 477671002,
+            "answer": "2",
+            "logit": 0.12730403244495392,
+            "entropy": 3.813628673553467,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 346716000,
+            "answer": "9",
+            "logit": 0.12995997071266174,
+            "entropy": 3.2586536407470703,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 478225001,
+            "answer": "2",
+            "logit": 0.1677071899175644,
+            "entropy": 3.5505311489105225,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 478225002,
+            "answer": "52",
+            "logit": 0.1443837732076645,
+            "entropy": 3.733332872390747,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 494863000,
+            "answer": "2",
+            "logit": 0.3046371638774872,
+            "entropy": 2.9672951698303223,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 145383000,
+            "answer": "0",
+            "logit": 0.20811402797698975,
+            "entropy": 3.485772132873535,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 232769001,
+            "answer": "23",
+            "logit": 0.07972759008407593,
+            "entropy": 3.4878945350646973,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 86001005,
+            "answer": "3",
+            "logit": 0.09241402894258499,
+            "entropy": 3.7384374141693115,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 86472000,
+            "answer": "2",
+            "logit": 0.6948680877685547,
+            "entropy": 1.0454232692718506,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 86483002,
+            "answer": "2",
+            "logit": 0.14372994005680084,
+            "entropy": 3.5032951831817627,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 218290002,
+            "answer": "25",
+            "logit": 0.18690946698188782,
+            "entropy": 3.169661045074463,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 218290006,
+            "answer": "25",
+            "logit": 0.1897052526473999,
+            "entropy": 3.2026822566986084,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 218290012,
+            "answer": "25",
+            "logit": 0.15982942283153534,
+            "entropy": 3.2637360095977783,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 87393004,
+            "answer": "15",
+            "logit": 0.12824945151805878,
+            "entropy": 3.2255513668060303,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 407783009,
+            "answer": "2",
+            "logit": 0.09105664491653442,
+            "entropy": 3.424386501312256,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 87503003,
+            "answer": "2",
+            "logit": 0.3288135826587677,
+            "entropy": 2.9964239597320557,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 167588007,
+            "answer": "0",
+            "logit": 0.4239111840724945,
+            "entropy": 2.507976770401001,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 219283008,
+            "answer": "1",
+            "logit": 0.32364222407341003,
+            "entropy": 2.2073915004730225,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 220025003,
+            "answer": "9",
+            "logit": 0.12609471380710602,
+            "entropy": 3.2314653396606445,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 88967002,
+            "answer": "2",
+            "logit": 0.26261773705482483,
+            "entropy": 2.7469475269317627,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 351130000,
+            "answer": "1",
+            "logit": 0.1711723357439041,
+            "entropy": 3.358992576599121,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 408047000,
+            "answer": "38",
+            "logit": 0.10121486335992813,
+            "entropy": 3.954277276992798,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 351140003,
+            "answer": "23",
+            "logit": 0.10727117955684662,
+            "entropy": 3.763136386871338,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 89021001,
+            "answer": "12",
+            "logit": 0.20068404078483582,
+            "entropy": 3.09590482711792,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 89362003,
+            "answer": "25",
+            "logit": 0.12280481308698654,
+            "entropy": 3.248893976211548,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 483352003,
+            "answer": "3",
+            "logit": 0.2710128128528595,
+            "entropy": 2.084792375564575,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 483352006,
+            "answer": "6",
+            "logit": 0.20327691733837128,
+            "entropy": 2.28780198097229,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 484028005,
+            "answer": "1",
+            "logit": 0.10159341990947723,
+            "entropy": 3.5510051250457764,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 484279003,
+            "answer": "38",
+            "logit": 0.08271191269159317,
+            "entropy": 4.074968338012695,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 484842004,
+            "answer": "5",
+            "logit": 0.16378940641880035,
+            "entropy": 3.071068286895752,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 91643002,
+            "answer": "2",
+            "logit": 0.10132218897342682,
+            "entropy": 3.7219409942626953,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 91715009,
+            "answer": "0",
+            "logit": 0.27182650566101074,
+            "entropy": 3.295304298400879,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 430359007,
+            "answer": "25",
+            "logit": 0.16229353845119476,
+            "entropy": 3.636039972305298,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 223020003,
+            "answer": "2",
+            "logit": 0.10286525636911392,
+            "entropy": 3.3702194690704346,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 92131002,
+            "answer": "38",
+            "logit": 0.16096074879169464,
+            "entropy": 3.9352827072143555,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 485406001,
+            "answer": "2",
+            "logit": 0.11841332167387009,
+            "entropy": 3.269083023071289,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 223335006,
+            "answer": "6",
+            "logit": 0.12660695612430573,
+            "entropy": 3.8695013523101807,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 485564002,
+            "answer": "1",
+            "logit": 0.10628028213977814,
+            "entropy": 3.2675538063049316,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 223643000,
+            "answer": "0",
+            "logit": 0.6024191975593567,
+            "entropy": 1.7465431690216064,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 92700001,
+            "answer": "23",
+            "logit": 0.08041264116764069,
+            "entropy": 3.818544864654541,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 355370005,
+            "answer": "0",
+            "logit": 0.32007718086242676,
+            "entropy": 3.1025776863098145,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 486694001,
+            "answer": "2",
+            "logit": 0.3553140163421631,
+            "entropy": 2.6879653930664062,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 356094002,
+            "answer": "23",
+            "logit": 0.094960518181324,
+            "entropy": 3.4075775146484375,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 225177001,
+            "answer": "23",
+            "logit": 0.12373916804790497,
+            "entropy": 3.6225979328155518,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 225177025,
+            "answer": "23",
+            "logit": 0.13438846170902252,
+            "entropy": 3.6627752780914307,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 487450008,
+            "answer": "0",
+            "logit": 0.8043943047523499,
+            "entropy": 1.0246117115020752,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 496313000,
+            "answer": "41",
+            "logit": 0.04470192641019821,
+            "entropy": 4.184545516967773,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 496313002,
+            "answer": "41",
+            "logit": 0.04204234108328819,
+            "entropy": 4.245865345001221,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 225378006,
+            "answer": "7",
+            "logit": 0.09139751642942429,
+            "entropy": 3.301788091659546,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 94319001,
+            "answer": "6",
+            "logit": 0.15276581048965454,
+            "entropy": 3.9089767932891846,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 357748003,
+            "answer": "50",
+            "logit": 0.07429634034633636,
+            "entropy": 4.015615463256836,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 489088000,
+            "answer": "10",
+            "logit": 0.1318344622850418,
+            "entropy": 2.9990525245666504,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 227033001,
+            "answer": "3",
+            "logit": 0.09204666316509247,
+            "entropy": 3.521592855453491,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 227220004,
+            "answer": "0",
+            "logit": 0.33853089809417725,
+            "entropy": 3.444634199142456,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 227224006,
+            "answer": "6",
+            "logit": 0.47222113609313965,
+            "entropy": 1.832142949104309,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 227468003,
+            "answer": "0",
+            "logit": 0.21435245871543884,
+            "entropy": 3.055657148361206,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 489799003,
+            "answer": "13",
+            "logit": 0.051673147827386856,
+            "entropy": 3.7698988914489746,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 227884002,
+            "answer": "3",
+            "logit": 0.2033943086862564,
+            "entropy": 2.667789936065674,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 227893009,
+            "answer": "0",
+            "logit": 0.09069497883319855,
+            "entropy": 4.308857440948486,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 227893013,
+            "answer": "38",
+            "logit": 0.062466640025377274,
+            "entropy": 4.267061233520508,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 227893026,
+            "answer": "0",
+            "logit": 0.06732656061649323,
+            "entropy": 4.22041654586792,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 359232007,
+            "answer": "13",
+            "logit": 0.04775038734078407,
+            "entropy": 3.893447160720825,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 359232009,
+            "answer": "10",
+            "logit": 0.07810328155755997,
+            "entropy": 3.5546677112579346,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 359232012,
+            "answer": "13",
+            "logit": 0.06283342093229294,
+            "entropy": 3.6742684841156006,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 490683001,
+            "answer": "23",
+            "logit": 0.10051678121089935,
+            "entropy": 3.740922451019287,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 228771006,
+            "answer": "49",
+            "logit": 0.09256007522344589,
+            "entropy": 4.126807689666748,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 228771010,
+            "answer": "49",
+            "logit": 0.1411081999540329,
+            "entropy": 4.03872537612915,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 97899001,
+            "answer": "0",
+            "logit": 0.23556388914585114,
+            "entropy": 3.755455732345581,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 229601001,
+            "answer": "25",
+            "logit": 0.09739042073488235,
+            "entropy": 3.729581832885742,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 360716001,
+            "answer": "0",
+            "logit": 0.09168002009391785,
+            "entropy": 3.795628786087036,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 431523001,
+            "answer": "2",
+            "logit": 0.2059488147497177,
+            "entropy": 3.07269549369812,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 361245001,
+            "answer": "23",
+            "logit": 0.08407682925462723,
+            "entropy": 4.123120307922363,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 230450004,
+            "answer": "0",
+            "logit": 0.29319146275520325,
+            "entropy": 2.9672610759735107,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 361763000,
+            "answer": "9",
+            "logit": 0.20894548296928406,
+            "entropy": 2.5618603229522705,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 492840011,
+            "answer": "25",
+            "logit": 0.08778201788663864,
+            "entropy": 3.5304694175720215,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 99984004,
+            "answer": "40",
+            "logit": 0.25109022855758667,
+            "entropy": 2.183444023132324,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 362563010,
+            "answer": "0",
+            "logit": 0.5933057069778442,
+            "entropy": 2.1901473999023438,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 362986001,
+            "answer": "1",
+            "logit": 0.16261593997478485,
+            "entropy": 3.5840070247650146,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 101022000,
+            "answer": "30",
+            "logit": 0.11048655956983566,
+            "entropy": 3.5825915336608887,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 232160000,
+            "answer": "0",
+            "logit": 0.7096959948539734,
+            "entropy": 1.4272586107254028,
+            "iscorrect": false,
+            "score": 2
+        },
+        {
+            "question_id": 232243004,
+            "answer": "9",
+            "logit": 0.08355385065078735,
+            "entropy": 3.2832744121551514,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 494566002,
+            "answer": "24",
+            "logit": 0.040726687759160995,
+            "entropy": 4.298983097076416,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 232503002,
+            "answer": "1",
+            "logit": 0.04821762815117836,
+            "entropy": 4.0151753425598145,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 232544000,
+            "answer": "23",
+            "logit": 0.17406877875328064,
+            "entropy": 3.420621395111084,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 494855001,
+            "answer": "13",
+            "logit": 0.06851381063461304,
+            "entropy": 3.7229185104370117,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 232985001,
+            "answer": "6",
+            "logit": 0.05279700458049774,
+            "entropy": 3.813477039337158,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 364073000,
+            "answer": "25",
+            "logit": 0.24010403454303741,
+            "entropy": 3.2422378063201904,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 364073002,
+            "answer": "25",
+            "logit": 0.2565106153488159,
+            "entropy": 3.0492897033691406,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 233527000,
+            "answer": "41",
+            "logit": 0.19055908918380737,
+            "entropy": 3.669995069503784,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 233727007,
+            "answer": "4",
+            "logit": 0.041385021060705185,
+            "entropy": 4.102089881896973,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 365095003,
+            "answer": "8",
+            "logit": 0.25173282623291016,
+            "entropy": 2.716257333755493,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 496207000,
+            "answer": "38",
+            "logit": 0.1435283124446869,
+            "entropy": 3.630650281906128,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 496307000,
+            "answer": "0",
+            "logit": 0.08456649631261826,
+            "entropy": 3.9586498737335205,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 234953002,
+            "answer": "4",
+            "logit": 0.10900220274925232,
+            "entropy": 3.1111011505126953,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 235380000,
+            "answer": "0",
+            "logit": 0.6151488423347473,
+            "entropy": 1.7967736721038818,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 366714001,
+            "answer": "1",
+            "logit": 0.2941659688949585,
+            "entropy": 2.6689155101776123,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 497838001,
+            "answer": "25",
+            "logit": 0.057225361466407776,
+            "entropy": 4.19647741317749,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 366950002,
+            "answer": "0",
+            "logit": 0.037620775401592255,
+            "entropy": 4.386378765106201,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 498274000,
+            "answer": "0",
+            "logit": 0.09588232636451721,
+            "entropy": 3.9899909496307373,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 498274003,
+            "answer": "0",
+            "logit": 0.3001459836959839,
+            "entropy": 3.3601269721984863,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 367205000,
+            "answer": "0",
+            "logit": 0.3674253523349762,
+            "entropy": 2.671971559524536,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 105150000,
+            "answer": "3",
+            "logit": 0.13971324265003204,
+            "entropy": 2.9270665645599365,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 367900001,
+            "answer": "2",
+            "logit": 0.3602101802825928,
+            "entropy": 3.1208677291870117,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 499177001,
+            "answer": "6",
+            "logit": 0.18980245292186737,
+            "entropy": 2.9278669357299805,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 499428008,
+            "answer": "2",
+            "logit": 0.11728987842798233,
+            "entropy": 3.593731641769409,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 106722001,
+            "answer": "1",
+            "logit": 0.07513100653886795,
+            "entropy": 4.200212001800537,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 279933002,
+            "answer": "52",
+            "logit": 0.09888686239719391,
+            "entropy": 4.108104228973389,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 368884001,
+            "answer": "4",
+            "logit": 0.1920260339975357,
+            "entropy": 2.193640947341919,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 369675001,
+            "answer": "2",
+            "logit": 0.4077647924423218,
+            "entropy": 2.920886993408203,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 107582002,
+            "answer": "23",
+            "logit": 0.1064237430691719,
+            "entropy": 3.74522066116333,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 542260001,
+            "answer": "23",
+            "logit": 0.14219750463962555,
+            "entropy": 3.3959896564483643,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 107839035,
+            "answer": "0",
+            "logit": 0.9404541850090027,
+            "entropy": 0.3757147789001465,
+            "iscorrect": false,
+            "score": 3
+        },
+        {
+            "question_id": 160726002,
+            "answer": "2",
+            "logit": 0.5244259238243103,
+            "entropy": 1.2778711318969727,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 239355001,
+            "answer": "23",
+            "logit": 0.11561959981918335,
+            "entropy": 3.935361862182617,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 240185000,
+            "answer": "6",
+            "logit": 0.07842899858951569,
+            "entropy": 4.006168365478516,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 371309001,
+            "answer": "11",
+            "logit": 0.06755732744932175,
+            "entropy": 3.662522792816162,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 371330002,
+            "answer": "0",
+            "logit": 0.1339024156332016,
+            "entropy": 3.8029282093048096,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 502895001,
+            "answer": "52",
+            "logit": 0.1947231888771057,
+            "entropy": 3.7617082595825195,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 502895006,
+            "answer": "52",
+            "logit": 0.19986967742443085,
+            "entropy": 3.9033660888671875,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 372024003,
+            "answer": "1",
+            "logit": 0.1181035116314888,
+            "entropy": 3.3641388416290283,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 503108002,
+            "answer": "38",
+            "logit": 0.06750870496034622,
+            "entropy": 4.0841851234436035,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 241273006,
+            "answer": "0",
+            "logit": 0.1996670365333557,
+            "entropy": 4.120092391967773,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 372413003,
+            "answer": "0",
+            "logit": 0.18655924499034882,
+            "entropy": 3.0604538917541504,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 372494002,
+            "answer": "25",
+            "logit": 0.18280765414237976,
+            "entropy": 3.2167015075683594,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 503667004,
+            "answer": "0",
+            "logit": 0.09246736019849777,
+            "entropy": 4.17909049987793,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 111179001,
+            "answer": "12",
+            "logit": 0.23529060184955597,
+            "entropy": 3.9238760471343994,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 111244002,
+            "answer": "3",
+            "logit": 0.16068615019321442,
+            "entropy": 2.6546454429626465,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 111448000,
+            "answer": "6",
+            "logit": 0.3143277168273926,
+            "entropy": 1.8355445861816406,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 111448001,
+            "answer": "6",
+            "logit": 0.33033546805381775,
+            "entropy": 2.0125818252563477,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 111817005,
+            "answer": "1",
+            "logit": 0.9859866499900818,
+            "entropy": 0.08941176533699036,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 505099003,
+            "answer": "15",
+            "logit": 0.1018870547413826,
+            "entropy": 3.3670196533203125,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 374487003,
+            "answer": "38",
+            "logit": 0.041333429515361786,
+            "entropy": 4.25637149810791,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 505739003,
+            "answer": "8",
+            "logit": 0.4969598054885864,
+            "entropy": 1.8089762926101685,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 505934001,
+            "answer": "25",
+            "logit": 0.1480475813150406,
+            "entropy": 3.4239068031311035,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 374886002,
+            "answer": "23",
+            "logit": 0.048848461359739304,
+            "entropy": 4.204843044281006,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 243867006,
+            "answer": "0",
+            "logit": 0.13348270952701569,
+            "entropy": 3.7051761150360107,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 112816005,
+            "answer": "6",
+            "logit": 0.20139414072036743,
+            "entropy": 2.660407781600952,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 112816006,
+            "answer": "6",
+            "logit": 0.1796986311674118,
+            "entropy": 3.046205520629883,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 112841016,
+            "answer": "3",
+            "logit": 0.208875373005867,
+            "entropy": 2.275834560394287,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 244050001,
+            "answer": "10",
+            "logit": 0.14587584137916565,
+            "entropy": 3.0814170837402344,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 507330011,
+            "answer": "38",
+            "logit": 0.3803470730781555,
+            "entropy": 2.747326612472534,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 245432002,
+            "answer": "2",
+            "logit": 0.1603190004825592,
+            "entropy": 3.6013004779815674,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 114414001,
+            "answer": "2",
+            "logit": 0.10764326900243759,
+            "entropy": 3.541295289993286,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 376564000,
+            "answer": "0",
+            "logit": 0.20884929597377777,
+            "entropy": 3.593759536743164,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 507663008,
+            "answer": "0",
+            "logit": 0.2942999601364136,
+            "entropy": 3.1382317543029785,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 507663017,
+            "answer": "0",
+            "logit": 0.21894009411334991,
+            "entropy": 3.2744011878967285,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 507663018,
+            "answer": "0",
+            "logit": 0.32945892214775085,
+            "entropy": 3.0542349815368652,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 114481000,
+            "answer": "15",
+            "logit": 0.10630036145448685,
+            "entropy": 3.441521406173706,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 114481001,
+            "answer": "15",
+            "logit": 0.12443079799413681,
+            "entropy": 3.3288774490356445,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 507975000,
+            "answer": "4",
+            "logit": 0.28842175006866455,
+            "entropy": 1.9923923015594482,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 246040002,
+            "answer": "0",
+            "logit": 0.09388944506645203,
+            "entropy": 3.9556429386138916,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 377385004,
+            "answer": "0",
+            "logit": 0.9437729716300964,
+            "entropy": 0.3520982265472412,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 377723000,
+            "answer": "23",
+            "logit": 0.07778318971395493,
+            "entropy": 4.037282466888428,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 246666001,
+            "answer": "4",
+            "logit": 0.2302790731191635,
+            "entropy": 2.34885573387146,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 509028002,
+            "answer": "38",
+            "logit": 0.08865031599998474,
+            "entropy": 3.9990477561950684,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 377999002,
+            "answer": "0",
+            "logit": 0.10917167365550995,
+            "entropy": 3.8995556831359863,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 116667001,
+            "answer": "0",
+            "logit": 0.25279027223587036,
+            "entropy": 3.129263401031494,
+            "iscorrect": true,
+            "score": 2
+        },
+        {
+            "question_id": 378844002,
+            "answer": "20",
+            "logit": 0.2415047585964203,
+            "entropy": 2.4628541469573975,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 248148000,
+            "answer": "2",
+            "logit": 0.5393792986869812,
+            "entropy": 2.0207016468048096,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 434583000,
+            "answer": "10",
+            "logit": 0.06835243105888367,
+            "entropy": 3.8052077293395996,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 434583007,
+            "answer": "5",
+            "logit": 0.08949971944093704,
+            "entropy": 3.369448184967041,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 510358008,
+            "answer": "41",
+            "logit": 0.05810311436653137,
+            "entropy": 4.113234043121338,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 281688003,
+            "answer": "2",
+            "logit": 0.09410359710454941,
+            "entropy": 3.839808225631714,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 117676002,
+            "answer": "13",
+            "logit": 0.08645878732204437,
+            "entropy": 3.4694604873657227,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 248752002,
+            "answer": "9",
+            "logit": 0.16818173229694366,
+            "entropy": 2.5359106063842773,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 511145001,
+            "answer": "6",
+            "logit": 0.08610476553440094,
+            "entropy": 4.105990886688232,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 118106006,
+            "answer": "0",
+            "logit": 0.05706355348229408,
+            "entropy": 3.9691708087921143,
+            "iscorrect": false,
+            "score": 1
+        },
+        {
+            "question_id": 381430006,
+            "answer": "7",
+            "logit": 0.12518559396266937,
+            "entropy": 2.944814443588257,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 119402000,
+            "answer": "1",
+            "logit": 0.048479799181222916,
+            "entropy": 4.093058109283447,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 381658003,
+            "answer": "52",
+            "logit": 0.16414004564285278,
+            "entropy": 3.466053009033203,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 250608001,
+            "answer": "9",
+            "logit": 0.06090811640024185,
+            "entropy": 4.004064083099365,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 120826004,
+            "answer": "2",
+            "logit": 0.12228124588727951,
+            "entropy": 3.5689258575439453,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 121503000,
+            "answer": "2",
+            "logit": 0.19146966934204102,
+            "entropy": 3.381504774093628,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 122039002,
+            "answer": "2",
+            "logit": 0.836846113204956,
+            "entropy": 0.7592090368270874,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 253557005,
+            "answer": "0",
+            "logit": 0.1788877695798874,
+            "entropy": 3.5155482292175293,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 385346002,
+            "answer": "41",
+            "logit": 0.040349919348955154,
+            "entropy": 4.106845855712891,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 123213000,
+            "answer": "18",
+            "logit": 0.03713648393750191,
+            "entropy": 4.27625846862793,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 123239032,
+            "answer": "2",
+            "logit": 0.23062461614608765,
+            "entropy": 2.789011240005493,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 385454000,
+            "answer": "5",
+            "logit": 0.06909026950597763,
+            "entropy": 4.038771629333496,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 385514005,
+            "answer": "13",
+            "logit": 0.08319301903247833,
+            "entropy": 3.310462474822998,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 12881003,
+            "answer": "25",
+            "logit": 0.20368191599845886,
+            "entropy": 3.112699508666992,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 124873010,
+            "answer": "0",
+            "logit": 0.8357260823249817,
+            "entropy": 0.8722038269042969,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 518203002,
+            "answer": "5",
+            "logit": 0.09994703531265259,
+            "entropy": 3.3889315128326416,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 387661004,
+            "answer": "3",
+            "logit": 0.18315498530864716,
+            "entropy": 2.663914442062378,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 387850003,
+            "answer": "4",
+            "logit": 0.1427559107542038,
+            "entropy": 3.1120831966400146,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 388215001,
+            "answer": "2",
+            "logit": 0.17611825466156006,
+            "entropy": 2.8815150260925293,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 388395012,
+            "answer": "24",
+            "logit": 0.06536838412284851,
+            "entropy": 4.164112567901611,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 388395014,
+            "answer": "2",
+            "logit": 0.060255467891693115,
+            "entropy": 3.9530110359191895,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 257359002,
+            "answer": "2",
+            "logit": 0.2981680631637573,
+            "entropy": 3.1493284702301025,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 519744028,
+            "answer": "0",
+            "logit": 0.5105220079421997,
+            "entropy": 2.0939788818359375,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 195851002,
+            "answer": "6",
+            "logit": 0.09619364887475967,
+            "entropy": 3.5278499126434326,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 257920005,
+            "answer": "2",
+            "logit": 0.10164210200309753,
+            "entropy": 3.9118142127990723,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 127044000,
+            "answer": "52",
+            "logit": 0.17472180724143982,
+            "entropy": 3.7843780517578125,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 127263000,
+            "answer": "13",
+            "logit": 0.060402657836675644,
+            "entropy": 3.7340519428253174,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 389644004,
+            "answer": "8",
+            "logit": 0.07059754431247711,
+            "entropy": 3.5991482734680176,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 520982001,
+            "answer": "9",
+            "logit": 0.24105101823806763,
+            "entropy": 2.738694667816162,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 520982003,
+            "answer": "9",
+            "logit": 0.2936996817588806,
+            "entropy": 2.5839738845825195,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 390068001,
+            "answer": "20",
+            "logit": 0.055279795080423355,
+            "entropy": 4.108438014984131,
+            "iscorrect": true,
+            "score": 4
+        },
+        {
+            "question_id": 521221004,
+            "answer": "25",
+            "logit": 0.05542294681072235,
+            "entropy": 3.9748802185058594,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 128142008,
+            "answer": "23",
+            "logit": 0.11922793835401535,
+            "entropy": 3.569932699203491,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 390401004,
+            "answer": "25",
+            "logit": 0.07071757316589355,
+            "entropy": 3.816208839416504,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 379636003,
+            "answer": "2",
+            "logit": 0.06127060204744339,
+            "entropy": 4.466888904571533,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 260238007,
+            "answer": "0",
+            "logit": 0.6960108280181885,
+            "entropy": 1.4514540433883667,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 391560001,
+            "answer": "52",
+            "logit": 0.07705491036176682,
+            "entropy": 4.078780651092529,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 129492010,
+            "answer": "0",
+            "logit": 0.6023305654525757,
+            "entropy": 1.7431869506835938,
+            "iscorrect": true,
+            "score": 3
+        },
+        {
+            "question_id": 129945000,
+            "answer": "5",
+            "logit": 0.15620945394039154,
+            "entropy": 2.8334896564483643,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 392144002,
+            "answer": "1",
+            "logit": 0.15561166405677795,
+            "entropy": 3.0935022830963135,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 523517002,
+            "answer": "25",
+            "logit": 0.1297721564769745,
+            "entropy": 3.4335756301879883,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 523517009,
+            "answer": "25",
+            "logit": 0.22770649194717407,
+            "entropy": 3.1656994819641113,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 392632004,
+            "answer": "25",
+            "logit": 0.14282305538654327,
+            "entropy": 3.2260324954986572,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 392632006,
+            "answer": "25",
+            "logit": 0.24518389999866486,
+            "entropy": 2.961630344390869,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 392632010,
+            "answer": "25",
+            "logit": 0.19306376576423645,
+            "entropy": 3.0744926929473877,
+            "iscorrect": false,
+            "score": 0
+        },
+        {
+            "question_id": 130712002,
+            "answer": "100",
+            "logit": 0.1886581927537918,
+            "entropy": 3.5754261016845703,
+            "iscorrect": false,
+            "score": 0
+        }
+    ],
+    "statistics": {
+        "0": 512,
+        "1": 21,
+        "2": 8,
+        "3": 14,
+        "4": 118
+    },
+    "metadata": {
+        "question_type": "what number is",
+        "correct": 129,
+        "all_num": 673,
+        "accuracy": 19.168
+    }
+}
