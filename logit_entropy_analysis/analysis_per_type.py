@@ -19,7 +19,14 @@ QUESTION_TYPE = [
     'who is',
     'which',
     'what',
-    'what is on the'
+    'what is on the',
+    'what is the',
+    'what type of',
+    'what is',
+    'what are the',
+    'what kind of',
+    'what is in the',
+    'how many'
 ]
 
 INDEX = 0
@@ -82,7 +89,7 @@ if __name__ == '__main__':
             if q['iscorrect']:
                 correct += 1
             djdj[q['score']] += 1
-            plt.plot(q['entropy'], q['logit'], marker='x', color=color[q['score']])
+            plt.plot(q['entropy'], q['logit'], marker='x', color=color[q['score']], markersize=2, lw=0.1, mew=0.15)
 
         plt.xlabel('entropy')
         plt.ylabel('logit')
