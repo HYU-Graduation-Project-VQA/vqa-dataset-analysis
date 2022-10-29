@@ -100,7 +100,7 @@ if __name__ == '__main__':
         
         plt.text(0, 0, result, fontsize=8)
 
-        plt.savefig('logit_entropy_analysis/results_image/{qtype}_result.png'.format(qtype=QUESTION_TYPE[i]), dpi=200)
+        plt.savefig('logit_entropy_analysis/results_image/{qtype}_result.png'.format(qtype=QUESTION_TYPE[i]), dpi=600)
 
         plt.cla()
         plt.clf()
