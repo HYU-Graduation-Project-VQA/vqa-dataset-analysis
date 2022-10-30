@@ -47,8 +47,7 @@ for qtype in tqdm.tqdm(QUESTION_TYPE):
                 exprs.append(json_file)
         for expe in range(len(experiment)):
             results[expe].append(exprs[expe][qtype])
-    # print(results)
-    
+
     for elem, c, l in zip(results, colors, labels):
         plt.plot(threshold, elem, color=c, label=l, marker='*')
     plt.xlabel('threshold')
@@ -57,7 +56,10 @@ for qtype in tqdm.tqdm(QUESTION_TYPE):
     plt.legend(loc='upper left')
     plt.title("Performance Analysis: \"{qtype}\"".format(qtype=qtype))
     plt.gcf().set_size_inches(13, 8.3)
-    plt.fill_between(threshold, results[0], results[2], color = 'orange', alpha = 0.3)
+
+    y1 = np.array(results[0]); y2 = np.array(results[2])
+    plt.fill_between(threshold, y1, y2, where=y1 <= y2, color = 'orange', alpha = 0.3, interpolate=True)
+    plt.fill_between(threshold, y1, y2, where=y1 >= y2, color = 'red', alpha = 0.3, interpolate=True)
     # mng = plt.get_current_fig_manager()
     # mng.full_screen_toggle()
 
