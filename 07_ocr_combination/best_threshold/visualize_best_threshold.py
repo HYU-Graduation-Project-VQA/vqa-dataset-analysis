@@ -7,7 +7,7 @@ def calculate_score(a, b, c, d, e):
 
 if __name__ == "__main__":
     scores = object()
-    with open("ocr_combination/best_threshold/score_distribution.json", "r") as f1:
+    with open("07_ocr_combination/best_threshold/score_distribution.json", "r") as f1:
         scores = json.load(f1)
 
     scores = scores[0]

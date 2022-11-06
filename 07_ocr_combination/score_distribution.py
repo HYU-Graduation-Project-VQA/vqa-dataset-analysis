@@ -2,7 +2,7 @@ import json
 import tqdm
 
 QUESTION_JSON = 'val2014_json/v2_mscoco_val2014_annotations.json'
-ENTROPY_JSON = 'logit_entropy_analysis/val_banc1280_logit_epoch12.json'
+ENTROPY_JSON = '08_improvement_test/val_banc1280_logit_epoch12_result.json'
 
 threshold = [3.0, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 4.0, 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9, 5.0]
 
